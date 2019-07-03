@@ -12,6 +12,8 @@
     # ru: 'Доступность основы'
     # zh-hans: '辅助功能基础知识'
   pages:
+  - name: Overview
+    url: "/fundamentals/"
   - name: Introduction to Accessibility
     url: "/fundamentals/accessibility-intro/"
     pages:
@@ -40,9 +42,15 @@
         hide: true
   - name: Components of Web Accessibility
     url: "/fundamentals/components/"
+    pages:
+    - name:
+        en: Illustration Descriptions
+      url: "/fundamentals/components/examples/"
+      hide: true
   - name:
       en: "Accessibility Principles"
       fr: "Principes d’accessibilité"
+      es: "Principios de accesibilidad"
     url: "/fundamentals/accessibility-principles/"
   - name: Perspectives Videos
     url: "/perspective-videos/"
@@ -288,7 +296,11 @@
     # ru: 'Стандарты и руководящие принципы'
     # zh-hans: '标准/准则'
   pages:
-  - name: Standards Overview
+  - name:
+      en: "Standards Overview"
+      fr: "Standards/Règles"
+      es: "Estándares/Pautas"
+      ko: "표준/지침"
     url: "/standards-guidelines/"
   - name: Web Content – WCAG
     url: "/standards-guidelines/wcag/"
@@ -338,7 +350,9 @@
     url: "/standards-guidelines/linking/"
   - name: Cognitive Accessibility at W3C
     url: "/cognitive/"
-  - name: Mobile Accessibility at W3C
+  - name:
+      en: Mobile Accessibility at W3C
+      es: Accesibilidad Móvil en el W3C
     url: "/standards-guidelines/mobile/"
 
 - name:
