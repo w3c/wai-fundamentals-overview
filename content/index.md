@@ -1,15 +1,20 @@
 ---
-title: Accessibility Fundamentals for Getting Started
-ref: /fundamentals/accessibility-intro/overview
-layout: default
+title: "Accessibility Fundamentals"
+permalink: /fundamentals/
+ref: /fundamentals/
+lang: en
+# translators: # Uncomment (remove #) for translations, one - name line per translator.
+# - name: Translator 1
+# - name: Translator 2
+# contributors:
+# - name: Contributor 1
+# - name: Contributor 2
 github:
-  repository: w3c/wai-intro-accessibility/overview
-  branch: gh-pages
-  path: overview.md
-  
+  repository: wai-fundamentals-overview
+  path: index.md
+footer: > # Text in footer in HTML
+  <p> This is the text in the footer </p>
 ---
-
-
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
