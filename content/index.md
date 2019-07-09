@@ -1,5 +1,5 @@
 ---
-title: "Accessibility Fundamentals"
+title: "Accessibility Fundamentals Overview"
 permalink: /fundamentals/
 ref: /fundamentals/
 lang: en
@@ -20,7 +20,7 @@ footer: > # Text in footer in HTML
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-@@
+@@ just notes for now thinking about approaches -- hopefully graphical, engaging, etc.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -127,5 +127,6 @@ There are examples throughout most of the resources.
 </ul>
   
 ## Specific Cases
+
 <p>For those wanting to know about older users ...</p>
 <p>... usability-Accessibility-Inclusion...</p>
