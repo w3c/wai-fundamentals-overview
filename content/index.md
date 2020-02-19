@@ -4,8 +4,8 @@ permalink: /fundamentals/
 ref: /fundamentals/
 lang: en
 github:
-  repository: wai-fundamentals-overview
-  path: index.md
+  repository: w3c/wai-fundamentals-overview
+  path: content/index.md
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 19 February 2020.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
