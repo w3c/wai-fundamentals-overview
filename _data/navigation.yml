@@ -12,7 +12,8 @@
     # ru: 'Доступность основы'
     # zh-hans: '辅助功能基础知识'
   pages:
-  - name: Overview
+  - name:
+      en: "Accessibility Fundamentals"
     url: "/fundamentals/"
   - name: Introduction to Accessibility
     url: "/fundamentals/accessibility-intro/"
