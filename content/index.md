@@ -26,7 +26,7 @@ accessibility:
 :   Helps developers, designers, and others to understand the principles  for creating accessible websites, web applications, browsers, and other web tools. Provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to [stories of web users](/people-use-web/user-stories/).
 
 [[Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]](/perspective-videos/)
-:   **Videos** that demonstrate that web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the [complication](https://www.youtube.com/watch?v=3f31oufqFSM) is 7:37. Pages include supporting information.
+:   **Videos** that demonstrate that web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) is 7:37. Pages include supporting information.
 
 [[How People with Disabilities Use the Web]](/people-use-web/)
 :   Introduces how people with disabilities use the web. Describes tools and approaches that people with different kinds of disabilities use to browse the web and the barriers they encounter due to poor design.
