@@ -7,7 +7,7 @@ github:
   repository: w3c/wai-fundamentals-overview
   path: content/index.md
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 19 February 2020.</p>
+  <p><strong>Date:</strong> Updated 19 August 2020.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -38,3 +38,5 @@ accessibility:
 
 [[Accessibility, Usability, and Inclusion]](/fundamentals/accessibility-usability-inclusion/)
 :   Explains the distinctions and overlaps between accessibility, usability, and inclusive design; encourages increased coordination across research and practice in these disciplines; and points out the importance of maintaining the focus of accessibility on people with disabilities.
+
+A related page introduces guidelines and resources on accessibility for people with cognitive and learning disabilities: [[Cognitive Accessibility at W3C]](https://www.w3.org/WAI/cognitive/).
