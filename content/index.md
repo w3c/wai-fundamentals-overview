@@ -3,17 +3,18 @@ title: "Accessibility Fundamentals Overview"
 permalink: /fundamentals/
 ref: /fundamentals/
 lang: en
+last_updated: 2020-08-19
 github:
   repository: w3c/wai-fundamentals-overview
   path: content/index.md
+feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 19 August 2020.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 ---
-The following resources provide information for getting started with
-accessibility:
+The following resources provide information for getting started with accessibility:
 
 [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/)
 :   Introduces web accessibility and links to additional resources.
