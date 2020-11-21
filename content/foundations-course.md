@@ -1,4 +1,26 @@
-## Digital Accessibility Foundations Course Online
+---
+title: "Digital Accessibility Foundations - Free Online Course"
+
+permalink: /fundamentals/foundations-course/
+ref: /fundamentals/foundations-course/
+
+lang: en
+last_updated: 2020-08-19
+
+github:
+  repository: w3c/wai-fundamentals-overview
+  path: content/foundations-course.md
+
+feedbackmail: wai@w3.org
+footer: > # Text in footer in HTML
+  <p><strong>Date:</strong> Draft in progress November 2020.</p>
+  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+
+---
+
+
+## 
 
 The online course "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" provides a strong foundation for making websites, apps, and other digital technology:
 
