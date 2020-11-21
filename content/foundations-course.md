@@ -39,13 +39,16 @@ The course is designed for **technical and non-technical** learners, including:
 - people with disabilities
 - others
 
-Optional course material helps you learn more about the topics you are most interested in. It covers:
+Optional course materials help you learn more about the topics you are most interested in. It covers:
 
 - What is Web Accessibility (2 sections)
 - People and Digital Technology (5 sections)
 - Business Case and Benefits (2 sections)
 - Principles, Standards, and Checks (5 sections)
 - Getting Started with Accessibility (2 sections)
+
+Example videos from two activities are available:
+* @@ TPAC, YouTube
 
 ## Duration
 
@@ -63,24 +66,29 @@ You can start auditing the course now, and later choose to get a Verified Certif
 
 Certificate Verification: For information on verification options and accessibility of the Verified Certificate process, see: [edX Help Center Accessibility pages](https://support.edx.org/hc/en-us/sections/360007007533-Accessibility). For a form and e-mail address to contact edX about accessibility, see: [edX Website Accessibility Policy](https://www.edx.org/accessibility).
 
-## Background
+## Learn more
+
+<blockquote class="pull right alt-1">
+  <p>In addition to being an excellent introduction for people who are new to accessibility, this course helps people who already know about accessibility fill in gaps. It covers resources from the WAI website, and helps you know how to find more information on multiple aspects of digital accessibility.</p>
+  <cite>Shawn Henry, W3C WAI Education and Outreach Coordinator</cite>
+</blockquote>
+
+The [course description on edX](https://www.edx.org/course/web-accessibility-introduction) has:
+- What you'll learn
+- Syllabus
+- Meet the instructors
+- Enroll button
+
+## Presented by
 
 The course is provided by the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) and UNESCO Institute for Information Technologies in Education (UNESCO IITE).
 
 This unique course is based on the [open curricula](https://www.w3.org/WAI/curricula/) from the W3C WAI Education and Outreach Working Group ([EOWG](https://www.w3.org/WAI/about/groups/eowg/)). It brings together international expert trainers from [Deque](https://www.deque.com/), [Infoaxia](https://infoaxia.co.jp/), [Intopia](https://intopia.digital/), [Knowbility](https://knowbility.org/), The Paciello Group ([TPG](https://www.paciellogroup.com/)), [Web Key IT](https://www.webkeyit.com/), and W3C.
 
-@@
-
-"*In addition to being an excellent introduction for people who are new to accessibility, this course helps people who already know about accessibility fill in gaps*" said Shawn Henry, W3C WAI Outreach Coordinator. "*It covers resources from the W3C Web Accessibility Initiative website, and helps you know how to find addition information on multiple aspects of digital accessibility*."
-
-Whether you are new to web accessibility or need a refresher, this course gives you the necessary skills to take first steps in accessibility and to know where to find more information - **[enroll now](https://www.edx.org/course/web-accessibility-introduction)**.
-
 ![Logo of UNESCO IITE](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
 
 @@ social media image in code
 
-@@ add inline? [Video overview of the "Introduction to Web Accessibility" online course](https://www.w3.org/2019/12/teaser-intro-web-accessibility-course.html)
+@@ add inline with player Video overview of the "Introduction to Web Accessibility" online course <!-- https://www.w3.org/2019/12/teaser-intro-web-accessibility-course.html -->
 
-@@ link to slh example videos
 
-- [Course description](https://www.edx.org/course/web-accessibility-introduction), including “What you'll learn”, syllabus, “Meet the instructors”, and Enroll
