@@ -29,6 +29,17 @@ The online course "**[Introduction to Web Accessibility](https://www.edx.org/cou
 
 ## Who it is for
 
+{% comment %}
+This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
+{% endcomment %}
+<div class="video-card">
+  {% include video-player.html
+      yt-id="HEvDJrwq5LY"
+      captions="/content/foundations-course-teaser-cc.vtt|en|default"
+  %}
+  <p>(<a href="#alternatives">video alternatives</a>)</p>
+</div>
+
 The course is designed for **technical and non-technical** learners, including:
 
 - developers
