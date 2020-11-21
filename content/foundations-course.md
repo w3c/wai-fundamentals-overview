@@ -16,11 +16,10 @@ footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Draft in progress November 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  
+image: https://www.w3.org/comm/assets/graphics/w3cx-accessibility-intro-twitter-only.png
 
 ---
-
-
-## 
 
 The online course "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" provides a strong foundation for making websites, apps, and other digital technology:
 
@@ -67,12 +66,12 @@ Certificate Verification: For information on verification options and accessibil
 
 <blockquote class="pull right alt-1">
   <p>In addition to being an excellent introduction for people who are new to accessibility, this course helps people who already know about accessibility fill in gaps. It covers resources from the WAI website, and helps you know how to find more information on multiple aspects of digital accessibility.</p>
-  <cite>Shawn Henry, W3C WAI Education and Outreach Coordinator</cite>
+  <cite>Shawn Lawton Henry, W3C WAI Education and Outreach Coordinator</cite>
 </blockquote>
 
 **Example videos from two course activities are available**:
-* @@ TPAC, YouTube
-* @@ TPAC, YouTube
+* [Reading with and without wrapping, on YouTube](https://www@@) _(alternative location: ([Reading wrapping on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html))_
+* [Challenging assumptions and understanding differences — Low vision activity, on YouTube](https://www@@) _(alternative location: [Low vision activity on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html))_
 
 The [course description on edX](https://www.edx.org/course/web-accessibility-introduction) has:
 - What you'll learn
@@ -87,8 +86,6 @@ The course is provided by the World Wide Web Consortium (W3C) Web Accessibility 
 This unique course is based on the [open curricula](https://www.w3.org/WAI/curricula/) from the W3C WAI Education and Outreach Working Group ([EOWG](https://www.w3.org/WAI/about/groups/eowg/)). It brings together international expert trainers from [Deque](https://www.deque.com/), [Infoaxia](https://infoaxia.co.jp/), [Intopia](https://intopia.digital/), [Knowbility](https://knowbility.org/), The Paciello Group ([TPG](https://www.paciellogroup.com/)), [Web Key IT](https://www.webkeyit.com/), and W3C.
 
 ![Logo of UNESCO IITE](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
-
-@@ social media image in code
 
 @@ add inline with player Video overview of the "Introduction to Web Accessibility" online course <!-- https://www.w3.org/2019/12/teaser-intro-web-accessibility-course.html -->
 
