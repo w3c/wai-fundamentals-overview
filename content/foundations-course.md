@@ -5,7 +5,7 @@ permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
 
 lang: en
-last_updated: 2020-08-19
+last_updated: 2020-11-24
 
 github:
   repository: w3c/wai-fundamentals-overview
@@ -47,9 +47,6 @@ Optional course materials help you learn more about the topics you are most inte
 - Principles, Standards, and Checks (5 sections)
 - Getting Started with Accessibility (2 sections)
 
-Example videos from two activities are available:
-* @@ TPAC, YouTube
-
 ## Duration
 
 The course is designed to take most people about **16-20 hours to complete**. It is listed as 4 weeks of  4-5 hours effort per week. It is **self-paced** so you can complete it in a shorter or longer time frame.
@@ -60,7 +57,7 @@ Through early 2021, the current course will be available via edX. We expect to k
 
 **The course is free.** The audit option gives you access to all of the content, including the graded assessments.
 
-Optionally, you can choose to get a **Verified Certificate** for $99 USD to demonstrate successful course completion. The Certificate can be printed, listed in resumes, and linked to from online resume or profile pages.
+Optionally, you can choose to get a **Verified Certificate** for $99 USD to demonstrate successful course completion. The Certificate can be printed, listed in resumes, and linked to from online profiles.
 
 You can start auditing the course now, and later choose to get a Verified Certificate.
 
@@ -72,6 +69,10 @@ Certificate Verification: For information on verification options and accessibil
   <p>In addition to being an excellent introduction for people who are new to accessibility, this course helps people who already know about accessibility fill in gaps. It covers resources from the WAI website, and helps you know how to find more information on multiple aspects of digital accessibility.</p>
   <cite>Shawn Henry, W3C WAI Education and Outreach Coordinator</cite>
 </blockquote>
+
+**Example videos from two course activities are available**:
+* @@ TPAC, YouTube
+* @@ TPAC, YouTube
 
 The [course description on edX](https://www.edx.org/course/web-accessibility-introduction) has:
 - What you'll learn
