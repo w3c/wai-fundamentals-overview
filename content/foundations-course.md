@@ -23,7 +23,7 @@ image: https://www.w3.org/comm/assets/graphics/w3cx-accessibility-intro-twitter-
 
 ---
 
-"**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" provides a strong foundation for making websites, apps, and other digital technology:
+The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" online course provides a strong foundation for making websites, apps, and other digital technology:
 
 -  work well for people with disabilities
 -  meet international standards
