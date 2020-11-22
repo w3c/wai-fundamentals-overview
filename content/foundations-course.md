@@ -83,8 +83,8 @@ edX Certificate Verification: For information on verification options and access
 </blockquote>
 
 **Example videos from two course activities**:
-* [Reading with and without wrapping, on YouTube](https://www@@) _(alternative location: ([Reading wrapping on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html))_
-* [Challenging assumptions and understanding differences — Low vision activity, on YouTube](https://www@@) _(alternative location: [Low vision activity on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html))_
+* [Reading with and without wrapping, on YouTube](https://www@@) _([reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html))_
+* [Low vision: Challenging assumptions and understanding differences, on YouTube](https://www@@) _([low vision video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html))_
 
 The **[course description on edX](https://www.edx.org/course/web-accessibility-introduction)** has:
 - What you'll learn
@@ -98,7 +98,9 @@ The course is provided by the World Wide Web Consortium (W3C) Web Accessibility 
 
 This unique course is based on the [open curricula](https://www.w3.org/WAI/curricula/) from the W3C WAI Education and Outreach Working Group ([EOWG](https://www.w3.org/WAI/about/groups/eowg/)). It brings together international expert trainers from [Deque](https://www.deque.com/), [Infoaxia](https://infoaxia.co.jp/), [Intopia](https://intopia.digital/), [Knowbility](https://knowbility.org/), The Paciello Group ([TPG](https://www.paciellogroup.com/)), [Web Key IT](https://www.webkeyit.com/), and W3C.
 
-![Logo of UNESCO IITE](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
+<br>
+
+![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative (WAI) logo](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
@@ -106,7 +108,7 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 {% include excol.html type="middle" %}
 
-_The introduction video is also available on W3C servers: [video for modern browsers](https://www.w3.org/2019/12/teaser-intro-web-accessibility-course.html) and [video mp4 file](https://www.w3.org/2019/12/teaser-intro-web-accessibility-course.mp4)._
+_The course introduction video is also available on W3C servers: [video for modern browsers](https://www.w3.org/2019/12/teaser-intro-web-accessibility-course.html) and [video mp4 file](https://www.w3.org/2019/12/teaser-intro-web-accessibility-course.mp4)._
 
 **Visual description:**
 * Opening and closing scene has:
