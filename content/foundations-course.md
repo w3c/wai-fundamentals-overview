@@ -23,7 +23,7 @@ image: https://www.w3.org/comm/assets/graphics/w3cx-accessibility-intro-twitter-
 
 ---
 
-The online course "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" provides a strong foundation for making websites, apps, and other digital technology:
+"**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" provides a strong foundation for making websites, apps, and other digital technology:
 
 -  work well for people with disabilities
 -  meet international standards
@@ -61,17 +61,21 @@ Optional course materials help you learn more about the topics you are most inte
 
 ## Duration
 
-The course is designed to take most people about **16-20 hours to complete**. It is listed as 4 weeks of  4-5 hours effort per week. It is **self-paced** so you can complete it in a shorter or longer time frame.
+The course is designed to take about **16-20 hours to complete** for most people. It is listed as 4 weeks of  4-5 hours effort per week.
 
-Through at least the first quarter of 2021, the current course will be available via the edX platform. We expect to keep an updated version of this course available long term.
+It is **self-paced** so you can complete it in a shorter or longer time frame.
+
+Through at least the first quarter of 2021, the current course will be available via the edX platform. We an updated version of this course to be available long term.
 
 ## Cost: Free, optional certificate
 
-{% include_cached blockquote.html class="pull alt-2 right" content="<p>This course is for beginngers &mdash; and also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>" source="Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator" %}
+{% include_cached blockquote.html class="pull alt-2 right" content="<p>This course is for beginners &mdash; and also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>" source="Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator" %}
 
 **The course is free.** The audit option gives you access to all of the content, including the graded assessments.
 
-Optionally, you can choose to get a **Verified Certificate** for $99 USD to demonstrate successful course completion. The Certificate can be printed, listed in resumes, and linked to from online profiles.
+Optionally, you can choose to get a **Verified Certificate** for $99 USD to demonstrate successful course completion.
+
+The Certificate can be printed, listed in resumes, and linked to from online profiles.
 
 You can start auditing the course now, and later choose to get a Verified Certificate.
 
@@ -79,9 +83,9 @@ _(For information about edX certificate verification and accessibility, see: [ed
 
 ## Learn more
 
-**Example videos from two course activities**:
-* [Reading with and without wrapping, on YouTube](https://www@@)<br>_([reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
-* [Low vision: Challenging assumptions and understanding differences, on YouTube](https://www@@)<br>_([low vision video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
+**Example videos from course activities**:
+* [Reading with and without text wrapping, on YouTube](https://youtu.be/5nlcEgJGIs8)<br>_([same reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
+* [Low vision: Challenging assumptions and understanding differences, on YouTube](https://youtu.be/JUfmCvdzqbM)<br>_([same low vision video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
 
 The **[course description on edX](https://www.edx.org/course/web-accessibility-introduction)** has:
 - What you'll learn
@@ -89,11 +93,11 @@ The **[course description on edX](https://www.edx.org/course/web-accessibility-i
 - Meet the instructors
 - **Enroll button**
 
-## Presented by
+## Provided by
 
 The course is provided by the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) and UNESCO Institute for Information Technologies in Education (UNESCO IITE).
 
-This unique course is based on the [open curricula](https://www.w3.org/WAI/curricula/) from the W3C WAI Education and Outreach Working Group ([EOWG](https://www.w3.org/WAI/about/groups/eowg/)). It brings together international expert trainers from [Deque](https://www.deque.com/), [Infoaxia](https://infoaxia.co.jp/), [Intopia](https://intopia.digital/), [Knowbility](https://knowbility.org/), The Paciello Group ([TPG](https://www.paciellogroup.com/)), [Web Key IT](https://www.webkeyit.com/), and W3C.
+This unique course is based on the [open curricula](https://www.w3.org/WAI/curricula/) from the W3C WAI Education and Outreach Working Group ([EOWG](https://www.w3.org/WAI/about/groups/eowg/)). It brings together international expert trainers from [Deque](https://www.deque.com/), [Infoaxia](https://infoaxia.co.jp/), [Intopia](https://intopia.digital/), [Knowbility](https://knowbility.org/), The Paciello Group ([TPG](https://www.paciellogroup.com/)), [Web Key IT](https://www.webkeyit.com/), and W3C WAI.
 
 <br>
 
