@@ -74,13 +74,13 @@ You can start auditing the course now, and later choose to get a Verified Certif
 
 _(For information about edX certificate verification and accessibility, see: [edX Help Center Accessibility pages](https://support.edx.org/hc/en-us/sections/360007007533-Accessibility).)_
 
-## Learn more
+## Learn more about the course
 
 {% include image.html src="video6-tagline.png" alt="Accessibility: Essential for some, useful for all" class="normal right" %}
 
-**Example videos from course activities**:
-* [Reading with and without text wrapping, on YouTube](https://youtu.be/5nlcEgJGIs8)<br>_([same reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
-* [Low vision: Challenging assumptions and understanding differences, on YouTube](https://youtu.be/JUfmCvdzqbM)<br>_([same low vision video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
+Example videos from course activities:
+* **[Reading with and without text wrapping, on YouTube](https://youtu.be/5nlcEgJGIs8)**<br>_([same reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
+* **[Low vision: Challenging assumptions and understanding differences, on YouTube](https://youtu.be/JUfmCvdzqbM)**<br>_([same low vision video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
 
 The **[course description on edX](https://www.edx.org/course/web-accessibility-introduction)** has:
 - What you'll learn
