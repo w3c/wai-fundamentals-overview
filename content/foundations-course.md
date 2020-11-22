@@ -73,7 +73,7 @@ Through at least the first quarter of 2021, the current course will be available
 
 {% include_cached blockquote.html class="pull alt-2 right" content="<p>This course is for beginners &mdash; and this course is also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>" source="Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator" %}
 
-**The course is free.** The audit option gives you access to all of the content, including the graded assessments.
+**The course is free.** The audit option gives you access to all of the content.
 
 Optionally, you can choose to get a **Verified Certificate** for $99 USD to demonstrate successful course completion.
 
