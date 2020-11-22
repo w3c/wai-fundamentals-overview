@@ -31,16 +31,7 @@ The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-access
 
 ## Who it is for
 
-{% comment %}
-This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
-{% endcomment %}
-<div class="video-card">
-  {% include video-player.html
-      yt-id="HEvDJrwq5LY"
-      captions="/content/foundations-course-teaser-cc.vtt|en|default"
-  %}
-  <p><em>(<a href="#alternatives">alternatives for video are below</a>)</em></p>
-</div>
+{% include_cached blockquote.html class="pull alt-2 right" content="<p>This course is for beginners &mdash; <strong>and</strong> it is also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>" source="Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator" %}
 
 The course is designed for **technical and non-technical** learners, including:
 
@@ -71,8 +62,6 @@ Through at least the first quarter of 2021, the current course will be available
 
 ## Cost: Free, optional certificate
 
-{% include_cached blockquote.html class="pull alt-2 right" content="<p>This course is for beginners &mdash; and this course is also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>" source="Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator" %}
-
 **The course is free.** The audit option gives you access to all of the content.
 
 Optionally, you can choose to get a **Verified Certificate** for $99 USD to demonstrate successful course completion.
@@ -96,6 +85,17 @@ The **[course description on edX](https://www.edx.org/course/web-accessibility-i
 - **Enroll button**
 
 ## Provided by
+
+{% comment %}
+This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
+{% endcomment %}
+<div class="video-card">
+  {% include video-player.html
+      yt-id="HEvDJrwq5LY"
+      captions="/content/foundations-course-teaser-cc.vtt|en|default"
+  %}
+  <p><em>(<a href="#alternatives">alternatives for video are below</a>)</em></p>
+</div>
 
 The course is provided by the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) and UNESCO Institute for Information Technologies in Education (UNESCO IITE).
 
