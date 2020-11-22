@@ -1,7 +1,7 @@
 ---
 title: "Digital Accessibility Foundations - Free Online Course"
-title_html: "Digital Accessibility Foundations<br>- Free Online Course"
-nav_title: "Foundations - Free Online Course"
+title_html: "Digital Accessibility Foundations<br>Free Online Course"
+nav_title: "Foundations Online Course"
 
 permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
@@ -23,6 +23,14 @@ image: https://www.w3.org/comm/assets/graphics/w3cx-accessibility-intro-twitter-
 
 ---
 
+The online course "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" provides a strong foundation for making websites, apps, and other digital technology:
+
+-  work well for people with disabilities
+-  meet international standards
+-  enhance the user experience for everyone
+
+## Who it is for
+
 {% comment %}
 This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
 {% endcomment %}
@@ -31,16 +39,8 @@ This abuses the video-card component and tries to make it work with an embedded 
       yt-id="HEvDJrwq5LY"
       captions="/content/foundations-course-teaser-cc.vtt|en|default"
   %}
-  <p>_(<a href="#alternatives">video alternatives below</a>)_</p>
+  <p><em>(<a href="#alternatives">video alternatives below</a>)</em></p>
 </div>
-
-The online course "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" provides a strong foundation for making websites, apps, and other digital technology:
-
--  work well for people with disabilities
--  meet international standards
--  enhance the user experience for everyone
-
-## Who it is for
 
 The course is designed for **technical and non-technical** learners, including:
 
@@ -63,7 +63,7 @@ Optional course materials help you learn more about the topics you are most inte
 
 The course is designed to take most people about **16-20 hours to complete**. It is listed as 4 weeks of  4-5 hours effort per week. It is **self-paced** so you can complete it in a shorter or longer time frame.
 
-Through early 2021, the current course will be available via edX. We expect to keep an updated version of this course available long term.
+Through at least the first quarter of 2021, the current course will be available via the edX platform. We expect to keep an updated version of this course available long term.
 
 ## Cost: Free, optional certificate
 
@@ -73,20 +73,20 @@ Optionally, you can choose to get a **Verified Certificate** for $99 USD to demo
 
 You can start auditing the course now, and later choose to get a Verified Certificate.
 
-Certificate Verification: For information on verification options and accessibility of the Verified Certificate process, see: [edX Help Center Accessibility pages](https://support.edx.org/hc/en-us/sections/360007007533-Accessibility). For a form and e-mail address to contact edX about accessibility, see: [edX Website Accessibility Policy](https://www.edx.org/accessibility).
+edX Certificate Verification: For information on verification options and accessibility of the Verified Certificate process, see: [edX Help Center Accessibility pages](https://support.edx.org/hc/en-us/sections/360007007533-Accessibility). For a form and e-mail address to contact edX about accessibility, see: [edX Website Accessibility Policy](https://www.edx.org/accessibility).
 
 ## Learn more
 
 <blockquote class="pull right alt-1">
-  <p>In addition to being an excellent introduction for people who are new to accessibility, this course helps people who already know about accessibility fill in gaps. It covers resources from the WAI website, and helps you know how to find more information on multiple aspects of digital accessibility.</p>
+  <p>@@</p>
   <cite>Shawn Lawton Henry, W3C WAI Education and Outreach Coordinator</cite>
 </blockquote>
 
-**Example videos from two course activities are available**:
+**Example videos from two course activities**:
 * [Reading with and without wrapping, on YouTube](https://www@@) _(alternative location: ([Reading wrapping on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html))_
 * [Challenging assumptions and understanding differences — Low vision activity, on YouTube](https://www@@) _(alternative location: [Low vision activity on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html))_
 
-The [course description on edX](https://www.edx.org/course/web-accessibility-introduction) has:
+The **[course description on edX](https://www.edx.org/course/web-accessibility-introduction)** has:
 - What you'll learn
 - Syllabus
 - Meet the instructors
@@ -116,12 +116,21 @@ _The introduction video is also available on W3C servers: [video for modern brow
 * There are a few other scenes for visual interest, not needed to understand the content.
 
 **Transcript:**
+
 Shadi: I'm Shadi Abou-Zahra, Accessibility Strategy and Technology Specialist at W3C, the World Wide Web Consortium.
+
 Natalia: I'm Natalia Amelina, Senior National Project Officer in Education at the UNESCO Institute for Information Technologies in Education.
+
 Shadi: Join us in this course to learn the fundamental skills and key resources that are becoming increasingly important across digital professions.
+
 Natalia: In according with statistics, people with disabilities can make up around 15% of the population -- and the United Nations Convention on the Rights of Persons with Disabilities recognizes access to information as a human right. And you may know that this Convention was ratified by 180 countries all over the world, very likely including your country too.
+
 Shadi: In this course you will learn how people with disabilities use the web including different types of assistive technologies and adaptive strategies.
+
 Natalia: You will also learn how web accessibility improves user experience of older people, people using mobile devices, and essentially for everyone.
+
 Shadi: And, of course, you'll also learn all about the international standards from W3C -- and training materials and learn first steps in creating accessible web content.
+
 Natalia: This course was designed for technical and non-technical people. If you work with digital technologies this course is ideal for you to get started.
+
 {% include excol.html type="end" %}
