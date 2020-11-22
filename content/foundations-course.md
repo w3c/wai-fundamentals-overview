@@ -39,7 +39,7 @@ This abuses the video-card component and tries to make it work with an embedded 
       yt-id="HEvDJrwq5LY"
       captions="/content/foundations-course-teaser-cc.vtt|en|default"
   %}
-  <p><em>(<a href="#alternatives">alternatives for video below</a>)</em></p>
+  <p><em>(<a href="#alternatives">alternatives for video are below</a>)</em></p>
 </div>
 
 The course is designed for **technical and non-technical** learners, including:
@@ -48,10 +48,12 @@ The course is designed for **technical and non-technical** learners, including:
 - designers
 - content authors
 - project managers
+- students
+- instructors
 - people with disabilities
 - others
 
-Optional course materials help you learn more about the topics you are most interested in. It covers:
+It has optional activities and materials so that you can learn more about the topics you are most interested in. It covers:
 
 - What is Web Accessibility (2 sections)
 - People and Digital Technology (5 sections)
@@ -61,15 +63,15 @@ Optional course materials help you learn more about the topics you are most inte
 
 ## Duration
 
-The course is designed to take about **16-20 hours to complete** for most people. It is listed as 4 weeks of  4-5 hours effort per week.
+The course is designed to take about **16-20 hours to complete** for most people. It is listed as 4 weeks of 4-5 hours effort per week.
 
 It is **self-paced** so you can complete it in a shorter or longer time frame.
 
-Through at least the first quarter of 2021, the current course will be available via the edX platform. We an updated version of this course to be available long term.
+Through at least the first quarter of 2021, the current course will be available via the edX platform. We expect an updated version of this course to be available long term.
 
 ## Cost: Free, optional certificate
 
-{% include_cached blockquote.html class="pull alt-2 right" content="<p>This course is for beginners &mdash; and also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>" source="Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator" %}
+{% include_cached blockquote.html class="pull alt-2 right" content="<p>This course is for beginners &mdash; and this course is also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>" source="Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator" %}
 
 **The course is free.** The audit option gives you access to all of the content, including the graded assessments.
 
