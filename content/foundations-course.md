@@ -58,7 +58,7 @@ The course is designed to take about **16-20 hours to complete** for most people
 
 It is **self-paced** so you can complete it in a shorter or longer time frame.
 
-Through at least the first quarter of 2021, the current course will be available via the edX platform. We expect an updated version of this course to be available long term.
+This course will be available on the edX platform through at least the first quarter of 2021. We expect an updated version of this course to be available long term.
 
 ## Cost: Free, optional certificate
 
@@ -143,3 +143,10 @@ Shadi: And, of course, you'll also learn all about the international standards f
 Natalia: This course was designed for technical and non-technical people. If you work with digital technologies this course is ideal for you to get started.
 
 {% include excol.html type="end" %}
+
+## Enroll in the course
+
+To enroll:
+- Go to the [Introduction to Web Accessibility, edX page](https://www.edx.org/course/web-accessibility-introduction)
+- Select the "Enroll" button
+- If you have an edX account, select "Sign in"<br>If you do not yet have an edX account, fill out the form to "create a new one here" at no cost
