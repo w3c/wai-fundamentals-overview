@@ -1,11 +1,13 @@
 ---
 title: "Digital Accessibility Foundations - Free Online Course"
+title_html: "Digital Accessibility Foundations<br>- Free Online Course"
+nav_title: "Foundations - Free Online Course"
 
 permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
 
 lang: en
-last_updated: 2020-11-24
+last_updated: 2020-11-21
 
 github:
   repository: w3c/wai-fundamentals-overview
@@ -13,21 +15,13 @@ github:
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Draft in progress November 2020.</p>
+  <p><strong>Date:</strong> Draft in progress 21 November 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
   
 image: https://www.w3.org/comm/assets/graphics/w3cx-accessibility-intro-twitter-only.png
 
 ---
-
-The online course "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" provides a strong foundation for making websites, apps, and other digital technology:
-
--  work well for people with disabilities
--  meet international standards
--  enhance the user experience for everyone
-
-## Who it is for
 
 {% comment %}
 This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
@@ -37,8 +31,16 @@ This abuses the video-card component and tries to make it work with an embedded 
       yt-id="HEvDJrwq5LY"
       captions="/content/foundations-course-teaser-cc.vtt|en|default"
   %}
-  <p>(<a href="#alternatives">video alternatives</a>)</p>
+  <p>_(<a href="#alternatives">video alternatives below</a>)_</p>
 </div>
+
+The online course "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" provides a strong foundation for making websites, apps, and other digital technology:
+
+-  work well for people with disabilities
+-  meet international standards
+-  enhance the user experience for everyone
+
+## Who it is for
 
 The course is designed for **technical and non-technical** learners, including:
 
@@ -98,6 +100,28 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 ![Logo of UNESCO IITE](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
 
-@@ add inline with player Video overview of the "Introduction to Web Accessibility" online course <!-- https://www.w3.org/2019/12/teaser-intro-web-accessibility-course.html -->
+{% include excol.html type="start" id="video-intro-transcript" %}
 
+##  Alternatives for Video {#alternatives}
 
+{% include excol.html type="middle" %}
+
+_The introduction video is also available on W3C servers: [video for modern browsers](https://www.w3.org/2019/12/teaser-intro-web-accessibility-course.html) and [video mp4 file](https://www.w3.org/2019/12/teaser-intro-web-accessibility-course.mp4)._
+
+**Visual description:**
+* Opening and closing scene has:
+   * Two people at laptop smiling.
+   * 5 icons: hand, eye, brain in head, ear, speech/sound waves from mouth.
+* Most of the video is of Shadi and Natalia sitting by a desk.
+* There are a few other scenes for visual interest, not needed to understand the content.
+
+**Transcript:**
+Shadi: I'm Shadi Abou-Zahra, Accessibility Strategy and Technology Specialist at W3C, the World Wide Web Consortium.
+Natalia: I'm Natalia Amelina, Senior National Project Officer in Education at the UNESCO Institute for Information Technologies in Education.
+Shadi: Join us in this course to learn the fundamental skills and key resources that are becoming increasingly important across digital professions.
+Natalia: In according with statistics, people with disabilities can make up around 15% of the population -- and the United Nations Convention on the Rights of Persons with Disabilities recognizes access to information as a human right. And you may know that this Convention was ratified by 180 countries all over the world, very likely including your country too.
+Shadi: In this course you will learn how people with disabilities use the web including different types of assistive technologies and adaptive strategies.
+Natalia: You will also learn how web accessibility improves user experience of older people, people using mobile devices, and essentially for everyone.
+Shadi: And, of course, you'll also learn all about the international standards from W3C -- and training materials and learn first steps in creating accessible web content.
+Natalia: This course was designed for technical and non-technical people. If you work with digital technologies this course is ideal for you to get started.
+{% include excol.html type="end" %}
