@@ -39,7 +39,7 @@ This abuses the video-card component and tries to make it work with an embedded 
       yt-id="HEvDJrwq5LY"
       captions="/content/foundations-course-teaser-cc.vtt|en|default"
   %}
-  <p><em>(<a href="#alternatives">video alternatives below</a>)</em></p>
+  <p><em>(<a href="#alternatives">alternatives for video below</a>)</em></p>
 </div>
 
 The course is designed for **technical and non-technical** learners, including:
@@ -67,30 +67,27 @@ Through at least the first quarter of 2021, the current course will be available
 
 ## Cost: Free, optional certificate
 
+{% include_cached blockquote.html class="pull alt-2 right" content="<p>This course is for beginngers &mdash; and also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>" source="Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator" %}
+
 **The course is free.** The audit option gives you access to all of the content, including the graded assessments.
 
 Optionally, you can choose to get a **Verified Certificate** for $99 USD to demonstrate successful course completion. The Certificate can be printed, listed in resumes, and linked to from online profiles.
 
 You can start auditing the course now, and later choose to get a Verified Certificate.
 
-edX Certificate Verification: For information on verification options and accessibility of the Verified Certificate process, see: [edX Help Center Accessibility pages](https://support.edx.org/hc/en-us/sections/360007007533-Accessibility). For a form and e-mail address to contact edX about accessibility, see: [edX Website Accessibility Policy](https://www.edx.org/accessibility).
+_(For information about edX certificate verification and accessibility, see: [edX Help Center Accessibility pages](https://support.edx.org/hc/en-us/sections/360007007533-Accessibility).)_
 
 ## Learn more
 
-<blockquote class="pull right alt-1">
-  <p>@@</p>
-  <cite>Shawn Lawton Henry, W3C WAI Education and Outreach Coordinator</cite>
-</blockquote>
-
 **Example videos from two course activities**:
-* [Reading with and without wrapping, on YouTube](https://www@@) _([reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html))_
-* [Low vision: Challenging assumptions and understanding differences, on YouTube](https://www@@) _([low vision video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html))_
+* [Reading with and without wrapping, on YouTube](https://www@@)<br>_([reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
+* [Low vision: Challenging assumptions and understanding differences, on YouTube](https://www@@)<br>_([low vision video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
 
 The **[course description on edX](https://www.edx.org/course/web-accessibility-introduction)** has:
 - What you'll learn
 - Syllabus
 - Meet the instructors
-- Enroll button
+- **Enroll button**
 
 ## Presented by
 
