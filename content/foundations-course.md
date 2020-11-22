@@ -62,6 +62,8 @@ Through at least the first quarter of 2021, the current course will be available
 
 ## Cost: Free, optional certificate
 
+{% include image.html src="certificate.png" alt="" class="normal right" %}
+
 **The course is free.** The audit option gives you access to all of the content.
 
 Optionally, you can choose to get a **Verified Certificate** for $99 USD to demonstrate successful course completion.
@@ -92,7 +94,7 @@ This abuses the video-card component and tries to make it work with an embedded 
 <div class="video-card">
   {% include video-player.html
       yt-id="HEvDJrwq5LY"
-      captions="/content/foundations-course-teaser-cc.vtt|en|default"
+      captions="/content-images/wai-fundamentals-overview/foundations-course-teaser-cc.vtt|en|default"
   %}
   <p><em>(<a href="#alternatives">alternatives for video are below</a>)</em></p>
 </div>
