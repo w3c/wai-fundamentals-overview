@@ -62,9 +62,9 @@ Through at least the first quarter of 2021, the current course will be available
 
 ## Cost: Free, optional certificate
 
-{% include image.html src="certificate.png" alt="" class="normal right" %}
-
 **The course is free.** The audit option gives you access to all of the content.
+
+{% include image.html src="certificate.png" alt="" class="normal right" %}
 
 Optionally, you can choose to get a **Verified Certificate** for $99 USD to demonstrate successful course completion.
 
@@ -75,6 +75,8 @@ You can start auditing the course now, and later choose to get a Verified Certif
 _(For information about edX certificate verification and accessibility, see: [edX Help Center Accessibility pages](https://support.edx.org/hc/en-us/sections/360007007533-Accessibility).)_
 
 ## Learn more
+
+{% include image.html src="video6-tagline.png" alt="Accessibility: Essential for some, useful for all" class="normal right" %}
 
 **Example videos from course activities**:
 * [Reading with and without text wrapping, on YouTube](https://youtu.be/5nlcEgJGIs8)<br>_([same reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
