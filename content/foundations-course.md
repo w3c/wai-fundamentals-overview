@@ -23,9 +23,9 @@ image: https://www.w3.org/comm/assets/graphics/w3cx-accessibility-intro-twitter-
 
 ---
 
-{% include_cached blockquote.html class="pull alt-2 right" content="<p>This unique course is based on the World Wide Web Consortium (W3C) open curricula, and brings together international expert trainers.</p>" source="Shadi Abou-Zahra,<br>Course Project Manager" %}
+{% include_cached blockquote.html class="pull alt-2 right" content="<p>This unique course is based on the World Wide Web Consortium (W3C) open curricula, and brings together international expert trainers.</p>" source="Shadi Abou-Zahra,<br>W3C Accessibility Strategy and Technology Specialist, and Course Project Manager" %}
 
-Accessibility is essential for individuals and organizations that want to create high-quality products – and not exclude people from using their products and services.
+Accessibility is essential for individuals and organizations that want to create high-quality products &mdash; and not exclude people from using their products and services.
 
 The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" online course provides a strong foundation for making websites, apps, and other digital technology:
 
@@ -35,7 +35,7 @@ The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-access
 
 ## Who it is for
 
-{% include_cached blockquote.html class="pull alt-2 right" content="<p>This course is for beginners &mdash; <strong>and</strong> it is also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>" source="Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator" %}
+{% include_cached blockquote.html class="pull alt-2 right" content="<p>It’s for beginners &mdash; <strong>and</strong> also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>" source="Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator" %}
 
 The course is designed for **technical and non-technical** learners, including:
 
@@ -50,7 +50,7 @@ And also:
 - people with disabilities
 
 ## What you’ll learn
-Here are a few of the many things that you will learn from this course:
+Here are a few of the many things you can learn from this course:
  
 - How people with disabilities use digital technology
 - The principles of designing and developing accessibly: Perceivable, Operable, Understandable, and Robust (POUR)
