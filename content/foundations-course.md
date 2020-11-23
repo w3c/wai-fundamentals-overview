@@ -56,14 +56,15 @@ And also:
 - people with disabilities
 
 ## What you’ll learn
-Here are a few of the many things you can learn from this course:
- 
-- How people with disabilities use digital technology
-- The principles of designing and developing accessibly: Perceivable, Operable, Understandable, and Robust (POUR)
-- The W3C Web Content Accessibility Guidelines (WCAG) and other international standards for accessibility
-- The business case -- how accessibility can expand market reach, demonstrate social responsibility, drive innovation, and minimize legal risk
-- Approaches for planning and managing accessibility in your project and in your organization
-- How you can check web pages for some basic accessibility issues and improve accessibility
+
+The course is structured so that you can focus on the topics that you are most interested in. Optional activities and additional materials provide more learning on specific topics. For example, some might want to focus on developing (coding) web applications to meet international standards, and others might want to focus creating a business case to present to their management.
+
+In taking this course, you can:
+- Get real-life experiences of how accessibility is essential for some, and useful for all &mdash; <br>including organizations that make their products accessible, and users without disabilities
+- Explore how people with disabilities use digital technology, and <br>explore accessibility barriers and solutions
+- Learn about the business case &mdash; how accessibility can expand market reach, demonstrate social responsibility, drive innovation, and minimize legal risk; and <br>learn about managing accessibility in projects and in organizations
+- Get started making your code and designs more accessible
+- Know how to check web pages for some basic accessibility issues and improve accessibility
 
 The syllabus includes:
 - What is Web Accessibility (2 sections)
@@ -72,7 +73,7 @@ The syllabus includes:
 - Principles, Standards, and Checks (5 sections)
 - Getting Started with Accessibility (2 sections)
 
-**You can learn more about the specific topics you are most interested in** from the optional activities and materials.
+_A more detailed syllabus and a longer list of what you will learn is in the [edX course page](https://www.edx.org/course/web-accessibility-introduction)._
 
 ## Duration
 
@@ -144,21 +145,6 @@ We hope that you will join your trainers for this course:<br>
 {% include image.html src="carie.png" alt="" %} 
 {% include image.html src="sarah.png" alt="" %} 
 {% include image.html src="andrew.png" alt="" %}
-
-<!--
-Your trainers:
-_@@ design nicer – horizontally…
-- Course Manager: {% include image.html src="shadi.jpg" alt="" %} Shadi Abou-Zahra
-- Module 1: {% include image.html src="shawn.png" alt="" %} Shawn Lawton Henry, {% include image.html src="anthony.png" alt="" %} Anthony Vasquez
-- Module 2: {% include image.html src="henny.png" alt="" %} Henny Swan
-- Module 3: {% include image.html src="vivienne.png" alt="" %} Vivienne Conway
-- Module 4: {% include image.html src="makoto.jpeg" alt="" %} Makoto Ueki, {% include image.html src="carie.png" alt="" %} Carie Fisher
-- Module 5: {% include image.html src="sarah.png" alt="" %} Sarah Pulis, {% include image.html src="andrew.png" alt="" %} Andrew Arch
-
-Contributors, in order of appearance:
-- Natalia Amelina
-- @@...
--->
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
