@@ -130,7 +130,7 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 Your trainers:
 @@ design nicer -- with names under images, maybe horizontal without bullets @@
-- Course Manager: {% include image.html src="shadi.png" alt="" %} Shadi Abou-Zahra
+- Course Manager: {% include image.html src="shadi.jpg" alt="" %} Shadi Abou-Zahra
 - Module 1: {% include image.html src="shawn.png" alt="" %} Shawn Lawton Henry, {% include image.html src="anthony.png" alt="" %} Anthony Vasquez
 - Module 2: {% include image.html src="henny.png" alt="" %} Henny Swan
 - Module 3: {% include image.html src="vivienne.png" alt="" %} Vivienne Conway
