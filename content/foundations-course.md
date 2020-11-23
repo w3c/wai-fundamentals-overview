@@ -1,5 +1,5 @@
 ---
-title: "Digital Accessibility Foundations - Free Online Course"
+title: "[DRAFT] Digital Accessibility Foundations - Free Online Course"
 title_html: "Digital Accessibility Foundations<br>Free Online Course"
 nav_title: "Foundations Online Course"
 
@@ -23,6 +23,10 @@ image: https://www.w3.org/comm/assets/graphics/w3cx-accessibility-intro-twitter-
 
 ---
 
+{% include_cached blockquote.html class="pull alt-2 right" content="<p>This unique course is based on the World Wide Web Consortium (W3C) open curricula, and brings together international expert trainers.</p>" source="Shadi Abou-Zahra,<br>Course Project Manager" %}
+
+Accessibility is essential for individuals and organizations that want to create high-quality products – and not exclude people from using their products and services.
+
 The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" online course provides a strong foundation for making websites, apps, and other digital technology:
 
 -  work well for people with disabilities
@@ -44,13 +48,23 @@ The course is designed for **technical and non-technical** learners, including:
 - people with disabilities
 - others
 
-It has optional activities and materials so that you can learn more about the topics you are most interested in. It covers:
+## What you’ll learn
 
+- How people with disabilities use digital technology
+- The principles of designing and developing accessibly: Perceivable, Operable, Understandable, and Robust (POUR)
+- The W3C Web Content Accessibility Guidelines (WCAG) and other international standards for accessibility
+- The business case -- how accessibility can expand market reach, demonstrate social responsibility, drive innovation, and minimize legal risk
+- Approaches for planning and managing accessibility in your project and in your organization
+- How you can check web pages for some basic accessibility issues and improve accessibility
+
+The syllabus includes:
 - What is Web Accessibility (2 sections)
 - People and Digital Technology (5 sections)
 - Business Case and Benefits (2 sections)
 - Principles, Standards, and Checks (5 sections)
 - Getting Started with Accessibility (2 sections)
+
+**You can learn more about the specific topics you are most interested in** from the optional activities and materials.
 
 ## Duration
 
@@ -74,19 +88,18 @@ You can start auditing the course now, and later choose to get a Verified Certif
 
 _(For information about edX certificate verification and accessibility, see: [edX Help Center Accessibility pages](https://support.edx.org/hc/en-us/sections/360007007533-Accessibility).)_
 
-## Learn more about the course
+## Video excerpts from the course
 
 {% include image.html src="video6-tagline.png" alt="Accessibility: Essential for some, useful for all" class="normal right" %}
 
-Example videos from course activities:
+From Module 1:
 * **[Reading with and without text wrapping, on YouTube](https://youtu.be/5nlcEgJGIs8)**<br>_([same reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
 * **[Low vision: Challenging assumptions and understanding differences, on YouTube](https://youtu.be/JUfmCvdzqbM)**<br>_([same low vision video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
 
-The **[course description on edX](https://www.edx.org/course/web-accessibility-introduction)** has:
-- What you'll learn
-- Syllabus
-- Meet the instructors
-- **Enroll button**
+{% include image.html src="makoto-video.png" class="normal right" %}
+
+From Module 4:
+* **[@@](https://youtu.be/5nlcEgJGIs8)**<br>_([same @@ video on W3C website](https://www.w3.org/@@))_
 
 ## Provided by
 
@@ -144,9 +157,19 @@ Natalia: This course was designed for technical and non-technical people. If you
 
 {% include excol.html type="end" %}
 
-## Enroll in the course
+## Join us in this course
 
-To enroll:
-- Go to the [Introduction to Web Accessibility, edX page](https://www.edx.org/course/web-accessibility-introduction)
-- Select the "Enroll" button
-- If you have an edX account, select "Sign in"<br>If you do not yet have an edX account, fill out the form to "create a new one here" at no cost
+**To enroll, select the "Enroll" button from [Introduction to Web Accessibility, edX page](https://www.edx.org/course/web-accessibility-introduction).**
+
+Your trainers:
+@@ design nicer, maybe horizontal without bullets @@
+- Course Manager: {% include image.html src="shadi.png" alt="" %} Shadi Abou-Zahra
+- Module 1: {% include image.html src="shawn.png" alt="" %} Shawn Lawton Henry, {% include image.html src="anthony.png" alt="" %} Anthony Vasquez
+- Module 2: {% include image.html src="henny.png" alt="" %} Henny Swan
+- Module 3: {% include image.html src="vivienne.png" alt="" %} Vivienne Conway
+- Module 4: {% include image.html src="makoto.png" alt="" %} Makoto Ueki, {% include image.html src="carie.png" alt="" %} Carie Fisher
+- Module 5: {% include image.html src="sarah.png" alt="" %} Sarah Pulis, {% include image.html src="andrew.png" alt="" %} Andrew Arch
+
+Contributors, in order of appearance:
+- Natalia Amelina
+@@...
