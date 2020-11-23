@@ -23,7 +23,7 @@ image: https://www.w3.org/comm/assets/graphics/w3cx-accessibility-intro-twitter-
 
 ---
 
-{% include_cached blockquote.html class="pull alt-2 right" style="font-size:small" content="<p>This unique course is based on the World Wide Web Consortium (W3C) open curricula, and brings together international expert trainers.</p>" source="Shadi Abou-Zahra,<br>Course Project Manager" %}
+{% include_cached blockquote.html class="pull alt-1 right" style="font-size:.875rem!important;font-weight:normal;" content="<p>This unique course is based on the World Wide Web Consortium (W3C) open curricula, and brings together international expert trainers.</p>" source="Shadi Abou-Zahra,<br>Course Project Manager" %}
 
 Accessibility is essential for individuals and organizations that want to create high-quality products &mdash; and not exclude people from using their products and services.
 
@@ -35,7 +35,7 @@ The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-access
 
 ## Who it is for
 
-{% include_cached blockquote.html class="pull alt-2 right" style="font-size:small" content="<p>It’s for beginners &mdash; <strong>and</strong> also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>" source="Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator" %}
+{% include_cached blockquote.html class="pull alt-2 right" style="font-size:.875rem!important;font-weight:normal;" content="<p>It’s for beginners &mdash; <strong>and</strong> also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>" source="Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator" %}
 
 The course is designed for **technical and non-technical** learners, including:
 
@@ -126,6 +126,8 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 ## Enroll in this course
 
+**To enroll, select the "Enroll" button from [Introduction to Web Accessibility, edX page](https://www.edx.org/course/web-accessibility-introduction).**
+
 We hope that you will join your trainers for this course:<br>
 {% include image.html src="shadi.png" alt="" %} 
 {% include image.html src="shawn.png" alt="" %} 
@@ -136,9 +138,6 @@ We hope that you will join your trainers for this course:<br>
 {% include image.html src="carie.png" alt="" %} 
 {% include image.html src="sarah.png" alt="" %} 
 {% include image.html src="andrew.png" alt="" %}
-
-<br>
-**To enroll, select the "Enroll" button from [Introduction to Web Accessibility, edX page](https://www.edx.org/course/web-accessibility-introduction).**
 
 <!--
 Your trainers:
