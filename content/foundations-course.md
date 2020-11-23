@@ -25,7 +25,7 @@ image: https://www.w3.org/comm/assets/graphics/w3cx-accessibility-intro-twitter-
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
 <p>This unique course is based on the World Wide Web Consortium (W3C) open curricula, and brings together international expert trainers.</p>
-<cite>Shadi Abou-Zahra,<br>Course Project Manager</cite>
+<cite style="font-size:0.875rem!important">Shadi Abou-Zahra,<br>Course Project Manager</cite>
 </blockquote>
 
 Accessibility is essential for individuals and organizations that want to create high-quality products &mdash; and not exclude people from using their products and services.
@@ -40,7 +40,7 @@ The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-access
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
 <p>It’s for beginners &mdash; <strong>and</strong> it’s also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>
-<cite>Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator</cite>
+<cite style="font-size:0.875rem!important">Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator</cite>
 </blockquote>
 
 The course is designed for **technical and non-technical** learners, including:
