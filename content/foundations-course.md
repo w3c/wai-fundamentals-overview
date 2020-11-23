@@ -7,7 +7,7 @@ permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
 
 lang: en
-last_updated: 2020-11-21
+last_updated: 2020-11-23
 
 github:
   repository: w3c/wai-fundamentals-overview
@@ -15,7 +15,7 @@ github:
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 21 November 2020.</p>
+  <p><strong>Date:</strong> Updated 23 November 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
   
@@ -23,7 +23,7 @@ image: https://www.w3.org/comm/assets/graphics/w3cx-accessibility-intro-twitter-
 
 ---
 
-{% include_cached blockquote.html class="pull alt-2 right" content="<p>This unique course is based on the World Wide Web Consortium (W3C) open curricula, and brings together international expert trainers.</p>" source="Shadi Abou-Zahra,<br>W3C Accessibility Strategy and Technology Specialist, and Course Project Manager" %}
+{% include_cached blockquote.html class="pull alt-2 right" style="font-size:small" content="<p>This unique course is based on the World Wide Web Consortium (W3C) open curricula, and brings together international expert trainers.</p>" source="Shadi Abou-Zahra,<br>Course Project Manager" %}
 
 Accessibility is essential for individuals and organizations that want to create high-quality products &mdash; and not exclude people from using their products and services.
 
@@ -35,7 +35,7 @@ The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-access
 
 ## Who it is for
 
-{% include_cached blockquote.html class="pull alt-2 right" content="<p>It’s for beginners &mdash; <strong>and</strong> also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>" source="Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator" %}
+{% include_cached blockquote.html class="pull alt-2 right" style="font-size:small" content="<p>It’s for beginners &mdash; <strong>and</strong> also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>" source="Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator" %}
 
 The course is designed for **technical and non-technical** learners, including:
 
@@ -124,12 +124,25 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 ![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative (WAI) logo](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
 
-## Join us in this course
+## Enroll in this course
 
+We hope that you will join your trainers for this course:<br>
+{% include image.html src="shadi.png" alt="" %} 
+{% include image.html src="shawn.png" alt="" %} 
+{% include image.html src="anthony.png" alt="" %} 
+{% include image.html src="henny.png" alt="" %} 
+{% include image.html src="vivienne.png" alt="" %} 
+{% include image.html src="makoto.png" alt="" %} 
+{% include image.html src="carie.png" alt="" %} 
+{% include image.html src="sarah.png" alt="" %} 
+{% include image.html src="andrew.png" alt="" %}
+
+<br>
 **To enroll, select the "Enroll" button from [Introduction to Web Accessibility, edX page](https://www.edx.org/course/web-accessibility-introduction).**
 
+<!--
 Your trainers:
-@@ design nicer -- with names under images, maybe horizontal without bullets @@
+_@@ design nicer – horizontally…
 - Course Manager: {% include image.html src="shadi.jpg" alt="" %} Shadi Abou-Zahra
 - Module 1: {% include image.html src="shawn.png" alt="" %} Shawn Lawton Henry, {% include image.html src="anthony.png" alt="" %} Anthony Vasquez
 - Module 2: {% include image.html src="henny.png" alt="" %} Henny Swan
@@ -140,6 +153,7 @@ Your trainers:
 Contributors, in order of appearance:
 - Natalia Amelina
 - @@...
+-->
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
