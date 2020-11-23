@@ -43,12 +43,14 @@ The course is designed for **technical and non-technical** learners, including:
 - designers
 - content authors
 - project managers
+
+And also:
 - students
 - instructors
 - people with disabilities
-- others
 
 ## What you’ll learn
+From this course you will learn:
 
 - How people with disabilities use digital technology
 - The principles of designing and developing accessibly: Perceivable, Operable, Understandable, and Robust (POUR)
@@ -92,13 +94,13 @@ _(For information about edX certificate verification and accessibility, see: [ed
 
 {% include image.html src="video6-tagline.png" alt="Accessibility: Essential for some, useful for all" class="normal right" %}
 
-From Module 1:
+From Module 1, on how accessibility impacts the lives of people interacting in the digital world:
 * **[Reading with and without text wrapping, on YouTube](https://youtu.be/5nlcEgJGIs8)**<br>_([same reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
 * **[Low vision: Challenging assumptions and understanding differences, on YouTube](https://youtu.be/JUfmCvdzqbM)**<br>_([same low vision video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
 
 {% include image.html src="makoto-video.png" class="normal right" %}
 
-From Module 4:
+From Module 4, on designing and developing accessibly:
 * **[@@](https://youtu.be/5nlcEgJGIs8)**<br>_([same @@ video on W3C website](https://www.w3.org/@@))_
 
 ## Provided by
@@ -123,6 +125,23 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 ![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative (WAI) logo](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
 
 {% include excol.html type="start" id="video-intro-transcript" %}
+
+## Join us in this course
+
+**To enroll, select the "Enroll" button from [Introduction to Web Accessibility, edX page](https://www.edx.org/course/web-accessibility-introduction).**
+
+Your trainers:
+@@ design nicer -- with names under images, maybe horizontal without bullets @@
+- Course Manager: {% include image.html src="shadi.png" alt="" %} Shadi Abou-Zahra
+- Module 1: {% include image.html src="shawn.png" alt="" %} Shawn Lawton Henry, {% include image.html src="anthony.png" alt="" %} Anthony Vasquez
+- Module 2: {% include image.html src="henny.png" alt="" %} Henny Swan
+- Module 3: {% include image.html src="vivienne.png" alt="" %} Vivienne Conway
+- Module 4: {% include image.html src="makoto.jpeg" alt="" %} Makoto Ueki, {% include image.html src="carie.png" alt="" %} Carie Fisher
+- Module 5: {% include image.html src="sarah.png" alt="" %} Sarah Pulis, {% include image.html src="andrew.png" alt="" %} Andrew Arch
+
+Contributors, in order of appearance:
+- Natalia Amelina
+- @@...
 
 ##  Alternatives for Video {#alternatives}
 
@@ -156,20 +175,3 @@ Shadi: And, of course, you'll also learn all about the international standards f
 Natalia: This course was designed for technical and non-technical people. If you work with digital technologies this course is ideal for you to get started.
 
 {% include excol.html type="end" %}
-
-## Join us in this course
-
-**To enroll, select the "Enroll" button from [Introduction to Web Accessibility, edX page](https://www.edx.org/course/web-accessibility-introduction).**
-
-Your trainers:
-@@ design nicer, maybe horizontal without bullets @@
-- Course Manager: {% include image.html src="shadi.png" alt="" %} Shadi Abou-Zahra
-- Module 1: {% include image.html src="shawn.png" alt="" %} Shawn Lawton Henry, {% include image.html src="anthony.png" alt="" %} Anthony Vasquez
-- Module 2: {% include image.html src="henny.png" alt="" %} Henny Swan
-- Module 3: {% include image.html src="vivienne.png" alt="" %} Vivienne Conway
-- Module 4: {% include image.html src="makoto.png" alt="" %} Makoto Ueki, {% include image.html src="carie.png" alt="" %} Carie Fisher
-- Module 5: {% include image.html src="sarah.png" alt="" %} Sarah Pulis, {% include image.html src="andrew.png" alt="" %} Andrew Arch
-
-Contributors, in order of appearance:
-- Natalia Amelina
-@@...
