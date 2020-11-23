@@ -50,8 +50,8 @@ And also:
 - people with disabilities
 
 ## What you’ll learn
-From this course you will learn:
-
+Here are a few of the many things that you will learn from this course:
+ 
 - How people with disabilities use digital technology
 - The principles of designing and developing accessibly: Perceivable, Operable, Understandable, and Robust (POUR)
 - The W3C Web Content Accessibility Guidelines (WCAG) and other international standards for accessibility
@@ -124,8 +124,6 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 ![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative (WAI) logo](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
 
-{% include excol.html type="start" id="video-intro-transcript" %}
-
 ## Join us in this course
 
 **To enroll, select the "Enroll" button from [Introduction to Web Accessibility, edX page](https://www.edx.org/course/web-accessibility-introduction).**
@@ -142,6 +140,8 @@ Your trainers:
 Contributors, in order of appearance:
 - Natalia Amelina
 - @@...
+
+{% include excol.html type="start" id="video-intro-transcript" %}
 
 ##  Alternatives for Video {#alternatives}
 
