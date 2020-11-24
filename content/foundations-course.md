@@ -1,6 +1,6 @@
 ---
-title: "[DRAFT] Digital Accessibility Foundations - Free Online Course"
-title_html: "[DRAFT] Digital Accessibility Foundations<br>Free Online Course"
+title: "Digital Accessibility Foundations - Free Online Course"
+title_html: "Digital Accessibility Foundations<br>Free Online Course"
 nav_title: "Foundations Online Course"
 
 permalink: /fundamentals/foundations-course/
@@ -15,7 +15,7 @@ github:
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> DRAFT Updated 23 November 2020.</p>
+  <p><strong>Date:</strong> Updated 23 November 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
   
@@ -24,17 +24,17 @@ image: /content-images/wai-fundamentals-overview/social-course1.png
 ---
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
-<p>This unique course is based on the World Wide Web Consortium (W3C) open curricula, and brings together international expert trainers.</p>
+<p>Accessibility skills are increasingly in demand. With this professional development course, you’ll be able to immediately start improving your projects to better meet accessibility requirements.</p>
 <cite style="font-size:0.8125rem!important">Shadi Abou-Zahra,<br>Course Project Manager</cite>
 </blockquote>
 
-Accessibility is essential for individuals and organizations that want to create high-quality products &mdash; and not exclude people from using their products and services.
+The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" online course provides a strong foundation for making your make websites, apps, and other digital technology:
 
-The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" online course provides a strong foundation for making websites, apps, and other digital technology:
+*   work well for people with disabilities
+*   meet international standards
+*   enhance the user experience for everyone
 
--  work well for people with disabilities
--  meet international standards
--  enhance the user experience for everyone
+Accessibility is essential to create high-quality products, and not exclude people from using your products and services.
 
 ## Who it is for
 
@@ -45,35 +45,36 @@ The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-access
 
 The course is designed for **technical and non-technical** learners, including:
 
-- developers
-- designers
-- content authors
-- project managers
+*  developers
+*  designers
+*  content authors
+*  project managers
 
 And also:
-- students
-- instructors
-- people with disabilities
+*  students
+*  instructors
+*  people with disabilities
 
-## What you’ll learn
+## What you get from the course
 
-The course is structured so that you can focus on the topics that you are most interested in. Optional activities and additional materials provide more learning on specific topics. For example, some might want to focus on developing (coding) web applications to meet international standards, and others might want to focus creating a business case to present to their management.
+The course is structured so that you can focus on the topics that you are most interested in. Optional activities and additional materials provide more learning on specific topics.
 
-In taking this course, you can:
-- Get real-life experiences of how accessibility is essential for some, and useful for all &mdash; <br>including organizations that make their products accessible, and users without disabilities
-- Explore how people with disabilities use digital technology, and <br>explore accessibility barriers and solutions
-- Get started making your code and designs more accessible
-- Learn about the business case &mdash; how accessibility can expand market reach, demonstrate social responsibility, drive innovation, and minimize legal risk; and <br>learn about managing accessibility in projects and in organizations
-- Know how to check web pages for some basic accessibility issues and improve accessibility
+For example, you can choose to focus on:
+* Coding web applications to meet international W3C standards.
+* Designing interfaces to meet the needs of people with disabilities, including older users.
+* Advocating for accessibility by understanding real-life experiences of how accessibility is essential for some, and useful for all.
+* Writing a business case to present to management.
+* Planning and managing accessibility in projects and in organizations.
+* Checking web pages for basic accessibility issues and improving accessibility.
 
 The syllabus includes:
-- What is Web Accessibility (2 sections)
-- People and Digital Technology (5 sections)
-- Business Case and Benefits (2 sections)
-- Principles, Standards, and Checks (5 sections)
-- Getting Started with Accessibility (2 sections)
+*  What is Web Accessibility (2 sections) &mdash; challenges the way you may approach accessibility.
+*  **People and Digital Technology** (5 sections) &mdash; gives you the “why” behind the what you need to do for accessibility.
+*  Business Case and Benefits (2 sections) &mdash; explains how accessibility can expand market reach, demonstrate social responsibility, drive innovation, and minimize legal risk.
+*  **Principles, Standards, and Checks** (5 sections) &mdash; walks through the accessibility requirements in Web Content Accessibility Guidelines (WCAG); provides optional material for coding accessibly; shows you how to use tools to check accessibility barriers.
+*  Getting Started with Accessibility (2 sections) &mdash; explains approaches for integrating accessibility into your design and development processes; provides tips for getting started with accessibility right away.
 
-_A more detailed syllabus and a longer list of what you will learn is in the [edX course page](https://www.edx.org/course/web-accessibility-introduction)._
+_More “What you’ll learn” and more detailed syllabus is in the [edX course page](https://www.edx.org/course/web-accessibility-introduction)._
 
 ## Duration
 
@@ -97,6 +98,8 @@ You can start auditing the course now, and later choose to get a Verified Certif
 
 _(For information about edX certificate verification and accessibility, see: [edX Help Center Accessibility pages](https://support.edx.org/hc/en-us/sections/360007007533-Accessibility).)_
 
+{% include_cached button.html type="link" label="Enroll in Course (log in to edX or create edX account)" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}
+
 ## Video excerpts from the course
 
 {% include image.html src="video6-tagline.png" alt="Accessibility: Essential for some, useful for all" class="normal right" %}
@@ -108,7 +111,7 @@ From Module 1, on how accessibility impacts the lives of people interacting in t
 {% include image.html src="makoto-video.png" class="normal right" %}
 
 From Module 4, on designing and developing accessibly:
-* **[@@](https://youtu.be/5nlcEgJGIs8)**<br>_([same @@ video on W3C website](https://www.w3.org/@@))_
+* **[Check Headings](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/@@))_
 
 ## Provided by
 
@@ -131,11 +134,7 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 ![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative (WAI) logo](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
 
-## Enroll in this course
-
-**To sign up for the course, select the "Enroll" button from [Introduction to Web Accessibility, edX page](https://www.edx.org/course/web-accessibility-introduction).**
-
-We hope that you will join your trainers for this course:<br>
+Course project manager and trainers:<br>
 {% include image.html src="shadi.png" alt="" %} 
 {% include image.html src="shawn.png" alt="" %} 
 {% include image.html src="anthony.png" alt="" %} 
@@ -145,6 +144,8 @@ We hope that you will join your trainers for this course:<br>
 {% include image.html src="carie.png" alt="" %} 
 {% include image.html src="sarah.png" alt="" %} 
 {% include image.html src="andrew.png" alt="" %}
+
+{% include_cached button.html type="link" label="Enroll in Course (log in to edX or create edX account)" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
