@@ -1,13 +1,13 @@
 ---
 title: "[DRAFT] Digital Accessibility Foundations - Free Online Course"
-title_html: "Digital Accessibility Foundations<br>Free Online Course"
+title_html: "[DRAFT] Digital Accessibility Foundations<br>Free Online Course"
 nav_title: "Foundations Online Course"
 
 permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
 
 lang: en
-last_updated: 2020-11-23
+last_updated: 2020-11-24
 
 github:
   repository: w3c/wai-fundamentals-overview
@@ -15,7 +15,7 @@ github:
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 23 November 2020.</p>
+  <p><strong>Date:</strong> DRAFT Updated 23 November 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
   
@@ -25,7 +25,7 @@ image: https://www.w3.org/comm/assets/graphics/w3cx-accessibility-intro-twitter-
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
 <p>This unique course is based on the World Wide Web Consortium (W3C) open curricula, and brings together international expert trainers.</p>
-<cite style="font-size:0.875rem!important">Shadi Abou-Zahra,<br>Course Project Manager</cite>
+<cite style="font-size:0.8125rem!important">Shadi Abou-Zahra,<br>Course Project Manager</cite>
 </blockquote>
 
 Accessibility is essential for individuals and organizations that want to create high-quality products &mdash; and not exclude people from using their products and services.
@@ -40,7 +40,7 @@ The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-access
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
 <p>It’s for beginners &mdash; <strong>and</strong> it’s also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>
-<cite style="font-size:0.875rem!important">Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator</cite>
+<cite style="font-size:0.8125rem!important">Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator</cite>
 </blockquote>
 
 The course is designed for **technical and non-technical** learners, including:
@@ -62,8 +62,8 @@ The course is structured so that you can focus on the topics that you are most i
 In taking this course, you can:
 - Get real-life experiences of how accessibility is essential for some, and useful for all &mdash; <br>including organizations that make their products accessible, and users without disabilities
 - Explore how people with disabilities use digital technology, and <br>explore accessibility barriers and solutions
-- Learn about the business case &mdash; how accessibility can expand market reach, demonstrate social responsibility, drive innovation, and minimize legal risk; and <br>learn about managing accessibility in projects and in organizations
 - Get started making your code and designs more accessible
+- Learn about the business case &mdash; how accessibility can expand market reach, demonstrate social responsibility, drive innovation, and minimize legal risk; and <br>learn about managing accessibility in projects and in organizations
 - Know how to check web pages for some basic accessibility issues and improve accessibility
 
 The syllabus includes:
@@ -133,7 +133,7 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 ## Enroll in this course
 
-**To enroll, select the "Enroll" button from [Introduction to Web Accessibility, edX page](https://www.edx.org/course/web-accessibility-introduction).**
+**To sign up for the course, select the "Enroll" button from [Introduction to Web Accessibility, edX page](https://www.edx.org/course/web-accessibility-introduction).**
 
 We hope that you will join your trainers for this course:<br>
 {% include image.html src="shadi.png" alt="" %} 
