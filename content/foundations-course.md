@@ -19,7 +19,7 @@ footer: > # Text in footer in HTML
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
   
-image: https://www.w3.org/comm/assets/graphics/w3cx-accessibility-intro-twitter-only.png
+image: /content-images/wai-fundamentals-overview/social-course1.png
 
 ---
 
