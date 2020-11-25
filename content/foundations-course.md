@@ -100,7 +100,7 @@ _(For information about edX certificate verification and accessibility, see: [ed
 
 
 
-{% include_cached button.html type="link" label="Enroll in the course" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&mdash;_log in to edX or create edX account_
+{% include_cached button.html type="link" label="Enroll in the course" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&larr;_log in to edX or create edX account_
 
 ## Video excerpts from the course
 
@@ -147,8 +147,10 @@ Course project manager and trainers:<br>
 {% include image.html src="sarah.png" alt="" %} 
 {% include image.html src="andrew.png" alt="" %}
 
+<br>
+
 {% include_cached button.html type="link" label="Learn more from the edX course page" class="secondary" href="https://www.edx.org/course/web-accessibility-introduction" %}
-{% include_cached button.html type="link" label="Enroll in the course" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&mdash;_ log in to edX or create edX account_
+{% include_cached button.html type="link" label="Enroll in the course" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&larr;_log in to edX or create edX account_
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
