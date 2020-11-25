@@ -25,7 +25,7 @@ footer: > # Text in footer in HTML
 ---
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
-<p>Accessibility skills are increasingly in demand. From this professional development course, you can immediately start improving your projects to better meet accessibility requirements.</p>
+<p>Accessibility skills are increasingly in demand. With this course, you can build your skills and immediately start improving your projects to better meet accessibility requirements.</p>
 <cite style="font-size:0.8125rem!important">Shadi Abou-Zahra,<br>Course Project Manager</cite>
 </blockquote>
 
