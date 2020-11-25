@@ -15,7 +15,7 @@ github:
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 23 November 2020.</p>
+  <p><strong>Date:</strong> Updated 24 November 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
   
@@ -60,12 +60,12 @@ And also:
 The course is structured so that you can focus on the topics that you are most interested in. Optional activities and additional materials provide more learning on specific topics.
 
 For example, you can choose to focus on:
-* Coding web applications to meet international W3C standards.
-* Designing interfaces to meet the needs of people with disabilities, including older users.
-* Advocating for accessibility by understanding real-life experiences of how accessibility is essential for some, and useful for all.
-* Writing a business case to present to management.
-* Planning and managing accessibility in projects and in organizations.
-* Checking web pages for basic accessibility issues and improving accessibility.
+* **Coding** web applications to meet international W3C standards.
+* **Designing** interfaces to meet the needs of people with disabilities, including older users.
+* **Advocating** for accessibility by understanding real-life experiences of how accessibility is essential for some, and useful for all.
+* **Writing** a business case to present to management.
+* **Planning** and managing accessibility in projects and in organizations.
+* **Checking** web pages for basic accessibility issues and improving accessibility.
 
 The **syllabus** includes:
 *  What is Web Accessibility (2 sections) &mdash; challenges the way you may approach accessibility.
@@ -113,7 +113,7 @@ From Module 1, on how accessibility impacts the lives of people interacting in t
 {% include image.html src="makoto-video.png" class="normal right" %}
 
 From Module 4, on designing and developing accessibly:
-* **[Check Headings](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/@@))_
+* **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/@@))_
 
 ## Provided by
 
