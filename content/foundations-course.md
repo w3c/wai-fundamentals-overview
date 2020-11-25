@@ -68,7 +68,7 @@ For example, you can choose to focus on:
 * **Planning** and managing accessibility in projects and in organizations.
 * **Checking** web pages for basic accessibility issues and improving accessibility.
 
-The **syllabus** includes:
+We encourage you to go through the entire course, even if you focus more on some topics. The **syllabus** includes:
 *  What is Web Accessibility (2 sections) &mdash; challenges the way you may approach accessibility.
 *  **People and Digital Technology** (5 sections) &mdash; gives you the “why” behind the what you need to do for accessibility.
 *  Business Case and Benefits (2 sections) &mdash; explains how accessibility can expand market reach, demonstrate social responsibility, drive innovation, and minimize legal risk.
