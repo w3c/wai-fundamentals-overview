@@ -13,14 +13,15 @@ github:
   repository: w3c/wai-fundamentals-overview
   path: content/foundations-course.md
 
+description: Professional development course for technical and non-technical learners -- including developers, designers, content authors, ux, project managers, people with disabilities, instructors, and students.
+image: /content-images/wai-fundamentals-overview/social-course1.png
+
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 24 November 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
   
-image: /content-images/wai-fundamentals-overview/social-course1.png
-
 ---
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
