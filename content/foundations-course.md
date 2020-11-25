@@ -13,7 +13,7 @@ github:
   repository: w3c/wai-fundamentals-overview
   path: content/foundations-course.md
 
-description: Professional development course for technical and non-technical learners -- including developers, designers, content authors, ux, project managers, people with disabilities, instructors, and students.
+description: For developers, designers, ux, writers, managers, advocates - professionals, instructors, students - technical and non-technical.
 image: /content-images/wai-fundamentals-overview/social-course1.png
 
 feedbackmail: wai@w3.org
