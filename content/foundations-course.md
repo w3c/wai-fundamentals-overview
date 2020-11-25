@@ -24,11 +24,11 @@ image: /content-images/wai-fundamentals-overview/social-course1.png
 ---
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
-<p>Accessibility skills are increasingly in demand. With this professional development course, you’ll be able to immediately start improving your projects to better meet accessibility requirements.</p>
+<p>Accessibility skills are increasingly in demand. From this professional development course, you can immediately start improving your projects to better meet accessibility requirements.</p>
 <cite style="font-size:0.8125rem!important">Shadi Abou-Zahra,<br>Course Project Manager</cite>
 </blockquote>
 
-The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" online course provides the foundation for making your websites, apps, and other digital technology:
+The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" online course **provides the foundation** for making your websites, apps, and other digital technology:
 
 *   work well for people with disabilities
 *   meet international standards
@@ -67,14 +67,14 @@ For example, you can choose to focus on:
 * Planning and managing accessibility in projects and in organizations.
 * Checking web pages for basic accessibility issues and improving accessibility.
 
-The syllabus includes:
+The **syllabus** includes:
 *  What is Web Accessibility (2 sections) &mdash; challenges the way you may approach accessibility.
 *  **People and Digital Technology** (5 sections) &mdash; gives you the “why” behind the what you need to do for accessibility.
 *  Business Case and Benefits (2 sections) &mdash; explains how accessibility can expand market reach, demonstrate social responsibility, drive innovation, and minimize legal risk.
-*  **Principles, Standards, and Checks** (5 sections) &mdash; walks through the accessibility requirements in Web Content Accessibility Guidelines (WCAG); provides optional material for learning more about coding accessibly; shows you how to use tools to check some accessibility barriers.
+*  **Principles, Standards, and Checks** (5 sections) &mdash; walks through the accessibility requirements in Web Content Accessibility Guidelines (WCAG); provides optional material for learning more about coding accessibly; guides you to use tools to check some accessibility barriers.
 *  Getting Started with Accessibility (2 sections) &mdash; explains approaches for integrating accessibility into your design and development processes; provides tips for getting started with accessibility right away.
 
-_More “What you’ll learn” and more detailed syllabus is in the [edX course page](https://www.edx.org/course/web-accessibility-introduction)._
+_More “What you’ll learn” and syllabus is in the [edX course page](https://www.edx.org/course/web-accessibility-introduction)._
 
 ## Duration
 
@@ -100,7 +100,7 @@ _(For information about edX certificate verification and accessibility, see: [ed
 
 
 
-{% include_cached button.html type="link" label="Enroll in the Course" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %} &mdash; &mdash; login to edX or create edX account.
+{% include_cached button.html type="link" label="Enroll in the course" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&mdash;_log in to edX or create edX account_
 
 ## Video excerpts from the course
 
@@ -147,10 +147,8 @@ Course project manager and trainers:<br>
 {% include image.html src="sarah.png" alt="" %} 
 {% include image.html src="andrew.png" alt="" %}
 
-{% include_cached button.html type="link" label="Enroll in Course (log in to edX or create edX account)" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}
-
-{% include_cached button.html type="link" label="Learn more from edX course page" class="more secondary" href="https://example.com" %}
-{% include_cached button.html type="link" label="Enroll in the Course" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %} &mdash; &mdash; login to edX or create edX account.
+{% include_cached button.html type="link" label="Learn more from the edX course page" class="secondary" href="https://www.edx.org/course/web-accessibility-introduction" %}
+{% include_cached button.html type="link" label="Enroll in the course" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&mdash;_ log in to edX or create edX account_
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
