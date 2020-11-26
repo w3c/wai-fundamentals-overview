@@ -40,4 +40,4 @@ The following resources provide information for getting started with accessibili
 [[Accessibility, Usability, and Inclusion]](/fundamentals/accessibility-usability-inclusion/)
 :   Explains the distinctions and overlaps between accessibility, usability, and inclusive design; encourages increased coordination across research and practice in these disciplines; and points out the importance of maintaining the focus of accessibility on people with disabilities.
 
-A related page introduces existing guidelines and additional work on accessibility for people with cognitive and learning disabilities: [Cognitive Accessibility at W3C](https://www.w3.org/WAI/cognitive/).
+A related page introduces existing guidelines and additional work on accessibility for people with cognitive and learning disabilities: [[Cognitive Accessibility at W3C]](/cognitive/).
