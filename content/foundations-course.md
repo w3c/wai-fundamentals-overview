@@ -25,8 +25,8 @@ footer: > # Text in footer in HTML
 ---
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
-<p>Accessibility skills are increasingly in demand. With this course, you can build your skills and immediately start improving your projects to better meet accessibility requirements.</p>
-<cite style="font-size:0.8125rem!important">Shadi Abou-Zahra,<br>Course Project Manager</cite>
+<p>Accessibility skills are increasingly in demand. With this course, you can build your accessibility skills and immediately apply them in practice.</p>
+<cite style="font-size:0.8125rem!important">Shadi Abou-Zahra, <br />Course Project Manager</cite>
 </blockquote>
 
 The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" online course **provides the foundation** for making your websites, apps, and other digital technology:
@@ -40,8 +40,8 @@ Accessibility is essential to create high-quality products, and to not exclude p
 ## Who the course is for
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
-<p>It’s for beginners, and others.<br>This course is also for people who already know some about accessibility and want to broaden their knowledge and perspectives.</p>
-<cite style="font-size:0.8125rem!important">Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator</cite>
+<p>It’s for beginners, and others. <br/>This course is also for people who already know some about accessibility and want to broaden their knowledge and perspectives.</p>
+<cite style="font-size:0.8125rem!important">Shawn Lawton Henry, <br />W3C Accessibility Education and Outreach Coordinator</cite>
 </blockquote>
 
 The course is designed for **technical and non-technical** learners, including:
