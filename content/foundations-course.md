@@ -58,9 +58,9 @@ And also:
 
 ## What you get from the course
 
-The course is structured so that you can focus on the topics that you are most interested in. Optional activities and additional materials provide more learning on specific topics.
+{% include image.html src="checks-image-1.png" alt="checks boxes, green checkmarks, red x-marks" class="large right" %}
 
-{% include image.html src="checks-image-1.png" alt="checks boxes, green checkmarks, red x-marks" class="normal right" %}
+The course is structured so that you can focus on the topics that you are most interested in. Optional activities and additional materials provide more learning on specific topics.
 
 For example, you can choose to focus on:
 * **Coding** web applications to meet international W3C standards.
@@ -74,11 +74,10 @@ We encourage you to go through the entire course, even if you focus more on some
 
 ### Course content (syllabus):
 
-{% include image.html src="wcag2.1AA-blue-v.svg" alt="W3C WAI-AA WCAG 2.1 logo" class="normal right" %}
-
 *  What is Web Accessibility (2 sections) &mdash; challenges the way you may approach accessibility.
 *  **People and Digital Technology** (5 sections) &mdash; gives you the “why” behind the what you need to do for accessibility.
 *  Business Case and Benefits (2 sections) &mdash; explains how accessibility can expand market reach, demonstrate social responsibility, drive innovation, and minimize legal risk.
+{% include image.html src="wcag2.1AA-blue-v.svg" alt="W3C WAI-AA WCAG 2.1 logo" class="small right" %}
 *  **Principles, Standards, and Checks** (5 sections) &mdash; guides you through understanding accessibility requirements and checking for accessibility barriers (also called evaluating or testing for errors or bugs) &mdash; with non-technical and technical guidance; provides optional material for learning more about coding accessibly.
 *  Getting Started with Accessibility (2 sections) &mdash; explains approaches for integrating accessibility into your design and development processes; provides tips for getting started with accessibility right away.
 
