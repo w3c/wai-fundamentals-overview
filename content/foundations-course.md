@@ -72,9 +72,11 @@ For example, you can choose to focus on:
 
 We encourage you to go through the whole course, even if you focus more on some topics.
 
-{% include image.html src="wcag2.1AA-blue-v.svg" alt="W3C WAI-AA WCAG 2.1 logo" class="normal right" %}
+{% include image.html src="wcag2.1AAA-blue-v.svg" alt="W3C WAI-AAA WCAG 2.1 logo" class="normal right" %}
 
-### Course content (syllabus):
+### Course content (syllabus)
+
+The course covers principles from the World Wide Web Consortium (W3C) Web Accessibility Initiative's (WAI) Web Content Accessibility Guidelines (WCAG), and much more:
 
 *  What is Web Accessibility (2 sections) &mdash; challenges the way you may approach accessibility.
 *  **People and Digital Technology** (5 sections) &mdash; gives you the “why” behind the what you need to do for accessibility.
@@ -105,8 +107,6 @@ The Certificate can be printed, listed in resumes, and linked to from online pro
 You can start auditing the course now, and later choose to get a Verified Certificate.
 
 _(For information about edX certificate verification and accessibility, see: [edX Help Center Accessibility pages](https://support.edx.org/hc/en-us/sections/360007007533-Accessibility).)_
-
-
 
 {% include_cached button.html type="link" label="Enroll in the course on edX" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&larr;_log in to edX or create edX account_
 
