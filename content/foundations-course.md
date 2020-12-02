@@ -18,7 +18,7 @@ image: /content-images/wai-fundamentals-overview/social-course1.png
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 2 December 2020.</p>
+  <p><strong>Date:</strong> Updated 3 December 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
   
@@ -58,7 +58,7 @@ And also:
 
 ## What you get from the course
 
-{% include image.html src="checks-image-1.png" alt="Checks boxes, green checkmarks, red x-marks" class="normal right" %}
+{% include image.html src="checks-image-1.png" alt="Checks boxes, green checkmarks, red x-marks" class="large right" %}
 
 The course is structured so that you can focus on the topics that you are most interested in. Optional activities and additional materials provide more learning on specific topics.
 
@@ -72,7 +72,7 @@ For example, you can choose to focus on:
 
 We encourage you to go through the whole course, even if you focus more on some topics.
 
-<p style="float: left; margin-right: 2rem; width: 30%; max-width: 220px">Learn Web Content Accessibility Guidelines (WCAG)<br><img src="/content-images/wai-fundamentals-overview/wcag2.1AA-blue-v.svg" alt="W3C WAI-AA WCAG 2.1 logo" class="normal" /></p>
+{% include image.html src="wcag2.1AA-blue-v.svg" alt="W3C WAI-AA WCAG 2.1 logo" class="normal right" %}
 
 ### Course content (syllabus):
 
