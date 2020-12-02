@@ -7,7 +7,7 @@ permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
 
 lang: en
-last_updated: 2020-11-24
+last_updated: 2020-12-03
 
 github:
   repository: w3c/wai-fundamentals-overview
@@ -18,7 +18,7 @@ image: /content-images/wai-fundamentals-overview/social-course1.png
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 24 November 2020.</p>
+  <p><strong>Date:</strong> Updated 3 December 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
   
@@ -40,7 +40,7 @@ Accessibility is essential to create high-quality products, and to not exclude p
 ## Who the course is for
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
-<p>It’s for beginners &mdash; <strong>and</strong> it’s also for those who already know some about accessibility and want to broaden their knowledge and perspectives.</p>
+<p>It’s for beginners, and others.<br>This course is also for people who already know some about accessibility and want to broaden their knowledge and perspectives.</p>
 <cite style="font-size:0.8125rem!important">Shawn Lawton Henry,<br>W3C Accessibility Education and Outreach Coordinator</cite>
 </blockquote>
 
@@ -60,19 +60,26 @@ And also:
 
 The course is structured so that you can focus on the topics that you are most interested in. Optional activities and additional materials provide more learning on specific topics.
 
+{% include image.html src="checks-image-1.png" alt="checks boxes, green checkmarks, red x-marks" class="normal right" %}
+
 For example, you can choose to focus on:
 * **Coding** web applications to meet international W3C standards.
 * **Designing** interfaces to meet the needs of people with disabilities, including older users.
-* **Advocating** for accessibility by understanding real-life experiences of how accessibility is essential for some, and useful for all.
 * **Writing** a business case to present to management.
-* **Planning** and managing accessibility in projects and in organizations.
+* **Advocating** for accessibility by understanding real-life experiences of how accessibility is essential for some, and useful for all.
+* **Managing** accessibility in projects and in organizations.
 * **Checking** web pages for basic accessibility issues and improving accessibility.
 
-We encourage you to go through the entire course, even if you focus more on some topics. The **syllabus** includes:
+We encourage you to go through the entire course, even if you focus more on some topics.
+
+### Course content (syllabus):
+
+{% include image.html src="wcag2.1AA-blue-v.svg" alt="W3C WAI-AA WCAG 2.1 logo" class="normal right" %}
+
 *  What is Web Accessibility (2 sections) &mdash; challenges the way you may approach accessibility.
 *  **People and Digital Technology** (5 sections) &mdash; gives you the “why” behind the what you need to do for accessibility.
 *  Business Case and Benefits (2 sections) &mdash; explains how accessibility can expand market reach, demonstrate social responsibility, drive innovation, and minimize legal risk.
-*  **Principles, Standards, and Checks** (5 sections) &mdash; walks through the accessibility requirements in Web Content Accessibility Guidelines (WCAG); provides optional material for learning more about coding accessibly; guides you to use tools to check some accessibility barriers.
+*  **Principles, Standards, and Checks** (5 sections) &mdash; guides you through understanding accessibility requirements and checking for accessibility barriers (also called evaluating or testing for errors or bugs) &mdash; with non-technical and technical guidance; provides optional material for learning more about coding accessibly.
 *  Getting Started with Accessibility (2 sections) &mdash; explains approaches for integrating accessibility into your design and development processes; provides tips for getting started with accessibility right away.
 
 _More “What you’ll learn” and syllabus is in the [edX course page](https://www.edx.org/course/web-accessibility-introduction)._
@@ -101,7 +108,7 @@ _(For information about edX certificate verification and accessibility, see: [ed
 
 
 
-{% include_cached button.html type="link" label="Enroll in the course" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&larr;_log in to edX or create edX account_
+{% include_cached button.html type="link" label="Enroll in the course on edX" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&larr;_log in to edX or create edX account_
 
 ## Video excerpts from the course
 
@@ -151,7 +158,7 @@ Course project manager and trainers:<br>
 <br>
 
 {% include_cached button.html type="link" label="Learn more from the edX course page" class="secondary" href="https://www.edx.org/course/web-accessibility-introduction" %}
-{% include_cached button.html type="link" label="Enroll in the course" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&larr;_log in to edX or create edX account_
+{% include_cached button.html type="link" label="Enroll in the course on edX" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&larr;_log in to edX or create edX account_
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
