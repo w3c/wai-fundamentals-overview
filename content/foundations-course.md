@@ -54,6 +54,7 @@ The course is designed for **technical and non-technical** learners, including:
 And also:
 *  students
 *  instructors
+*  professionals
 *  people with disabilities
 
 ## What you get from the course
