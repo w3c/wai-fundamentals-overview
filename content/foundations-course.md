@@ -7,7 +7,7 @@ permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
 
 lang: en
-last_updated: 2020-12-03
+last_updated: 2020-12-04
 
 github:
   repository: w3c/wai-fundamentals-overview
@@ -18,7 +18,7 @@ image: /content-images/wai-fundamentals-overview/social-course1.png
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 3 December 2020.</p>
+  <p><strong>Date:</strong> Updated 4 December 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
   
@@ -57,7 +57,7 @@ And also:
 *  professionals
 *  people with disabilities
 
-{% include image.html src="checks-image-1.png" alt="'Checks': boxes of text. monitor with green checkmarks and red x-marks." class="large right" %}
+{% include image.html src="checks-image-1.png" alt="'Checks': boxes of text. monitor with green checkmarks and red x-marks." class="medium right" %}
 
 ## What you get from the course
 
@@ -146,16 +146,41 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 ![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative (WAI) logo](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
 
 Course project manager and trainers:<br>
-{% include image.html src="shadi.png" alt="" %} 
-{% include image.html src="shawn.png" alt="" %} 
-{% include image.html src="anthony.png" alt="" %} 
-{% include image.html src="henny.png" alt="" %} 
-{% include image.html src="vivienne.png" alt="" %} 
-{% include image.html src="makoto.png" alt="" %} 
-{% include image.html src="carie.png" alt="" %} 
-{% include image.html src="sarah.png" alt="" %} 
-{% include image.html src="andrew.png" alt="" %}
-
+<h3>Course project manager and trainers:</h3>
+<div style="display: inline;">
+<figure style="display: inline; float: left">
+{% include image.html src="shadi.png" alt="" %}
+<figcaption>Shadi</figcaption>
+</figure>
+<figure style=“display: inline; float: left”>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/shawn.png" alt="">
+<figcaption>Shawn Henry</figcaption>
+</figure>
+<figure style=“display: inline; float: left”>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/anthony.png" alt="">
+<figcaption>Anthony</figcaption>
+</figure>
+<figure style=“display: inline; float: left”>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/henny.png" alt="">
+<figcaption>Henny</figcaption>
+</figure>
+<figure style=“display: inline; float: left”>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/vivienne.png" alt="">
+<figcaption>Vivienne</figcaption>
+</figure>
+<figure style=“display: inline; float: left”>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/makoto.png" alt="">
+<figcaption>Makoto</figcaption>
+</figure>
+<figure style=“display: inline; float: left”>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/sarah.png" alt="">
+<figcaption>Sarah</figcaption>
+</figure>
+<figure style=“display: inline; float: left”>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/andrew.png" alt="">
+<figcaption>Andrew</figcaption>
+</figure>
+</div>
 <br>
 
 {% include_cached button.html type="link" label="Learn more from the edX course page" class="secondary" href="https://www.edx.org/course/web-accessibility-introduction" %}
