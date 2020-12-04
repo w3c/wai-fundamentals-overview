@@ -57,7 +57,7 @@ Accessibility is essential to create high-quality products, and to not exclude p
 ## Who the course is for
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
-<p>It’s for beginners, and others. <br/>This course is also for people who already know some about accessibility and want to broaden their knowledge and perspectives.</p>
+<p>The course is for beginners. And it’s also for people who already know some about accessibility and want to broaden their knowledge and perspectives.</p>
 <cite style="font-size:0.8125rem!important">Shawn Lawton Henry,<br />W3C Accessibility Education and Outreach Coordinator</cite>
 </blockquote>
 
@@ -142,7 +142,7 @@ From Module 4, on designing and developing accessibly:
 * **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/@@))_
 
 ## Provided by
-<p style="float: right; font-size: 0.8125rem; padding:0; margin:0;">Shadi (W3C) and Natalia (UNESCO) introduce the course:</p>
+<p style="float: right; font-size: 0.8125rem; padding:0; margin:0;">Shadi (W3C) and Natalia (UNESCO) introduce the course:</p><div style="clear: both;"></div>
 <div class="video-card">
   {% include video-player.html
       yt-id="HEvDJrwq5LY"
