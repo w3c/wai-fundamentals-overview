@@ -7,7 +7,7 @@ permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
 
 lang: en
-last_updated: 2020-12-03
+last_updated: 2020-12-04
 
 github:
   repository: w3c/wai-fundamentals-overview
@@ -18,10 +18,27 @@ image: /content-images/wai-fundamentals-overview/social-course1.png
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 3 December 2020.</p>
+  <p><strong>Date:</strong> Updated 4 December 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
-  
+
+
+inline_css: |
+  figure.trainers {
+    display: inline;
+    float: left;
+    line-height: 100%;
+    font-size: 0.8125rem;
+    padding-right: 3px;
+    width: 95px; height: 95px;
+  }
+  figcaption {
+    text-align: center;
+    font-weight: normal;
+    border-bottom: none;
+  }
+  img.medium {--img-width:360px}
+
 ---
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
@@ -40,7 +57,7 @@ Accessibility is essential to create high-quality products, and to not exclude p
 ## Who the course is for
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
-<p>It’s for beginners, and others. <br/>This course is also for people who already know some about accessibility and want to broaden their knowledge and perspectives.</p>
+<p>The course is for beginners. And it’s also for people who already know some about accessibility and want to broaden their knowledge and perspectives.</p>
 <cite style="font-size:0.8125rem!important">Shawn Lawton Henry,<br />W3C Accessibility Education and Outreach Coordinator</cite>
 </blockquote>
 
@@ -57,9 +74,9 @@ And also:
 *  professionals
 *  people with disabilities
 
-## What you get from the course
+{% include image.html src="checks-image-1.png" alt="'Checks': boxes of text. monitor with green checkmarks and red x-marks." class="medium right" %}
 
-{% include image.html src="checks-image-1.png" alt="Checks boxes, green checkmarks, red x-marks" class="large right" %}
+## What you get from the course
 
 The course is structured so that you can focus on the topics that you are most interested in. Optional activities and additional materials provide more learning on specific topics.
 
@@ -73,9 +90,9 @@ For example, you can choose to focus on:
 
 We encourage you to go through the whole course, even if you focus more on some topics.
 
-{% include image.html src="wcag2.1AAA-blue-v.svg" alt="W3C WAI-AAA WCAG 2.1 logo" class="normal right" %}
-
 ### Course content (syllabus)
+
+{% include image.html src="wcag2.1AAA-blue-v.svg" alt="W3C WAI-AAA WCAG 2.1 logo" class="small right" %}
 
 The course covers principles from the World Wide Web Consortium (W3C) Web Accessibility Initiative's (WAI) Web Content Accessibility Guidelines (WCAG), and much more:
 
@@ -125,10 +142,7 @@ From Module 4, on designing and developing accessibly:
 * **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/@@))_
 
 ## Provided by
-
-{% comment %}
-This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
-{% endcomment %}
+<p style="float: right; font-size: 0.8125rem; padding:0; margin:0;">Shadi (W3C) and Natalia (UNESCO) introduce the course:</p><div style="clear: both;"></div>
 <div class="video-card">
   {% include video-player.html
       yt-id="HEvDJrwq5LY"
@@ -145,17 +159,46 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 ![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative (WAI) logo](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
 
-Course project manager and trainers:<br>
-{% include image.html src="shadi.png" alt="" %} 
-{% include image.html src="shawn.png" alt="" %} 
-{% include image.html src="anthony.png" alt="" %} 
-{% include image.html src="henny.png" alt="" %} 
-{% include image.html src="vivienne.png" alt="" %} 
-{% include image.html src="makoto.png" alt="" %} 
-{% include image.html src="carie.png" alt="" %} 
-{% include image.html src="sarah.png" alt="" %} 
-{% include image.html src="andrew.png" alt="" %}
+Course project manager and trainers:
 
+<figure class="trainers">
+  {% include image.html src="shadi.png" alt="" %}
+  <figcaption>Shadi<br>Abou-Zahra</figcaption>
+  </figure>
+<figure class="trainers">
+  {% include image.html src="shawn.png" alt="" %}
+  <figcaption>Shawn<br>Henry</figcaption>
+  </figure>
+<figure class="trainers">
+  {% include image.html src="anthony.png" alt="" %}
+  <figcaption>Anthony<br>Vasquez</figcaption>
+  </figure>
+<figure class="trainers">
+  {% include image.html src="henny.png" alt="" %}
+  <figcaption>Henny<br>Swan</figcaption>
+  </figure>
+<figure class="trainers">
+  {% include image.html src="vivienne.png" alt="" %}
+  <figcaption>Vivienne<br>Conway</figcaption>
+  </figure>
+<figure class="trainers">
+  {% include image.html src="makoto.png" alt="" %}
+  <figcaption>Makoto<br>Ueki</figcaption>
+  </figure>
+<figure class="trainers">
+  {% include image.html src="carie.png" alt="" %}
+  <figcaption>Carie<br>Fisher</figcaption>
+  </figure>
+<figure class="trainers">
+  {% include image.html src="sarah.png" alt="" %}
+  <figcaption>Sarah<br>Pulis</figcaption>
+  </figure>
+<figure class="trainers">
+  {% include image.html src="andrew.png" alt="" %}
+  <figcaption>Andrew<br>Arch</figcaption>
+  </figure>
+
+<div style="clear: both;"></div>
 <br>
 
 {% include_cached button.html type="link" label="Learn more from the edX course page" class="secondary" href="https://www.edx.org/course/web-accessibility-introduction" %}
