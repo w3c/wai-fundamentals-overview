@@ -22,7 +22,6 @@ footer: > # Text in footer in HTML
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
-
 inline_css: |
   figure.trainers {
     display: inline;
@@ -33,6 +32,7 @@ inline_css: |
   figcaption {
     text-align: center;
     font-weight: normal;
+    border-bottom: none;
   }
   img.medium {--img-width:360px}
 
@@ -87,7 +87,7 @@ For example, you can choose to focus on:
 
 We encourage you to go through the whole course, even if you focus more on some topics.
 
-{% include image.html src="wcag2.1AAA-blue-v.svg" alt="W3C WAI-AAA WCAG 2.1 logo" class="normal right" %}
+{% include image.html src="wcag2.1AAA-blue-v.svg" alt="W3C WAI-AAA WCAG 2.1 logo" class="small right" %}
 
 ### Course content (syllabus)
 
@@ -140,9 +140,8 @@ From Module 4, on designing and developing accessibly:
 
 ## Provided by
 
-{% comment %}
-This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
-{% endcomment %}
+<span class="hidden">Course Introduction Video</span>
+
 <div class="video-card">
   {% include video-player.html
       yt-id="HEvDJrwq5LY"
@@ -160,6 +159,7 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 ![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative (WAI) logo](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
 
 Course project manager and trainers:<br>
+<div>
 <figure class=“trainers”>
   {% include image.html src="shadi.png" alt="" %}
   <figcaption>Shadi Abou-Zahra</figcaption>
@@ -196,8 +196,8 @@ Course project manager and trainers:<br>
   {% include image.html src="andrew.png" alt="" %}
   <figcaption>Andrew Arch</figcaption>
   </figure>
+</div>
 
-<div style="clear: both;"></div>
 <br>
 
 {% include_cached button.html type="link" label="Learn more from the edX course page" class="secondary" href="https://www.edx.org/course/web-accessibility-introduction" %}
