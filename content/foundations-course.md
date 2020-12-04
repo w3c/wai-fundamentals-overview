@@ -57,9 +57,9 @@ And also:
 *  professionals
 *  people with disabilities
 
-## What you get from the course
+{% include image.html src="checks-image-1.png" alt="'Checks': boxes of text. monitor with green checkmarks and red x-marks." class="large right" %}
 
-{% include image.html src="checks-image-1.png" alt="Checks boxes, green checkmarks, red x-marks" class="large right" %}
+## What you get from the course
 
 The course is structured so that you can focus on the topics that you are most interested in. Optional activities and additional materials provide more learning on specific topics.
 
