@@ -29,6 +29,7 @@ inline_css: |
     float: left;
     line-height: 100%;
     font-size: 0.8125rem;
+    padding-right: 3px;
   }
   figcaption {
     text-align: center;
@@ -158,26 +159,11 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 Course project manager and trainers:
 
-@@ img include - Course project manager and trainers:<br>
-
 <figure class="trainers">
-  {% include image.html src="anthony.png" alt="" %}
-  <figcaption>Anthony Vasquez</figcaption>
-  </figure>
-
-<figure class="trainers">
-  {% include image.html src="henny.png" alt="" %}
-  <figcaption>Henny Swan</figcaption>
-  </figure>
-
-<div style="clear: both;"></div>
-@@ new above @@
-
-<figure class=“trainers”>
   {% include image.html src="shadi.png" alt="" %}
   <figcaption>Shadi Abou-Zahra</figcaption>
   </figure>
-<figure class=“trainers”>
+<figure class="trainers">
   {% include image.html src="shawn.png" alt="" %}
   <figcaption>Shawn Henry</figcaption>
   </figure>
@@ -189,27 +175,28 @@ Course project manager and trainers:
   {% include image.html src="henny.png" alt="" %}
   <figcaption>Henny Swan</figcaption>
   </figure>
-<figure class=“trainers”>
+<figure class="trainers">
   {% include image.html src="vivienne.png" alt="" %}
   <figcaption>Vivienne Conway</figcaption>
   </figure>
-<figure class=“trainers”>
+<figure class="trainers">
   {% include image.html src="makoto.png" alt="" %}
   <figcaption>Makoto Ueki</figcaption>
   </figure>
-<figure class=“trainers”>
+<figure class="trainers">
   {% include image.html src="carie.png" alt="" %}
   <figcaption>Carie Fisher</figcaption>
   </figure>
-<figure class=“trainers”>
+<figure class="trainers">
   {% include image.html src="sarah.png" alt="" %}
   <figcaption>Sarah Pulis</figcaption>
   </figure>
-<figure class=“trainers”>
+<figure class="trainers">
   {% include image.html src="andrew.png" alt="" %}
   <figcaption>Andrew Arch</figcaption>
   </figure>
 
+<div style="clear: both;"></div>
 <br>
 
 {% include_cached button.html type="link" label="Learn more from the edX course page" class="secondary" href="https://www.edx.org/course/web-accessibility-introduction" %}
@@ -249,19 +236,3 @@ Shadi: And, of course, you'll also learn all about the international standards f
 Natalia: This course was designed for technical and non-technical people. If you work with digital technologies this course is ideal for you to get started.
 
 {% include excol.html type="end" %}
-
-@@ img include - Course project manager and trainers:<br>
-
-<figure class="trainers">
-  {% include image.html src="anthony.png" alt="" %}
-  <figcaption>Anthony Vasquez</figcaption>
-  </figure>
-
-<figure class="trainers">
-  {% include image.html src="henny.png" alt="" %}
-  <figcaption>Henny Swan</figcaption>
-  </figure>
-
-<div style="clear: both;"></div>
-
-test here
