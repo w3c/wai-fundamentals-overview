@@ -158,6 +158,21 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 Course project manager and trainers:
 
+@@ img include - Course project manager and trainers:<br>
+
+<figure class="trainers">
+  {% include image.html src="anthony.png" alt="" %}
+  <figcaption>Anthony Vasquez</figcaption>
+  </figure>
+
+<figure class="trainers">
+  {% include image.html src="henny.png" alt="" %}
+  <figcaption>Henny Swan</figcaption>
+  </figure>
+
+<div style="clear: both;"></div>
+@@ new above @@
+
 <figure class=“trainers”>
   {% include image.html src="shadi.png" alt="" %}
   <figcaption>Shadi Abou-Zahra</figcaption>
