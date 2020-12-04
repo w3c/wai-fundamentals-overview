@@ -29,10 +29,12 @@ inline_css: |
     float: left;
     line-height: 100%;
     font-size: 0.8125rem;
-  }  
+  }
   figcaption {
     text-align: center;
+    font-weight: normal;
   }
+  img.medium {--img-width:360px}
 
 ---
 
@@ -157,8 +159,15 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 ![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative (WAI) logo](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
 
-@@ img include - Course project manager and trainers:<br>
-
+Course project manager and trainers:<br>
+<figure class=“trainers”>
+  {% include image.html src="shadi.png" alt="" %}
+  <figcaption>Shadi Abou-Zahra</figcaption>
+  </figure>
+<figure class=“trainers”>
+  {% include image.html src="shawn.png" alt="" %}
+  <figcaption>Shawn Henry</figcaption>
+  </figure>
 <figure class="trainers">
   {% include image.html src="anthony.png" alt="" %}
   <figcaption>Anthony Vasquez</figcaption>
@@ -167,36 +176,28 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
   {% include image.html src="henny.png" alt="" %}
   <figcaption>Henny Swan</figcaption>
   </figure>
-
-
-@@ HTML - Course project manager and trainers:<br>
-<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/shadi.png" alt="">
-  <figcaption>Shadi Abou-Zahra</figcaption>
-</figure>
-<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/shawn.png" alt="">
-  <figcaption>Shawn Henry</figcaption>
-</figure>
-<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/anthony.png" alt="">
-  <figcaption>Anthony Vasquez</figcaption>
-</figure>
-<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/henny.png" alt="">
-  <figcaption>Henny Swan</figcaption>
-</figure>
-<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/vivienne.png" alt="">
+<figure class=“trainers”>
+  {% include image.html src="vivienne.png" alt="" %}
   <figcaption>Vivienne Conway</figcaption>
-</figure>
-<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/makoto.png" alt="">
+  </figure>
+<figure class=“trainers”>
+  {% include image.html src="makoto.png" alt="" %}
   <figcaption>Makoto Ueki</figcaption>
-</figure>
-<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/carie.png" alt="">
+  </figure>
+<figure class=“trainers”>
+  {% include image.html src="carie.png" alt="" %}
   <figcaption>Carie Fisher</figcaption>
-</figure>
-<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/sarah.png" alt="">
+  </figure>
+<figure class=“trainers”>
+  {% include image.html src="sarah.png" alt="" %}
   <figcaption>Sarah Pulis</figcaption>
-</figure>
-<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/andrew.png" alt="">
+  </figure>
+<figure class=“trainers”>
+  {% include image.html src="andrew.png" alt="" %}
   <figcaption>Andrew Arch</figcaption>
-</figure>
+  </figure>
+
+<div style="clear: both;"></div>
 <br>
 
 {% include_cached button.html type="link" label="Learn more from the edX course page" class="secondary" href="https://www.edx.org/course/web-accessibility-introduction" %}
