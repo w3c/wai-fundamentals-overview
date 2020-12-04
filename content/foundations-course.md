@@ -30,7 +30,7 @@ inline_css: |
     line-height: 100%;
     font-size: 0.8125rem;
     padding-right: 3px;
-    width: 100px; height: 100px;
+    width: 80px; height: 80px;
   }
   figcaption {
     text-align: center;
@@ -142,7 +142,7 @@ From Module 4, on designing and developing accessibly:
 * **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/@@))_
 
 ## Provided by
-<span style="float: right; font-size: 0.8125rem; padding:0; margin:0;">Shadi (W3C) and Natalia (UNESCO) introduce the course:</span>
+<span style="float: right; font-size: 0.8125rem; padding:0; margin:0;">Shadi (W3C) and Natalia (UNESCO) introduce the course:</span><br>
 <div class="video-card">
   {% include video-player.html
       yt-id="HEvDJrwq5LY"
@@ -163,39 +163,39 @@ Course project manager and trainers:
 
 <figure class="trainers">
   {% include image.html src="shadi.png" alt="" %}
-  <figcaption>Shadi Abou-Zahra</figcaption>
+  <figcaption>Shadi<br>Abou-Zahra</figcaption>
   </figure>
 <figure class="trainers">
   {% include image.html src="shawn.png" alt="" %}
-  <figcaption>Shawn Henry</figcaption>
+  <figcaption>Shawn<br>Henry</figcaption>
   </figure>
 <figure class="trainers">
   {% include image.html src="anthony.png" alt="" %}
-  <figcaption>Anthony Vasquez</figcaption>
+  <figcaption>Anthony<br>Vasquez</figcaption>
   </figure>
 <figure class="trainers">
   {% include image.html src="henny.png" alt="" %}
-  <figcaption>Henny Swan</figcaption>
+  <figcaption>Henny<br>Swan</figcaption>
   </figure>
 <figure class="trainers">
   {% include image.html src="vivienne.png" alt="" %}
-  <figcaption>Vivienne Conway</figcaption>
+  <figcaption>Vivienne<br>Conway</figcaption>
   </figure>
 <figure class="trainers">
   {% include image.html src="makoto.png" alt="" %}
-  <figcaption>Makoto Ueki</figcaption>
+  <figcaption>Makoto<br>Ueki</figcaption>
   </figure>
 <figure class="trainers">
   {% include image.html src="carie.png" alt="" %}
-  <figcaption>Carie Fisher</figcaption>
+  <figcaption>Carie<br>Fisher</figcaption>
   </figure>
 <figure class="trainers">
   {% include image.html src="sarah.png" alt="" %}
-  <figcaption>Sarah Pulis</figcaption>
+  <figcaption>Sarah<br>Pulis</figcaption>
   </figure>
 <figure class="trainers">
   {% include image.html src="andrew.png" alt="" %}
-  <figcaption>Andrew Arch</figcaption>
+  <figcaption>Andrew<br>Arch</figcaption>
   </figure>
 
 <div style="clear: both;"></div>
