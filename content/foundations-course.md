@@ -89,9 +89,9 @@ For example, you can choose to focus on:
 
 We encourage you to go through the whole course, even if you focus more on some topics.
 
-{% include image.html src="wcag2.1AAA-blue-v.svg" alt="W3C WAI-AAA WCAG 2.1 logo" class="small right" %}
-
 ### Course content (syllabus)
+
+{% include image.html src="wcag2.1AAA-blue-v.svg" alt="W3C WAI-AAA WCAG 2.1 logo" class="small right" %}
 
 The course covers principles from the World Wide Web Consortium (W3C) Web Accessibility Initiative's (WAI) Web Content Accessibility Guidelines (WCAG), and much more:
 
@@ -141,6 +141,8 @@ From Module 4, on designing and developing accessibly:
 * **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/@@))_
 
 ## Provided by
+<span style="float: right; font-size: 0.8125rem;">Shadi (W3C) and Natalia (UNESCO) introduce the course:</span>
+{.hide}
 <div class="video-card">
   {% include video-player.html
       yt-id="HEvDJrwq5LY"
