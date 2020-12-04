@@ -30,6 +30,7 @@ inline_css: |
     line-height: 100%;
     font-size: 0.8125rem;
     padding-right: 3px;
+    width: 100px; height: 100px;
   }
   figcaption {
     text-align: center;
@@ -141,8 +142,7 @@ From Module 4, on designing and developing accessibly:
 * **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/@@))_
 
 ## Provided by
-<span style="float: right; font-size: 0.8125rem;">Shadi (W3C) and Natalia (UNESCO) introduce the course:</span>
-{.hide}
+<span style="float: right; font-size: 0.8125rem; padding:0; margin:0;">Shadi (W3C) and Natalia (UNESCO) introduce the course:</span>
 <div class="video-card">
   {% include video-player.html
       yt-id="HEvDJrwq5LY"
