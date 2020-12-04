@@ -22,6 +22,7 @@ footer: > # Text in footer in HTML
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
+
 inline_css: |
   figure.trainers {
     display: inline;
@@ -139,9 +140,6 @@ From Module 4, on designing and developing accessibly:
 * **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/@@))_
 
 ## Provided by
-
-<span class="hidden">Course Introduction Video</span>
-
 <div class="video-card">
   {% include video-player.html
       yt-id="HEvDJrwq5LY"
@@ -237,3 +235,47 @@ Shadi: And, of course, you'll also learn all about the international standards f
 Natalia: This course was designed for technical and non-technical people. If you work with digital technologies this course is ideal for you to get started.
 
 {% include excol.html type="end" %}
+
+@@ img include - Course project manager and trainers:<br>
+
+<figure class="trainers">
+  {% include image.html src="anthony.png" alt="" %}
+  <figcaption>Anthony Vasquez</figcaption>
+  </figure>
+<figure class="trainers">
+  {% include image.html src="henny.png" alt="" %}
+  <figcaption>Henny Swan</figcaption>
+  </figure>
+
+
+@@ HTML - Course project manager and trainers:<br>
+<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/shadi.png" alt="">
+  <figcaption>Shadi Abou-Zahra</figcaption>
+</figure>
+<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/shawn.png" alt="">
+  <figcaption>Shawn Henry</figcaption>
+</figure>
+<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/anthony.png" alt="">
+  <figcaption>Anthony Vasquez</figcaption>
+</figure>
+<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/henny.png" alt="">
+  <figcaption>Henny Swan</figcaption>
+</figure>
+<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/vivienne.png" alt="">
+  <figcaption>Vivienne Conway</figcaption>
+</figure>
+<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/makoto.png" alt="">
+  <figcaption>Makoto Ueki</figcaption>
+</figure>
+<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/carie.png" alt="">
+  <figcaption>Carie Fisher</figcaption>
+</figure>
+<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/sarah.png" alt="">
+  <figcaption>Sarah Pulis</figcaption>
+</figure>
+<figure class="trainers"> <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/andrew.png" alt="">
+  <figcaption>Andrew Arch</figcaption>
+</figure>
+<br>
+
+test here
