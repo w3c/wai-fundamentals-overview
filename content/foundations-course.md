@@ -156,7 +156,8 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 ![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative (WAI) logo](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
 
-Course project manager and trainers:<br>
+Course project manager and trainers:
+
 <figure class=“trainers”>
   {% include image.html src="shadi.png" alt="" %}
   <figcaption>Shadi Abou-Zahra</figcaption>
@@ -240,11 +241,12 @@ Natalia: This course was designed for technical and non-technical people. If you
   {% include image.html src="anthony.png" alt="" %}
   <figcaption>Anthony Vasquez</figcaption>
   </figure>
+
 <figure class="trainers">
   {% include image.html src="henny.png" alt="" %}
   <figcaption>Henny Swan</figcaption>
   </figure>
 
-<br>
+<div style="clear: both;"></div>
 
 test here
