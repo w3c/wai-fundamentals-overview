@@ -156,7 +156,7 @@ Here are some things that developers, accessibility specialists, and beginners a
 
 {% include_cached blockquote.html content="<p>‘Disability is about design. Bad design is disabling.’ The course on web accessibility by the @w3c_wai is filled with eye-opening arguments and concepts. Great job @shawn_slh and team!<br>Join the course!</p>" source="Carlos Muncharaz, Front-end Developer, Accessibility Specialist" href="https://twitter.com/cmuncharaz/status/1225425651848663043" %}
 
-{% include_cached blockquote.html content="<p>I just enrolled in this accessibility course and I watched some short clips (Module 1), and it made an impact on me.<br>I will work from now on accessibility improvements thinking about these real people, not just because "the law", or because you "should"</p>" source="David Corbacho Roman, Señor Developer… Finland… JavaScript, React, Apollo, GraphQL, Next.js, Edge networking." href="https://twitter.com/dcorbacho/status/1250661298116886530" %}
+{% include_cached blockquote.html content="<p>I just enrolled in this accessibility course and I watched some short clips (Module 1), and it made an impact on me.<br>I will work from now on accessibility improvements thinking about these real people, not just because ‘the law’, or because you ’should’</p>" source="David Corbacho Roman, Señor Developer… Finland… JavaScript, React, Apollo, GraphQL, Next.js, Edge networking." href="https://twitter.com/dcorbacho/status/1250661298116886530" %}
 
 {% include_cached blockquote.html content="<p> I’ve recommended this course to quite a few people. It’s easy to follow and complete. You can do it over several sessions at your own pace.</p>" source="Laiya Lee 李荔雅" href="https://twitter.com/YULaiLai/status/1331577142640058368" %}
 
