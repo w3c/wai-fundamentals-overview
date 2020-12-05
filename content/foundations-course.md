@@ -54,6 +54,18 @@ The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-access
 
 Accessibility is essential to create high-quality products, and to not exclude people from using your products and services.
 
+{::options toc_levels="2" /}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
 ## Who the course is for
 
 <blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
@@ -141,6 +153,25 @@ From Module 1, on how accessibility impacts the lives of people interacting in t
 From Module 4, on designing and developing accessibly:
 * **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/@@))_
 
+## Course comments and survey responses
+
+Here are some things that developers, accessibility specialists, and beginners are [tweeting about the course](https://www.w3.org/WAI/EO/wiki/Promoting_W3Cx_Intro_Course#student_public_comments):
+
+{% include_cached blockquote.html content="<p>‘Disability is about design. Bad design is disabling.’ The course on web accessibility by the @w3c_wai is filled with eye-opening arguments and concepts. Great job @shawn_slh and team!<br>Join the course!</p>" source="Carlos Muncharaz, Front-end Developer, Accessibility Specialist" href="https://twitter.com/cmuncharaz/status/1225425651848663043" %}
+
+{% include_cached blockquote.html content="<p>I just enrolled in this accessibility course and I watched some short clips (Module 1), and it made an impact on me.<br>I will work from now on accessibility improvements thinking about these real people, not just because ‘the law’, or because you ’should’</p>" source="David Corbacho Roman, Señor Developer… Finland… JavaScript, React, Apollo, GraphQL, Next.js, Edge networking." href="https://twitter.com/dcorbacho/status/1250661298116886530" %}
+
+{% include_cached blockquote.html content="<p>I’ve recommended this course to quite a few people. It’s easy to follow and complete. You can do it over several sessions at your own pace.</p>" source="Laiya Lee 李荔雅" href="https://twitter.com/YULaiLai/status/1331577142640058368" %}
+
+{% include_cached blockquote.html content="<p>Well worth the money to reassess my #a11y knowledge. HINT: I learned a few things I didn’t know.</p>" source="Todd, Web Dev 21+ years #A11y" href="https://twitter.com/toddlibby/status/1250409297688907778" %}
+
+{% include_cached blockquote.html content="<p>I would recommend anyone who creates #a11y training to join the course and/or integrate the lessons therein. Very well constructed!</p>" source="Damian Sian, Director of Web Accessibility" href="https://twitter.com/DamianSian/status/1222895535167688705" %}
+
+Post-course [survey responses](https://www.surveymonkey.com/results/SM-VHHPL83R7/) (as of 2020-Dec-04) include:
+* Have your skills/knowledge increased as a result of the course?<br>95% Yes.
+* Did you learn what you were expecting to learn?<br>88% Satisfied or Very satisfied.
+* How likely is it that you will be able to apply the skills that you learned in this course in your everyday work?<br>96% Likely or Very likely.
+
 ## Provided by
 <p style="float: right; font-size: 0.8125rem; padding:0; margin:0;">Shadi (W3C) and Natalia (UNESCO) introduce the course:</p><div style="clear: both;"></div>
 <div class="video-card">
@@ -207,6 +238,7 @@ Course project manager and trainers:
 {% include excol.html type="start" id="video-intro-transcript" %}
 
 ##  Alternatives for the video on this page {#alternatives}
+{:notoc}
 
 {% include excol.html type="middle" %}
 
