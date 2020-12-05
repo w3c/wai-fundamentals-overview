@@ -162,7 +162,7 @@ Here are some things that developers, accessibility specialists, and beginners a
 
 {% include_cached blockquote.html content="<p>Well worth the money to reassess my #a11y knowledge. HINT: I learned a few things I didn’t know.</p>" source="Todd, Web Dev 21+ years #A11y" href="https://twitter.com/toddlibby/status/1250409297688907778" %}
 
-{% include_cached blockquote.html content="<p>… I would recommend anyone who creates #a11y training to join the course and/or integrate the lessons therein. Very well constructed!" </p>" source="Damian Sian, Director of Web Accessibility" href="https://twitter.com/DamianSian/status/1222895535167688705" %}
+{% include_cached blockquote.html content="<p>I would recommend anyone who creates #a11y training to join the course and/or integrate the lessons therein. Very well constructed!</p>" source="Damian Sian, Director of Web Accessibility" href="https://twitter.com/DamianSian/status/1222895535167688705" %}
 
 Post-course [survey responses](https://www.surveymonkey.com/results/SM-VHHPL83R7/) (as of 2020-Dec-04) include:
 * Have your skills/knowledge increased as a result of the course?<br>95% Yes.
