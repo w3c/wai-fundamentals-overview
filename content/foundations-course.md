@@ -204,12 +204,6 @@ Post-course [survey responses](https://www.surveymonkey.com/results/SM-VHHPL83R7
 {% include excol.html type="end" %}
 
 ## Provided by
-
-The course is provided by the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) and the United Nations Educational, Scientific and Cultural Organization (UNESCO) Institute for Information Technologies in Education (IITE).
-
-![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png)<br>
-![Logo of the W3C Web Accessibility Initiative (WAI) logo](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
-
 <p style="float: right; font-size: 0.8125rem; padding:0; margin:0;">Shadi (W3C) and Natalia (UNESCO) introduce the course:</p><div style="clear: both;"></div>
 <div class="video-card">
   {% include video-player.html
@@ -218,6 +212,8 @@ The course is provided by the World Wide Web Consortium (W3C) Web Accessibility 
   %}
   <p><em>(<a href="#alternatives">alternatives for video are below</a>)</em></p>
 </div>
+
+The course is provided by the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) and the United Nations Educational, Scientific and Cultural Organization (UNESCO) Institute for Information Technologies in Education (IITE). ![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png)
 
 This unique course is **based on the [open curricula](https://www.w3.org/WAI/curricula/) from the W3C WAI Education and Outreach Working Group ([EOWG](https://www.w3.org/WAI/about/groups/eowg/))**. It brings together international expert trainers from [Deque](https://www.deque.com/), [Infoaxia](https://infoaxia.co.jp/), [Intopia](https://intopia.digital/), [Knowbility](https://knowbility.org/), The Paciello Group ([TPG](https://www.paciellogroup.com/)), [Web Key IT](https://www.webkeyit.com/), and W3C WAI.
 
