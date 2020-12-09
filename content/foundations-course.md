@@ -46,6 +46,7 @@ The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-access
 *   work well for people with disabilities
 *   meet international standards
 *   enhance the user experience for everyone
+*   achieve goals
 {:.four.columns}
 
 Accessibility is essential to create high-quality apps, websites, and other digital content &mdash; and to not exclude people from using your products and services.
@@ -56,8 +57,8 @@ Accessibility is essential to create high-quality apps, websites, and other digi
 
 _Accessibility skills are increasingly in demand._
 
-_With this course, you can build your accessibility skills.<br>
-&mdash; and *immediately apply what you learn in practice**._
+_With this course, you can build your accessibility skills,<br>
+&mdash; and **immediately apply what you learn in practice**._
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -81,6 +82,7 @@ _With this course, you can build your accessibility skills.<br>
 <p style="padding-bottom:0;margin-bottom:0;">Well worth [it] to reassess my #a11y knowledge. HINT: I learned a few things I didn’t know.</p>
 <cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/toddlibby/status/1250409297688907778">Todd, Web Dev 21+ years</a></cite>
 </blockquote>
+<div style="clear: both;"></div>
 <blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
 <p style="padding-bottom:0;margin-bottom:0;">I would recommend anyone who creates #a11y training to join the course and/or integrate the lessons therein. Very well constructed!</p>
 <cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/DamianSian/status/1222895535167688705">Damian Sian, Director of Web Accessibility</a></cite>
@@ -172,11 +174,11 @@ _(For information about edX certificate verification and accessibility, see: [ed
 
 {% include image.html src="video6-tagline.png" alt="Accessibility: Essential for some, useful for all" class="normal right" %}
 
+{% include image.html src="makoto-video.png" class="normal right" %}
+
 From Module 1, on how accessibility impacts the lives of people interacting in the digital world:
 * **[Reading with and without text wrapping, on YouTube](https://youtu.be/5nlcEgJGIs8)**<br>_([same reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-reading-wrapping.html#talk))_
 * **[Low vision: Challenging assumptions and understanding differences, on YouTube](https://youtu.be/JUfmCvdzqbM)**<br>_([same low vision video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
-
-{% include image.html src="makoto-video.png" class="normal right" %}
 
 From Module 4, on designing and developing accessibly:
 * **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/@@))_
