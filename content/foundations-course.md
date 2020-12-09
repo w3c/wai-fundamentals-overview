@@ -46,7 +46,7 @@ The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-access
 *   work well for people with disabilities
 *   meet international standards
 *   enhance the user experience for everyone
-{:.three.columns}
+{:.four.columns}
 
 Accessibility is essential to create high-quality apps, websites, and other digital content &mdash; and to not exclude people from using your products and services.
 
@@ -56,7 +56,8 @@ Accessibility is essential to create high-quality apps, websites, and other digi
 
 _Accessibility skills are increasingly in demand._
 
-_With this course, you can build your accessibility skills and **immediately apply them in practice**._
+_With this course, you can build your accessibility skills.<br>
+&mdash; and *immediately apply what you learn in practice**._
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -80,10 +81,10 @@ _With this course, you can build your accessibility skills and **immediately app
 <p style="padding-bottom:0;margin-bottom:0;">Well worth [it] to reassess my #a11y knowledge. HINT: I learned a few things I didn’t know.</p>
 <cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/toddlibby/status/1250409297688907778">Todd, Web Dev 21+ years</a></cite>
 </blockquote>
-<blockquote class="pull alt-1 right" style="font-size:0.875rem!important<p style="padding-bottom:0;margin-bottom:0;">I would recommend anyone who creates #a11y training to join the course and/or integrate the lessons therein. Very well constructed!</p>
+<blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
+<p style="padding-bottom:0;margin-bottom:0;">I would recommend anyone who creates #a11y training to join the course and/or integrate the lessons therein. Very well constructed!</p>
 <cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/DamianSian/status/1222895535167688705">Damian Sian, Director of Web Accessibility</a></cite>
 </blockquote>
-
 
 The course is designed for **technical and non-technical** learners, including:
 
@@ -199,7 +200,7 @@ Some more things that developers and others are [tweeting about the course](http
 Post-course [survey responses](https://www.surveymonkey.com/results/SM-VHHPL83R7/) (as of 2020-Dec-04) include:
 * Have your skills/knowledge increased as a result of the course?<br>95% Yes.
 * Did you learn what you were expecting to learn?<br>88% Satisfied or Very satisfied.
-* How likely is it that you will be able to apply the skills that you learned in this course in your everyday work?<br>96% Likely or Very likely.
+* **How likely is it that you will be able to apply the skills that you learned in this course in your everyday work?**<br>**96%** Likely or Very likely.
 
 {% include excol.html type="end" %}
 
