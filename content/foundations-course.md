@@ -55,9 +55,8 @@ Accessibility is essential to create high-quality apps, websites, and other digi
 {% include box.html type="start" class="simple right highlighted" %}
 {:/}
 
-_Accessibility skills are increasingly in demand._
-
-_With this course, you can build your accessibility skills,<br>
+_Accessibility skills are increasingly in demand.<br>
+With this course, you can build your accessibility skills,<br>
 &mdash; and **immediately apply what you learn in practice**._
 
 {::nomarkdown}
@@ -81,9 +80,6 @@ _With this course, you can build your accessibility skills,<br>
 <blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
 <p style="padding-bottom:0;margin-bottom:0;">Well worth [it] to reassess my #a11y knowledge. HINT: I learned a few things I didn’t know.</p>
 <cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/toddlibby/status/1250409297688907778">Todd, Web Dev 21+ years</a></cite>
-</blockquote>
-<div style="clear: both;"></div>
-<blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
 <p style="padding-bottom:0;margin-bottom:0;">I would recommend anyone who creates #a11y training to join the course and/or integrate the lessons therein. Very well constructed!</p>
 <cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/DamianSian/status/1222895535167688705">Damian Sian, Director of Web Accessibility</a></cite>
 </blockquote>
@@ -141,7 +137,7 @@ _More “What you’ll learn” and syllabus is in the [edX course page](https:/
 
 <blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
 <p>It’s easy to follow and complete. You can do it over several sessions at your own pace.</p>
-<cite><a href="https://twitter.com/YULaiLai/status/1331577142640058368">Laiya Lee <span lang="zh">李荔雅</span><br>The nerdy gurl next door.</a></cite>
+<cite><a href="https://twitter.com/YULaiLai/status/1331577142640058368">Laiya Lee <span lang="zh">李荔雅</span><br>The nerdy gurl next door</a></cite>
 </blockquote>
 
 The course is designed to take about **16-20 hours to complete** for most people. It is listed as 4 weeks of 4-5 hours effort per week.
@@ -174,11 +170,11 @@ _(For information about edX certificate verification and accessibility, see: [ed
 
 {% include image.html src="video6-tagline.png" alt="Accessibility: Essential for some, useful for all" class="normal right" %}
 
-{% include image.html src="makoto-video.png" class="normal right" %}
-
 From Module 1, on how accessibility impacts the lives of people interacting in the digital world:
 * **[Reading with and without text wrapping, on YouTube](https://youtu.be/5nlcEgJGIs8)**<br>_([same reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-reading-wrapping.html#talk))_
 * **[Low vision: Challenging assumptions and understanding differences, on YouTube](https://youtu.be/JUfmCvdzqbM)**<br>_([same low vision video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
+
+{% include image.html src="makoto-video.png" class="normal right" %}
 
 From Module 4, on designing and developing accessibly:
 * **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/@@))_
@@ -193,9 +189,9 @@ From Module 4, on designing and developing accessibly:
 
 Some more things that developers and others are [tweeting about the course](https://www.w3.org/WAI/EO/wiki/Promoting_W3Cx_Intro_Course#student_public_comments):
 
-{% include_cached blockquote.html content="<p>I just enrolled in this accessibility course and I watched some short clips (Module 1), and it made an impact on me.<br>I will work from now on accessibility improvements thinking about these real people, not just because ‘the law’, or because you ’should’ </p>" source="David Corbacho Roman, Señor Developer… JavaScript, React, Apollo, GraphQL, Next.js, Edge networking." href="https://twitter.com/dcorbacho/status/1250661298116886530" %}
+{% include_cached blockquote.html content="<p>I just enrolled in this accessibility course and I watched some short clips (Module 1), and it made an impact on me.<br>I will work from now on accessibility improvements thinking about these real people, not just because ‘the law’, or because you ’should’ </p>" source="David Corbacho Roman. Señor Developer… JavaScript, React, Apollo, GraphQL, Next.js, Edge networking." href="https://twitter.com/dcorbacho/status/1250661298116886530" %}
 
-{% include_cached blockquote.html content="<p>‘Disability is about design. Bad design is disabling.’ The course on web accessibility by the @w3c_wai is filled with eye-opening arguments and concepts. Great job @shawn_slh and team!<br>Join the course!</p>" source="Carlos Muncharaz, Front-end Developer" href="https://twitter.com/cmuncharaz/status/1225425651848663043" %}
+{% include_cached blockquote.html content="<p>‘Disability is about design. Bad design is disabling.’ The course on web accessibility by the @w3c_wai is filled with eye-opening arguments and concepts. Great job @shawn_slh and team!<br>Join the course!</p>" source="Carlos Muncharaz. Front-end Developer." href="https://twitter.com/cmuncharaz/status/1225425651848663043" %}
 
 {% include_cached blockquote.html content="<p>I highly recommend this course for anybody wanting to learn about digital accessibility. It's got a lot of great info and a relatively small time commitment.</p>" source=" Justin Yarbrough. Blind. Digital #a11y specialist. #AvGeek." href="https://twitter.com/FatElvis04/status/1260961018135494657" %}
 
