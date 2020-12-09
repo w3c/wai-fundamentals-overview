@@ -45,7 +45,9 @@ inline_css: |
 {% include box.html type="start" class="simple right highlighted" %}
 {:/}
 
-**Accessibility skills are increasingly in demand. With this course, you can build your accessibility skills and immediately apply them in practice.**
+_Accessibility skills are increasingly in demand._
+
+_With this course, you can build your accessibility skills and **immediately apply them in practice**._
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -74,9 +76,9 @@ Accessibility is essential to create high-quality apps, websites, and other digi
 ## Who the course is for
 
 <blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
-<p>Well worth [it] to reassess my #a11y knowledge. HINT: I learned a few things I didn’t know.</p>
-<cite style="font-size:0.8125rem!important"><a href="https://twitter.com/toddlibby/status/1250409297688907778">Todd, Web Dev 21+ years</a></cite>
-<p>I would recommend anyone who creates #a11y training to join the course and/or integrate the lessons therein. Very well constructed!</p>
+<p style="padding-bottom:0;margin-bottom:0;">Well worth [it] to reassess my #a11y knowledge. HINT: I learned a few things I didn’t know.</p>
+<cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/toddlibby/status/1250409297688907778">Todd, Web Dev 21+ years</a></cite>
+<p style="padding-bottom:0;margin-bottom:0;">I would recommend anyone who creates #a11y training to join the course and/or integrate the lessons therein. Very well constructed!</p>
 <cite style="font-size:0.8125rem!important"><a href="https://twitter.com/DamianSian/status/1222895535167688705">Damian Sian, Director of Web Accessibility</a></cite>
 </blockquote>
 
@@ -110,7 +112,11 @@ For example, you can choose to focus on:
 
 We encourage you to go through the whole course, even if you focus more on some topics.
 
+{% include excol.html type="start" id="syllabus" %}
+
 ### Course content (syllabus)
+
+{% include excol.html type="middle" %}
 
 {% include image.html src="wcag2.1AAA-blue-v.svg" alt="W3C WAI-AAA WCAG 2.1 logo" class="small right" %}
 
@@ -124,16 +130,14 @@ The course covers principles from the World Wide Web Consortium (W3C) Web Access
 
 _More “What you’ll learn” and syllabus is in the [edX course page](https://www.edx.org/course/web-accessibility-introduction)._
 
-<blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
-<p>I highly recommend this course for anybody wanting to learn about digital accessibility. It's got a lot of great info and a relatively small time commitment.</p>
-<cite style="font-size:0.8125rem!important"><a href="https://twitter.com/FatElvis04/status/1260961018135494657">Justin Yarbrough. Blind. Digital #a11y specialist. #AvGeek.</a></cite>
-</blockquote>
-<blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
-<p>It’s easy to follow and complete. You can do it over several sessions at your own pace.</p>
-<cite style="font-size:0.8125rem!important"><a href="https://twitter.com/YULaiLai/status/1331577142640058368">Laiya Lee <span lang=”zh”>李荔雅</span>The nerdy gurl next door.</a></cite>
-</blockquote>
+{% include excol.html type="end" %}
 
 ## Duration
+
+<blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
+<p style="padding-bottom:0;margin-bottom:0;">It’s easy to follow and complete. You can do it over several sessions at your own pace.</p>
+<cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/YULaiLai/status/1331577142640058368">Laiya Lee <span lang="zh">李荔雅</span>The nerdy gurl next door.</a></cite>
+</blockquote>
 
 The course is designed to take about **16-20 hours to complete** for most people. It is listed as 4 weeks of 4-5 hours effort per week.
 
@@ -157,7 +161,7 @@ _(For information about edX certificate verification and accessibility, see: [ed
 
 {% include_cached button.html type="link" label="Enroll in the course on edX" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&larr;_log in to edX or create edX account_
 
-{% include excol.html type="start" id="video-intro-transcript" %}
+{% include excol.html type="start" id="video-excerpts" %}
 
 ## Video excerpts from the course
 
@@ -176,17 +180,19 @@ From Module 4, on designing and developing accessibly:
 
 {% include excol.html type="end" %}
 
-{% include excol.html type="start" id="video-intro-transcript" %}
+{% include excol.html type="start" id="comments-survey" %}
 
 ## Developer comments and survey responses
 
 {% include excol.html type="middle" %}
 
-Some more things that developers are [tweeting about the course](https://www.w3.org/WAI/EO/wiki/Promoting_W3Cx_Intro_Course#student_public_comments):
+Some more things that developers and others are [tweeting about the course](https://www.w3.org/WAI/EO/wiki/Promoting_W3Cx_Intro_Course#student_public_comments):
+
+{% include_cached blockquote.html content="<p>I just enrolled in this accessibility course and I watched some short clips (Module 1), and it made an impact on me.<br>I will work from now on accessibility improvements thinking about these real people, not just because ‘the law’, or because you ’should’ </p>" source="David Corbacho Roman, Señor Developer… JavaScript, React, Apollo, GraphQL, Next.js, Edge networking." href="https://twitter.com/dcorbacho/status/1250661298116886530" %}
 
 {% include_cached blockquote.html content="<p>‘Disability is about design. Bad design is disabling.’ The course on web accessibility by the @w3c_wai is filled with eye-opening arguments and concepts. Great job @shawn_slh and team!<br>Join the course!</p>" source="Carlos Muncharaz, Front-end Developer" href="https://twitter.com/cmuncharaz/status/1225425651848663043" %}
 
-{% include_cached blockquote.html content="<p>I just enrolled in this accessibility course and I watched some short clips (Module 1), and it made an impact on me.<br>I will work from now on accessibility improvements thinking about these real people, not just because ‘the law’, or because you ’should’</p>" source="David Corbacho Roman, Señor Developer… JavaScript, React, Apollo, GraphQL, Next.js, Edge networking." href="https://twitter.com/dcorbacho/status/1250661298116886530" %}
+{% include_cached blockquote.html content="<p>I highly recommend this course for anybody wanting to learn about digital accessibility. It's got a lot of great info and a relatively small time commitment.</p>" source=" Justin Yarbrough. Blind. Digital #a11y specialist. #AvGeek." href="https://twitter.com/FatElvis04/status/1260961018135494657" %}
 
 Post-course [survey responses](https://www.surveymonkey.com/results/SM-VHHPL83R7/) (as of 2020-Dec-04) include:
 * Have your skills/knowledge increased as a result of the course?<br>95% Yes.
@@ -215,9 +221,9 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 Course Manager and Development Lead:
 <figure class="trainers">
-  {% include image.html src="shadi.png" alt="" %}
-  <figcaption>Shadi<br>Abou-Zahra</figcaption>
+  {% include image.html src="shadi.png" alt="" %} <figcaption>Shadi Abou-Zahra</figcaption>
   </figure>
+<div style="clear: both;"></div>
 
 Course Trainers:
 <figure class="trainers">
@@ -259,9 +265,11 @@ Course Trainers:
 {% include_cached button.html type="link" label="Learn more from the edX course page" class="secondary" href="https://www.edx.org/course/web-accessibility-introduction" %}
 {% include_cached button.html type="link" label="Enroll in the course on edX" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&larr;_log in to edX or create edX account_
 
-{% include excol.html type="start" id="video-intro-transcript" %}
+<hr><hr>
 
-##  Alternatives for the video on this page {#alternatives}
+{% include excol.html type="start" id="video-alternatives" %}
+
+## Alternatives for the video on this page {#alternatives}
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -294,3 +302,5 @@ Shadi: And, of course, you'll also learn all about the international standards f
 Natalia: This course was designed for technical and non-technical people. If you work with digital technologies this course is ideal for you to get started.
 
 {% include excol.html type="end" %}
+
+{% include excol.html type="all" %}
