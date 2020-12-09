@@ -213,13 +213,9 @@ Post-course [survey responses](https://www.surveymonkey.com/results/SM-VHHPL83R7
   <p><em>(<a href="#alternatives">alternatives for video are below</a>)</em></p>
 </div>
 
-The course is provided by the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) and UNESCO Institute for Information Technologies in Education (UNESCO IITE).
+The course is provided by the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) and the United Nations Educational, Scientific and Cultural Organization (UNESCO) Institute for Information Technologies in Education (IITE). ![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png)
 
-This unique course is based on the [open curricula](https://www.w3.org/WAI/curricula/) from the W3C WAI Education and Outreach Working Group ([EOWG](https://www.w3.org/WAI/about/groups/eowg/)). It brings together international expert trainers from [Deque](https://www.deque.com/), [Infoaxia](https://infoaxia.co.jp/), [Intopia](https://intopia.digital/), [Knowbility](https://knowbility.org/), The Paciello Group ([TPG](https://www.paciellogroup.com/)), [Web Key IT](https://www.webkeyit.com/), and W3C WAI.
-
-<br>
-
-![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative (WAI) logo](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
+This unique course is **based on the [open curricula](https://www.w3.org/WAI/curricula/) from the W3C WAI Education and Outreach Working Group ([EOWG](https://www.w3.org/WAI/about/groups/eowg/))**. It brings together international expert trainers from [Deque](https://www.deque.com/), [Infoaxia](https://infoaxia.co.jp/), [Intopia](https://intopia.digital/), [Knowbility](https://knowbility.org/), The Paciello Group ([TPG](https://www.paciellogroup.com/)), [Web Key IT](https://www.webkeyit.com/), and W3C WAI.
 
 <p style="padding-bottom:0;margin-bottom:0;">Course Manager and Development Lead:</p>
 <figure class="trainers">
