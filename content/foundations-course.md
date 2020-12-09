@@ -80,7 +80,7 @@ With this course, you can build your accessibility skills,<br>
 
 <blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
 <p style="padding-bottom:0;margin-bottom:0;">Well worth [it] to reassess my #a11y knowledge. HINT: I learned a few things I didn’t know.</p>
-<cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/toddlibby/status/1250409297688907778">Todd, Web Dev 21+  #A11y years</a></cite>
+<cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/toddlibby/status/1250409297688907778">Todd, Web Dev 21+ years  #A11y</a></cite>
 <p style="padding-bottom:0;margin-bottom:0;">I would recommend anyone who creates #a11y training to join the course and/or integrate the lessons therein. Very well constructed!</p>
 <cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/DamianSian/status/1222895535167688705">Damian Sian, Director of Web Accessibility</a></cite>
 </blockquote>
@@ -192,7 +192,7 @@ Some more things that developers and others are [tweeting about the course](http
 
 {% include_cached blockquote.html content="<p>I just enrolled in this accessibility course and I watched some short clips (Module 1), and it made an impact on me.<br>I will work from now on accessibility improvements thinking about these real people, not just because ‘the law’, or because you ’should’ </p>" source="David Corbacho Roman. Señor Developer… JavaScript, React, Apollo, GraphQL, Next.js, Edge networking." href="https://twitter.com/dcorbacho/status/1250661298116886530" %}
 
-{% include_cached blockquote.html content="<p>‘Disability is about design. Bad design is disabling.’ The course on web accessibility by the @w3c_wai is filled with eye-opening arguments and concepts. Great job @shawn_slh and team!<br>Join the course!</p>" source="Carlos Muncharaz. Front-end Developer." href="https://twitter.com/cmuncharaz/status/1225425651848663043" %}
+{% include_cached blockquote.html content="<p>‘Disability is about design. Bad design is disabling.’<br>The course on web accessibility by the @w3c_wai is filled with eye-opening arguments and concepts. Great job @shawn_slh and team!<br>Join the course!</p>" source="Carlos Muncharaz. Front-end Developer." href="https://twitter.com/cmuncharaz/status/1225425651848663043" %}
 
 {% include_cached blockquote.html content="<p>I highly recommend this course for anybody wanting to learn about digital accessibility. It's got a lot of great info and a relatively small time commitment.</p>" source=" Justin Yarbrough. Blind. Digital #a11y specialist. #AvGeek." href="https://twitter.com/FatElvis04/status/1260961018135494657" %}
 
