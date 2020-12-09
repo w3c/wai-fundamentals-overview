@@ -46,6 +46,9 @@ The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-access
 *   work well for people with disabilities
 *   meet international standards
 *   enhance the user experience for everyone
+{:.three.columns}
+
+Accessibility is essential to create high-quality apps, websites, and other digital content &mdash; and to not exclude people from using your products and services.
 
 {::nomarkdown}
 {% include box.html type="start" class="simple right highlighted" %}
@@ -58,8 +61,6 @@ _With this course, you can build your accessibility skills and **immediately app
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-
-Accessibility is essential to create high-quality apps, websites, and other digital content &mdash; and to not exclude people from using your products and services.
 
 {::options toc_levels="2" /}
 
@@ -78,7 +79,8 @@ Accessibility is essential to create high-quality apps, websites, and other digi
 <blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
 <p style="padding-bottom:0;margin-bottom:0;">Well worth [it] to reassess my #a11y knowledge. HINT: I learned a few things I didn’t know.</p>
 <cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/toddlibby/status/1250409297688907778">Todd, Web Dev 21+ years</a></cite>
-<p style="padding-bottom:0;margin-bottom:0;">I would recommend anyone who creates #a11y training to join the course and/or integrate the lessons therein. Very well constructed!</p>
+</blockquote>
+<blockquote class="pull alt-1 right" style="font-size:0.875rem!important<p style="padding-bottom:0;margin-bottom:0;">I would recommend anyone who creates #a11y training to join the course and/or integrate the lessons therein. Very well constructed!</p>
 <cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/DamianSian/status/1222895535167688705">Damian Sian, Director of Web Accessibility</a></cite>
 </blockquote>
 
@@ -135,8 +137,8 @@ _More “What you’ll learn” and syllabus is in the [edX course page](https:/
 ## Duration
 
 <blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
-<p style="padding-bottom:0;margin-bottom:0;">It’s easy to follow and complete. You can do it over several sessions at your own pace.</p>
-<cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/YULaiLai/status/1331577142640058368">Laiya Lee <span lang="zh">李荔雅</span><br>The nerdy gurl next door.</a></cite>
+<p>It’s easy to follow and complete. You can do it over several sessions at your own pace.</p>
+<cite><a href="https://twitter.com/YULaiLai/status/1331577142640058368">Laiya Lee <span lang="zh">李荔雅</span><br>The nerdy gurl next door.</a></cite>
 </blockquote>
 
 The course is designed to take about **16-20 hours to complete** for most people. It is listed as 4 weeks of 4-5 hours effort per week.
