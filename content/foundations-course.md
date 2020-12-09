@@ -7,7 +7,7 @@ permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
 
 lang: en
-last_updated: 2020-12-08
+last_updated: 2020-12-09
 
 github:
   repository: w3c/wai-fundamentals-overview
@@ -18,7 +18,7 @@ image: /content-images/wai-fundamentals-overview/social-course1.png
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 8 December 2020.</p>
+  <p><strong>Date:</strong> Updated 9 December 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -48,7 +48,6 @@ The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-access
 *   meet international standards
 *   enhance the user experience for everyone
 *   achieve goals
-{:.four.columns}
 
 Accessibility is essential to create high-quality apps, websites, and other digital content &mdash; and to not exclude people from using your products and services.
 
@@ -184,7 +183,7 @@ From Module 4, on designing and developing accessibly:
 
 {% include excol.html type="start" id="comments-survey" %}
 
-## Developer comments and survey responses
+## Course comments and survey responses
 
 {% include excol.html type="middle" %}
 
