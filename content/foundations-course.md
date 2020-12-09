@@ -7,7 +7,7 @@ permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
 
 lang: en
-last_updated: 2020-12-04
+last_updated: 2020-12-08
 
 github:
   repository: w3c/wai-fundamentals-overview
@@ -18,7 +18,7 @@ image: /content-images/wai-fundamentals-overview/social-course1.png
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 4 December 2020.</p>
+  <p><strong>Date:</strong> Updated 8 December 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -29,7 +29,7 @@ inline_css: |
     float: left;
     line-height: 100%;
     font-size: 0.8125rem;
-    padding-right: 3px;
+    padding-right: 3px; padding-top:0; margin:-top:0;
     width: 95px; height: 95px;
   }
   figcaption {
@@ -38,27 +38,51 @@ inline_css: |
     border-bottom: none;
   }
   img.medium {--img-width:360px}
+  .mspaceabove {margin-top:5px;}
 
 ---
 
-<blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
-<p>Accessibility skills are increasingly in demand. With this course, you can build your accessibility skills and immediately apply them in practice.</p>
-<cite style="font-size:0.8125rem!important">Shadi Abou-Zahra,<br />W3C, Course Project Manager</cite>
-</blockquote>
-
-The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" online course **provides the foundation** for making your websites, apps, and other digital technology:
+The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" online course provides **the foundation you need to make your digital technology accessible**, to:
 
 *   work well for people with disabilities
 *   meet international standards
 *   enhance the user experience for everyone
+*   achieve goals
+{:.four.columns}
 
-Accessibility is essential to create high-quality products, and to not exclude people from using your products and services.
+Accessibility is essential to create high-quality apps, websites, and other digital content &mdash; and to not exclude people from using your products and services.
+
+{::nomarkdown}
+{% include box.html type="start" class="simple right highlighted" %}
+{:/}
+
+_Accessibility skills are increasingly in demand.<br>
+With this course, you can build your accessibility skills,<br>
+&mdash; and **immediately apply what you learn in practice**._
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::options toc_levels="2" /}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
 
 ## Who the course is for
 
-<blockquote class="pull alt-2 right" style="font-size:0.875rem!important">
-<p>The course is for beginners. And it’s also for people who already know some about accessibility and want to broaden their knowledge and perspectives.</p>
-<cite style="font-size:0.8125rem!important">Shawn Lawton Henry,<br />W3C Accessibility Education and Outreach Coordinator</cite>
+<blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
+<p style="padding-bottom:0;margin-bottom:0;">Well worth [it] to reassess my #a11y knowledge. HINT: I learned a few things I didn’t know.</p>
+<cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/toddlibby/status/1250409297688907778">Todd, Web Dev 21+  #A11y years</a></cite>
+<p style="padding-bottom:0;margin-bottom:0;">I would recommend anyone who creates #a11y training to join the course and/or integrate the lessons therein. Very well constructed!</p>
+<cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;"><a href="https://twitter.com/DamianSian/status/1222895535167688705">Damian Sian, Director of Web Accessibility</a></cite>
 </blockquote>
 
 The course is designed for **technical and non-technical** learners, including:
@@ -90,7 +114,11 @@ For example, you can choose to focus on:
 
 We encourage you to go through the whole course, even if you focus more on some topics.
 
+{% include excol.html type="start" id="syllabus" %}
+
 ### Course content (syllabus)
+
+{% include excol.html type="middle" %}
 
 {% include image.html src="wcag2.1AAA-blue-v.svg" alt="W3C WAI-AAA WCAG 2.1 logo" class="small right" %}
 
@@ -104,7 +132,14 @@ The course covers principles from the World Wide Web Consortium (W3C) Web Access
 
 _More “What you’ll learn” and syllabus is in the [edX course page](https://www.edx.org/course/web-accessibility-introduction)._
 
+{% include excol.html type="end" %}
+
 ## Duration
+
+<blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
+<p>It’s easy to follow and complete. You can do it over several sessions at your own pace.</p>
+<cite><a href="https://twitter.com/YULaiLai/status/1331577142640058368">Laiya Lee <span lang="zh">李荔雅</span><br>The nerdy gurl next door</a></cite>
+</blockquote>
 
 The course is designed to take about **16-20 hours to complete** for most people. It is listed as 4 weeks of 4-5 hours effort per week.
 
@@ -128,18 +163,45 @@ _(For information about edX certificate verification and accessibility, see: [ed
 
 {% include_cached button.html type="link" label="Enroll in the course on edX" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&larr;_log in to edX or create edX account_
 
+{% include excol.html type="start" id="video-excerpts" %}
+
 ## Video excerpts from the course
 
+{% include excol.html type="middle" %}
+
 {% include image.html src="video6-tagline.png" alt="Accessibility: Essential for some, useful for all" class="normal right" %}
+
+{% include image.html src="makoto-video.png" class="normal right mspaceabove" %}
 
 From Module 1, on how accessibility impacts the lives of people interacting in the digital world:
 * **[Reading with and without text wrapping, on YouTube](https://youtu.be/5nlcEgJGIs8)**<br>_([same reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-reading-wrapping.html#talk))_
 * **[Low vision: Challenging assumptions and understanding differences, on YouTube](https://youtu.be/JUfmCvdzqbM)**<br>_([same low vision video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
 
-{% include image.html src="makoto-video.png" class="normal right" %}
-
 From Module 4, on designing and developing accessibly:
 * **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/@@))_
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" id="comments-survey" %}
+
+## Developer comments and survey responses
+
+{% include excol.html type="middle" %}
+
+Some more things that developers and others are [tweeting about the course](https://www.w3.org/WAI/EO/wiki/Promoting_W3Cx_Intro_Course#student_public_comments):
+
+{% include_cached blockquote.html content="<p>I just enrolled in this accessibility course and I watched some short clips (Module 1), and it made an impact on me.<br>I will work from now on accessibility improvements thinking about these real people, not just because ‘the law’, or because you ’should’ </p>" source="David Corbacho Roman. Señor Developer… JavaScript, React, Apollo, GraphQL, Next.js, Edge networking." href="https://twitter.com/dcorbacho/status/1250661298116886530" %}
+
+{% include_cached blockquote.html content="<p>‘Disability is about design. Bad design is disabling.’ The course on web accessibility by the @w3c_wai is filled with eye-opening arguments and concepts. Great job @shawn_slh and team!<br>Join the course!</p>" source="Carlos Muncharaz. Front-end Developer." href="https://twitter.com/cmuncharaz/status/1225425651848663043" %}
+
+{% include_cached blockquote.html content="<p>I highly recommend this course for anybody wanting to learn about digital accessibility. It's got a lot of great info and a relatively small time commitment.</p>" source=" Justin Yarbrough. Blind. Digital #a11y specialist. #AvGeek." href="https://twitter.com/FatElvis04/status/1260961018135494657" %}
+
+Post-course [survey responses](https://www.surveymonkey.com/results/SM-VHHPL83R7/) (as of 2020-Dec-04) include:
+* Have your skills/knowledge increased as a result of the course?<br>95% Yes.
+* Did you learn what you were expecting to learn?<br>88% Satisfied or Very satisfied.
+* **How likely is it that you will be able to apply the skills that you learned in this course in your everyday work?**<br>**96%** Likely or Very likely.
+
+{% include excol.html type="end" %}
 
 ## Provided by
 <p style="float: right; font-size: 0.8125rem; padding:0; margin:0;">Shadi (W3C) and Natalia (UNESCO) introduce the course:</p><div style="clear: both;"></div>
@@ -159,12 +221,13 @@ This unique course is based on the [open curricula](https://www.w3.org/WAI/curri
 
 ![UNESCO IITE logo](https://www.w3.org/blog/wp-content/uploads/2019/12/logo-UNESCO-IITE.png) ![Logo of the W3C Web Accessibility Initiative (WAI) logo](https://www.w3.org/blog/wp-content/uploads/2019/12/W3C-WAI-logo-on-blue.png)
 
-Course project manager and trainers:
-
+<p style="padding-bottom:0;margin-bottom:0;">Course Manager and Development Lead:</p>
 <figure class="trainers">
-  {% include image.html src="shadi.png" alt="" %}
-  <figcaption>Shadi<br>Abou-Zahra</figcaption>
+  {% include image.html src="shadi.png" alt="" %} <figcaption>Shadi Abou-Zahra</figcaption>
   </figure>
+<div style="clear: both;"></div>
+
+<p style="padding-bottom:0;margin-bottom:0;">Course Trainers:</p>
 <figure class="trainers">
   {% include image.html src="shawn.png" alt="" %}
   <figcaption>Shawn<br>Henry</figcaption>
@@ -204,9 +267,10 @@ Course project manager and trainers:
 {% include_cached button.html type="link" label="Learn more from the edX course page" class="secondary" href="https://www.edx.org/course/web-accessibility-introduction" %}
 {% include_cached button.html type="link" label="Enroll in the course on edX" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&larr;_log in to edX or create edX account_
 
-{% include excol.html type="start" id="video-intro-transcript" %}
+{% include excol.html type="start" id="video-alternatives" %}
 
-##  Alternatives for the video on this page {#alternatives}
+## Alternatives for the video on this page {#alternatives}
+{:.no_toc}
 
 {% include excol.html type="middle" %}
 
@@ -238,3 +302,7 @@ Shadi: And, of course, you'll also learn all about the international standards f
 Natalia: This course was designed for technical and non-technical people. If you work with digital technologies this course is ideal for you to get started.
 
 {% include excol.html type="end" %}
+
+<br>
+
+{% include excol.html type="all" %}
