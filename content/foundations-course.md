@@ -7,7 +7,7 @@ permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
 
 lang: en
-last_updated: 2020-12-09
+last_updated: 2020-12-17
 
 github:
   repository: w3c/wai-fundamentals-overview
@@ -18,7 +18,7 @@ image: /content-images/wai-fundamentals-overview/social-course1.png
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 9 December 2020.</p>
+  <p><strong>Date:</strong> Updated 17 December 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -42,22 +42,23 @@ inline_css: |
 
 ---
 
-The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" online course provides **the foundation you need to make your digital technology accessible**, to:
-
-*   work well for people with disabilities
-*   meet international standards
-*   enhance the user experience for everyone
-*   achieve goals
-
-Accessibility is essential to create high-quality apps, websites, and other digital content &mdash; and to not exclude people from using your products and services.
+<blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
+<p>Accessibility skills are increasingly in demand. With this course, you can build your accessibility skills and immediately apply what you learn in practice.
+</p>
+</blockquote>
 
 {::nomarkdown}
-{% include box.html type="start" class="simple right highlighted" %}
+{% include box.html type="start" h="2" title="Motivations" class="simple aside"  %}
 {:/}
 
-_Accessibility skills are increasingly in demand.<br>
-With this course, you can build your accessibility skills,<br>
-&mdash; and **immediately apply what you learn in practice**._
+The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" online course provides **the foundation you need to make your digital technology accessible**, so that it:
+
+*   works well for people with disabilities
+*   meets international standards
+*   enhances the user experience for everyone
+*   achieves goals
+
+Accessibility is essential to create high-quality apps, websites, and other digital content &mdash; and to not exclude people from using your products and services.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -162,30 +163,21 @@ _(For information about edX certificate verification and accessibility, see: [ed
 
 {% include_cached button.html type="link" label="Enroll in the course on edX" class="more" href=" https://courses.edx.org/register?course_id=course-v1%3AW3Cx%2BWAI0.1x%2B3T2019&enrollment_action=enroll&email_opt_in=false" %}&larr;_log in to edX or create edX account_
 
-{% include excol.html type="start" id="video-excerpts" %}
-
 ## Video excerpts from the course
 
-{% include excol.html type="middle" %}
-
 {% include image.html src="video6-tagline.png" alt="Accessibility: Essential for some, useful for all" class="normal right" %}
-
-{% include image.html src="makoto-video.png" class="normal right mspaceabove" %}
 
 From Module 1, on how accessibility impacts the lives of people interacting in the digital world:
 * **[Reading with and without text wrapping, on YouTube](https://youtu.be/5nlcEgJGIs8)**<br>_([same reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-reading-wrapping.html#talk))_
 * **[Low vision: Challenging assumptions and understanding differences, on YouTube](https://youtu.be/JUfmCvdzqbM)**<br>_([same low vision video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
 
-From Module 4, on designing and developing accessibly:
-* **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/@@))_
+{% include image.html src="makoto-video.png" class="normal right mspaceabove" %}
 
-{% include excol.html type="end" %}
+From Module 4, on designing and developing accessibly, and checking (evaluating or testing) for accessibility:
+* **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-headings.html#talk))_
+* **[Motion in Content, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same motion video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-motion.html#talk))_
 
-{% include excol.html type="start" id="comments-survey" %}
-
-## Course comments and survey responses
-
-{% include excol.html type="middle" %}
+## What people are saying about the course and survey results
 
 Some more things that developers and others are [tweeting about the course](https://www.w3.org/WAI/EO/wiki/Promoting_W3Cx_Intro_Course#student_public_comments):
 
@@ -198,9 +190,7 @@ Some more things that developers and others are [tweeting about the course](http
 Post-course [survey responses](https://www.surveymonkey.com/results/SM-VHHPL83R7/) (as of 2020-Dec-04) include:
 * Have your skills/knowledge increased as a result of the course?<br>95% Yes.
 * Did you learn what you were expecting to learn?<br>88% Satisfied or Very satisfied.
-* **How likely is it that you will be able to apply the skills that you learned in this course in your everyday work?**<br>**96%** Likely or Very likely.
-
-{% include excol.html type="end" %}
+* How likely is it that you will be able to **apply the skills that you learned in this course in your everyday work?**<br>**96%** Likely or Very likely.
 
 ## Provided by
 <p style="float: right; font-size: 0.8125rem; padding:0; margin:0;">Shadi (W3C) and Natalia (UNESCO) introduce the course:</p><div style="clear: both;"></div>
