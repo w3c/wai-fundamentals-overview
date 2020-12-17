@@ -64,11 +64,6 @@ Accessibility is essential to create high-quality apps, websites, and other digi
 {% include box.html type="end" %}
 {:/}
 
-<blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
-<p>Accessibility skills are increasingly in demand. With this course, you can build your accessibility skills and immediately apply what you learn in practice.
-</p>
-</blockquote>
-
 {::options toc_levels="2" /}
 
 {::nomarkdown}
@@ -178,7 +173,7 @@ From Module 1, on how accessibility impacts the lives of people interacting in t
 
 {% include image.html src="makoto-video.png" class="normal right mspaceabove" %}
 
-From Module 4, on designing and developing accessibly:
+From Module 4, on designing and developing accessibly, and checking (evaluating or testing) for accessibility:
 * **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-headings.html#talk))_
 * **[Motion in Content, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same motion video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-motion.html#talk))_
 
