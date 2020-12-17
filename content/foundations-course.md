@@ -42,9 +42,13 @@ inline_css: |
 
 ---
 
+<blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
+<p>Accessibility skills are increasingly in demand. With this course, you can build your accessibility skills and immediately apply what you learn in practice.
+</p>
+</blockquote>
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Introduction" class="full" %}
+{% include box.html type="start" class="simple aside"  %}
 {:/}
 
 The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" online course provides **the foundation you need to make your digital technology accessible**, so that it:
@@ -168,11 +172,11 @@ _(For information about edX certificate verification and accessibility, see: [ed
 
 {% include image.html src="video6-tagline.png" alt="Accessibility: Essential for some, useful for all" class="normal right" %}
 
-{% include image.html src="makoto-video.png" class="normal right mspaceabove" %}
-
 From Module 1, on how accessibility impacts the lives of people interacting in the digital world:
 * **[Reading with and without text wrapping, on YouTube](https://youtu.be/5nlcEgJGIs8)**<br>_([same reading video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-reading-wrapping.html#talk))_
 * **[Low vision: Challenging assumptions and understanding differences, on YouTube](https://youtu.be/JUfmCvdzqbM)**<br>_([same low vision video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk))_
+
+{% include image.html src="makoto-video.png" class="normal right mspaceabove" %}
 
 From Module 4, on designing and developing accessibly:
 * **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-headings.html#talk))_
