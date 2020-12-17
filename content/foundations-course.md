@@ -48,7 +48,7 @@ inline_css: |
 </blockquote>
 
 {::nomarkdown}
-{% include box.html type="start" class="simple aside"  %}
+{% include box.html type="start" h="2" title="Motivations" class="simple aside"  %}
 {:/}
 
 The "**[Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)**" online course provides **the foundation you need to make your digital technology accessible**, so that it:
@@ -190,7 +190,7 @@ Some more things that developers and others are [tweeting about the course](http
 Post-course [survey responses](https://www.surveymonkey.com/results/SM-VHHPL83R7/) (as of 2020-Dec-04) include:
 * Have your skills/knowledge increased as a result of the course?<br>95% Yes.
 * Did you learn what you were expecting to learn?<br>88% Satisfied or Very satisfied.
-* **How likely is it that you will be able to apply the skills that you learned in this course in your everyday work?**<br>**96%** Likely or Very likely.
+* How likely is it that you will be able to **apply the skills that you learned in this course in your everyday work?**<br>**96%** Likely or Very likely.
 
 ## Provided by
 <p style="float: right; font-size: 0.8125rem; padding:0; margin:0;">Shadi (W3C) and Natalia (UNESCO) introduce the course:</p><div style="clear: both;"></div>
