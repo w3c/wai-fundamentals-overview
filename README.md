@@ -1,3 +1,1 @@
-# wai-fundamentals-overview
-
-Preview: https://wai-fundamentals-overview.netlify.com/fundamentals/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/54114301-596f-414d-966a-f3c95899fa58/deploy-status)](https://app.netlify.com/sites/wai-fundamentals-overview/deploys)
