@@ -7,7 +7,7 @@ permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
 
 lang: en
-last_updated: 2020-12-17
+last_updated: 2020-12-18
 
 github:
   repository: w3c/wai-fundamentals-overview
@@ -18,7 +18,7 @@ image: /content-images/wai-fundamentals-overview/social-course1.png
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 17 December 2020.</p>
+  <p><strong>Date:</strong> Updated 18 December 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -45,6 +45,7 @@ inline_css: |
 <blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
 <p>Accessibility skills are increasingly in demand. With this course, you can build your accessibility skills and immediately apply what you learn in practice.
 </p>
+<cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;">Ms. Natalia Amelina, Senior National Project Officer in Education, <a href="https://iite.unesco.org/about-unesco-iite/">UNESCO IITE</a></cite>  
 </blockquote>
 
 {::nomarkdown}
