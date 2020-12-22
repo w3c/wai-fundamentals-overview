@@ -44,8 +44,7 @@ inline_css: |
 <blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
 <p>Accessibility skills are increasingly in demand. With this course, you can build your accessibility skills and immediately apply what you learn in practice.
 </p>
-<cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;">Ms. Natalia Amelina, <a href="https://iite.unesco.org/about-unesco-iite/">UNESCO IITE</a></cite>
-</blockquote>
+<cite style="font-size:0.8125rem!important;padding-top:0;margin-top:0;">Ms. Natalia Amelina, <a href="https://iite.unesco.org/about-unesco-iite/">UNESCO Institute for Information Technologies in Education (IITE)</a> <span style="font-size:0.6875rem!important;">(Senior National Project Officer in Education, Chief of Unit "Teacher professional development and networking")</span></cite></blockquote>
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Motivations" class="simple aside"  %}
