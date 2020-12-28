@@ -37,10 +37,10 @@ Les ressources suivantes contiennent des introductions à l'accessibilité :
 
 [[Utilisateurs plus âgés et accessibilité Web : répondre aux besoins des utilisateurs Web plus âgés]](/older-users/)
 :   Explique que la création de produits plus faciles à utiliser pour les personnes âgées est similaire à la création des produits pour les personnes handicapées. Les règles à appliquer pour créer des sites, des applications et des outils Web visant à faciliter l'expérience des personnes âgées sont reprises dans les standards internationaux actuels d'accessibilité  du W3C, dont les Règles pour l'accessibilité des contenus Web (WCAG).
-    -   [Développer des sites Web pour les personnes âgées : comment les Règles pour l'accessibilité des contenus Web (WCAG) 2.0 s'appliquent](https://www.w3.org/WAI/older-users/developing/) (en anglais)
-    -   [L'accessibilité Web pour les utilisateurs plus âgés : un aperçu de la littérature](https://www.w3.org/WAI/older-users/literature/) (en anglais)
+    -   [Développer des sites Web pour les personnes âgées : comment les Règles pour l'accessibilité des contenus Web (WCAG) 2.0 s'appliquent](https://www.w3.org/WAI/older-users/developing/)
+    -   [L'accessibilité Web pour les utilisateurs plus âgés : un aperçu de la littérature](https://www.w3.org/WAI/older-users/literature/) 
 
 [[Accessibilité, ergonomie, et inclusion]](/fundamentals/accessibility-usability-inclusion/)
 :   Explique les différences et les similitudes entre l'accessibilité, l'ergonomie, et le design inclusif ; encourage une coordination accrue entre les recherches et la pratique de ces disciplines ; et souligne l'importance de garder les personnes handicapées au coeur du processus d'accessibilité.
 
-Une page connexe introduit les recommandations existantes et les travaux supplémentaires sur l'accessibilité pour les personnes souffrant de troubles cognitifs et d'apprentissage. [Accessibilité cognitive au W3C](https://www.w3.org/WAI/cognitive/). 
+Une page connexe introduit les recommandations existantes et les travaux supplémentaires sur l'accessibilité pour les personnes souffrant de troubles cognitifs et d'apprentissage. [Accessibilité cognitive au W3C](https://www.w3.org/WAI/cognitive/).
