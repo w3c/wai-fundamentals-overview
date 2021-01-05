@@ -75,6 +75,8 @@ Accessibility is essential to create high-quality apps, websites, and other digi
 {% include_cached toc.html type="end" %}
 {:/}
 
+@@@ demo @@
+
 ## Who the course is for
 
 <blockquote class="pull alt-1 right" style="font-size:0.875rem!important">
