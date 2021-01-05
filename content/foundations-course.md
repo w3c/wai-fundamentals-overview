@@ -75,7 +75,7 @@ Accessibility is essential to create high-quality apps, websites, and other digi
 {% include_cached toc.html type="end" %}
 {:/}
 
-@@@ demo @@
+@@@ demo updated ... @@
 
 ## Who the course is for
 
