@@ -29,13 +29,13 @@ inline_css: |
     line-height: 100%;
     font-size: 0.8125rem;
     padding-right: 3px; padding-top:0; 
-    margin-bottom: 10px;
     width: 95px; height: 95px;
   }
-  figcaption {
+  figure.trainers figcaption {
     text-align: center;
     font-weight: normal;
     border-bottom: none;
+    margin-bottom: 10px;
   }
   img.medium {--img-width:360px}
   .mspaceabove {margin-top:5px;}
