@@ -35,7 +35,7 @@ inline_css: |
     text-align: center;
     font-weight: normal;
     border-bottom: none;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
   img.medium {--img-width:360px}
   .mspaceabove {margin-top:5px;}
