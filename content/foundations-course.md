@@ -28,7 +28,7 @@ inline_css: |
     display: block;
     line-height: 100%;
     font-size: 0.8125rem;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     padding-right: 3px; padding-top:0; 
     width: 95px; height: 95px;
   }
