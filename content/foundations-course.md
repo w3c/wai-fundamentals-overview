@@ -24,7 +24,8 @@ footer: > # Text in footer in HTML
 
 inline_css: |
   figure.trainers {
-    display: inline;
+    /*display: inline;*/
+    position: relative;
     float: left;
     line-height: 100%;
     font-size: 0.8125rem;
