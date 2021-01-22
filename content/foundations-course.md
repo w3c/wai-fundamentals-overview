@@ -28,7 +28,9 @@ inline_css: |
     float: left;
     line-height: 100%;
     font-size: 0.8125rem;
-    padding-right: 3px; padding-top:0; margin:-top:0;
+    padding-right: 3px; padding-top:0; 
+    margin:-top:0;
+    margin-bottom: 10px;
     width: 95px; height: 95px;
   }
   figcaption {
