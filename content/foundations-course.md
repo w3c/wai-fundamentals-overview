@@ -24,11 +24,11 @@ footer: > # Text in footer in HTML
 
 inline_css: |
   figure.trainers {
-    /*display: inline;*/
-    position: relative;
     float: left;
+    display: block;
     line-height: 100%;
     font-size: 0.8125rem;
+    margin-bottom: 20px;
     padding-right: 3px; padding-top:0; 
     width: 95px; height: 95px;
   }
@@ -36,7 +36,6 @@ inline_css: |
     text-align: center;
     font-weight: normal;
     border-bottom: none;
-    margin-bottom: 20px;
   }
   img.medium {--img-width:360px}
   .mspaceabove {margin-top:5px;}
