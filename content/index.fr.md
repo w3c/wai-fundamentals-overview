@@ -3,6 +3,7 @@ title: "Vue d'ensemble des standards de l'accessibilité"
 permalink: /fundamentals/fr
 ref: /fundamentals/
 lang: fr
+last_updated: 2020-12-28
 translators:
 - name : "Sofia Ahmed"
 contributors:
