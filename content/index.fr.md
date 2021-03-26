@@ -14,7 +14,7 @@ github:
 footer: > # Text in footer in HTML
   <p><strong>Date :</strong> Mise à jour : 19 août 2020.</p>
   <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Développé par le <em>Groupe de travail Éducation et Promotion</em> (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p>Développé par le Groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 ---
 
