@@ -14,6 +14,9 @@ footer: > # Text in footer in HTML
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 ---
+
+Hi!!
+
 The following resources provide information for getting started with accessibility:
 
 [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/)
