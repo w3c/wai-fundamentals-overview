@@ -34,7 +34,7 @@ Les ressources suivantes contiennent des introductions à l'accessibilité :
 :   **Vidéos** démontrant le caractère essentiel de l'accessibilité Web pour les personnes en situation de handicap et son utilité pour tous. Les vidéos suivantes exemplifient l'impact de l'accessibilité et les bénéfices pour tous dans diverses situations. Chaque vidéo dure environ 1 minute et la [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) dure 7 min 37 s. Chaque page contient des informations supplémentaires.
 
 [[Comment les personnes en situation de handicap utilisent le Web]](/people-use-web/)
-:   Introduit comment les personnes en situation de handicap utilisent le Web. Décrit les outils et les solutions pour lesquelles les personnes qui présentent différents types de handicaps optent pour naviguer sur le Web et les obstacles auxquels elles se heurtent lorsque le design n'est pas optimal.
+:   Introduit comment les personnes en situation de handicap utilisent le Web. Décrit les outils et les approches pour lesquelles les personnes qui présentent différents types de handicaps optent pour naviguer sur le Web et les obstacles qu'elles rencontrent lorsque le design n'est pas optimal.
 
 [[Utilisateurs plus âgés et accessibilité Web : répondre aux besoins des utilisateurs Web plus âgés]](/older-users/)
 :   Explique que la création de produits plus faciles à utiliser pour les personnes âgées est similaire à la création des produits pour les personnes en situation de handicap. Les règles à appliquer pour créer des sites, des applications et des outils Web visant à faciliter l'expérience des personnes âgées sont reprises dans les standards internationaux actuels d'accessibilité  du W3C, dont les Règles pour l'accessibilité des contenus Web (WCAG).
