@@ -18,6 +18,8 @@ footer: > # Text in footer in HTML
 
 ---
 
+FIX THIS!
+
 Les ressources suivantes contiennent des introductions à l'accessibilité :
 
 [[Introduction à l'accessibilité Web]](/fundamentals/accessibility-intro/)
