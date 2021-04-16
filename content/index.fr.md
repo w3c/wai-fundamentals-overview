@@ -18,7 +18,7 @@ footer: > # Text in footer in HTML
 
 ---
 
-FIX THIS!
+FIX THIS! ok ok
 
 Les ressources suivantes contiennent des introductions à l'accessibilité :
 
