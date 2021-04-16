@@ -25,7 +25,7 @@ Les ressources suivantes contiennent des introductions à l'accessibilité :
     -   [[Vidéo : introduction à l'accessibilité Web et aux standards du W3C (4 minutes)]](/videos/standards-and-benefits/) .
 
 [[Éléments essentiels de l'accessibilité Web]](/fundamentals/components/)
-:   Montre comment l'accessibilité Web dépend de l'association entre les nombreuses composantes du développement Web et de l'interaction utilisateur, et le lien entre les différentes règles de la WAI : les Règles pour l'accessibilité des contenus Web ([WCAG](/standards-guidelines/wcag/), les Règles d'accessibilité pour les outils d'édition ([ATAG](/standards-guidelines/atag/) etles Règles pour l’accessibilité des agents utilisateurs ([UAAG](/standards-guidelines/uaag/).  
+:   Montre comment l'accessibilité Web dépend de l'association entre les nombreuses composantes du développement Web et de l'interaction utilisateur, et le lien entre les différentes règles de la WAI : les Règles pour l'accessibilité des contenus Web ([WCAG](/standards-guidelines/wcag/), les Règles d'accessibilité pour les outils d'édition ([ATAG](/standards-guidelines/atag/) et les Règles pour l’accessibilité des agents utilisateurs ([UAAG](/standards-guidelines/uaag/).  
 
 [[Principes d'accessibilité]](/fundamentals/accessibility-principles/)
 :   Aide les développeurs, les designers, et tout autre intervenant à comprendre les principes pour créer des sites et des applications Web, des navigateurs, et d'autres outils accessibles. Fournit des liens vers les standards internationaux de l'Initiative pour l'accessibilité du Web (WAI) du W3C et vers une page dédiée aux [témoignages d'utilisateurs du Web](/people-use-web/user-stories/).
