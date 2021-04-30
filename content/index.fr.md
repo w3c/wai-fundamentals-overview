@@ -3,11 +3,12 @@ title: "Vue d'ensemble des standards de l'accessibilité"
 permalink: /fundamentals/fr
 ref: /fundamentals/
 lang: fr
-last_updated: 2020-12-28
+last_updated: 2021-04-22
 translators:
 - name : "Sofia Ahmed"
 contributors:
 - name : "Sandra Velarde Gonzalez (ETNIC)"
+- name : "Victoria Menezes Miller"
 github:
   repository: w3c/wai-fundamentals-overview
   path: content/index.fr.md
