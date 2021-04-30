@@ -43,6 +43,6 @@ Les ressources suivantes contiennent des introductions à l'accessibilité :
     -   [L'accessibilité Web pour les utilisateurs plus âgés : un aperçu de la littérature](https://www.w3.org/WAI/older-users/literature/)
 
 [[Accessibilité, utilisabilité, et inclusion]](/fundamentals/accessibility-usability-inclusion/)
-:   Explique les différences et les similitudes entre l'accessibilité, l'ergonomie, et le design inclusif ; encourage une coordination accrue entre les recherches et la pratique de ces disciplines ; et souligne l'importance de garder les personnes en situation de handicap au coeur du processus d'accessibilité.
+:   Explique les différences et les similitudes entre l'accessibilité, l'utilisabilité, et le design inclusif ; encourage une coordination accrue entre les recherches et la pratique de ces disciplines ; et souligne l'importance de garder les personnes en situation de handicap au coeur du processus d'accessibilité.
 
 Une page connexe introduit les recommandations existantes et les travaux supplémentaires sur l'accessibilité pour les personnes souffrant de troubles cognitifs et d'apprentissage. [Accessibilité cognitive au W3C](https://www.w3.org/WAI/cognitive/).
