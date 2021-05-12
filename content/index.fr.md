@@ -1,14 +1,15 @@
 ---
-title: "Vue d'ensemble des standards de l'accessibilité"
+title: "Principes fondamentaux de l'accessibilité - Vue d'ensemble"
 permalink: /fundamentals/fr
 ref: /fundamentals/
 lang: fr
-last_updated: 2021-04-30
+last_updated: 2021-05-12
 translators:
 - name : "Sofia Ahmed"
-contributors:
-- name : "Sandra Velarde Gonzalez (ETNIC)"
 - name : "Victoria Menezes Miller"
+contributors:
+- name : "Rémi Bétin"
+- name : "Sandra Velarde Gonzalez (ETNIC)"
 github:
   repository: w3c/wai-fundamentals-overview
   path: content/index.fr.md
@@ -19,7 +20,7 @@ footer: > # Text in footer in HTML
 
 ---
 
-Les ressources suivantes contiennent des introductions à l'accessibilité :
+Les ressources suivantes fournissent des informations pour débuter en accessibilité: :
 
 [[Introduction à l'accessibilité Web]](/fundamentals/accessibility-intro/)
 :   Introduit à l'accessibilité Web et renvoie à des ressources supplémentaires.
@@ -40,7 +41,7 @@ Les ressources suivantes contiennent des introductions à l'accessibilité :
 [[Utilisateurs plus âgés et accessibilité Web : répondre aux besoins des utilisateurs Web plus âgés]](/older-users/)
 :   Explique que la création de produits plus faciles à utiliser pour les personnes âgées est similaire à la création des produits pour les personnes en situation de handicap. Les règles à appliquer pour créer des sites, des applications et des outils Web visant à faciliter l'expérience des personnes âgées sont reprises dans les standards internationaux actuels d'accessibilité  du W3C, dont les Règles pour l'accessibilité des contenus Web (WCAG).
     -   [Développer des sites Web pour les personnes âgées : comment les Règles pour l'accessibilité des contenus Web (WCAG) 2.0 s'appliquent](https://www.w3.org/WAI/older-users/developing/)
-    -   [L'accessibilité Web pour les utilisateurs plus âgés : un aperçu de la littérature](https://www.w3.org/WAI/older-users/literature/)
+    -   [L'Accessibilité Web pour les utilisateurs plus âgés: une revue de la littérature](https://www.w3.org/WAI/older-users/literature/)
 
 [[Accessibilité, utilisabilité, et inclusion]](/fundamentals/accessibility-usability-inclusion/)
 :   Explique les différences et les similitudes entre l'accessibilité, l'utilisabilité, et le design inclusif ; encourage une coordination accrue entre les recherches et la pratique de ces disciplines ; et souligne l'importance de garder les personnes en situation de handicap au coeur du processus d'accessibilité.
