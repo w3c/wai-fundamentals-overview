@@ -3,7 +3,7 @@ title: "Principes fondamentaux de l'accessibilité - Vue d'ensemble"
 permalink: /fundamentals/fr
 ref: /fundamentals/
 lang: fr
-last_updated: 2021-05-12
+last_updated: 2021-05-14
 translators:
 - name : "Sofia Ahmed"
 - name : "Victoria Menezes Miller"
@@ -13,8 +13,11 @@ contributors:
 github:
   repository: w3c/wai-fundamentals-overview
   path: content/index.fr.md
+changelog: /fundamentals/changelog/
+feedbackmail: wai@w3.org
+# In the footer below, do not translate or change CHANGELOG
 footer: > # Text in footer in HTML
-  <p><strong>Date :</strong> Mise à jour : 19 août 2020.</p>
+  <p><strong>Date :</strong> Mise à jour : 13 mai 2021. CHANGELOG.</p>
   <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Développé par le Groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -24,7 +27,10 @@ Les ressources suivantes fournissent des informations pour débuter en accessibi
 
 [[Introduction à l'accessibilité Web]](/fundamentals/accessibility-intro/)
 :   Introduit à l'accessibilité Web et renvoie à des ressources supplémentaires.
-    -   [[Vidéo : introduction à l'accessibilité Web et aux standards du W3C (4 minutes)]](/videos/standards-and-benefits/) .
+    -   [[Vidéo : introduction à l'accessibilité Web et aux standards du W3C (4 minutes)]](/videos/standards-and-benefits/).
+
+[[Digital Accessibility Foundations &mdash; Free Online Course]](/fundamentals/foundations-course/)
+:   Introduces a self-paced course from W3C WAI for technical and non-technical learners.
 
 [[Éléments essentiels de l'accessibilité Web]](/fundamentals/components/)
 :   Montre comment l'accessibilité Web dépend de l'association entre les nombreuses composantes du développement Web et de l'interaction utilisateur, et le lien entre les différentes règles de la WAI : les Règles pour l'accessibilité des contenus Web ([WCAG](/standards-guidelines/wcag/), les Règles d'accessibilité pour les outils d'édition ([ATAG](/standards-guidelines/atag/) et les Règles pour l’accessibilité des agents utilisateurs ([UAAG](/standards-guidelines/uaag/).  
