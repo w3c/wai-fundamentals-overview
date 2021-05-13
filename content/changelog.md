@@ -22,7 +22,7 @@ feedbackmail: wai@w3.org
 
 This page is designed so translators can copy and paste from this rendered changelog page.
 
-<!-- For others, **particularly significant or substantive changes are summarized after “Significant:”**. 
+<!-- For others, **particularly significant or substantive changes are summarized after “Significant:”**. -->
 
 {::nomarkdown}
 {% include box.html type="end" %}
