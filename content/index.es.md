@@ -34,7 +34,7 @@ footer: >
 
 Los siguientes recursos proporcionan información para comenzar con la accesibilidad:
 
-[[Introducctión a la Accesibilidad Web]](/fundamentals/accessibility-intro/)
+[[Introducción a la Accesibilidad Web]](/fundamentals/accessibility-intro/)
 :   Presenta la accesibilidad web y enlaza a recursos adicionales.
     -   [[Vídeo de Introducción a la Accesibilidad Web y a los estándares web]](/videos/standards-and-benefits/) vídeo de 4 minutos.
 
