@@ -1,6 +1,6 @@
 ---
 title: "Changelog for Accessibility Fundamentals Overview"
-title_html: "Changelog for <a href='/fundamentals/'> Accessibility Fundamentals Overview</a>"
+title_html: "Changelog for <a href='/WAI/fundamentals/'> Accessibility Fundamentals Overview</a>"
 nav_title: "Changelog"
 lang: en
 layout: default
