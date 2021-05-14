@@ -29,8 +29,8 @@ Les ressources suivantes fournissent des informations pour débuter en accessibi
 :   Introduit à l'accessibilité Web et renvoie à des ressources supplémentaires.
     -   [[Vidéo : introduction à l'accessibilité Web et aux standards du W3C (4 minutes)]](/videos/standards-and-benefits/).
 
-[[Digital Accessibility Foundations &mdash; Free Online Course]](/fundamentals/foundations-course/)
-:   Introduces a self-paced course from W3C WAI for technical and non-technical learners.
+[[Fondations de l'accessibilité numérique - Cours en ligne gratuit (en anglais)]](/fundamentals/foundations-course/)
+:   Présente un cours W3C WAI à son propre rythme pour les apprenants techniques et non techniques.
 
 [[Éléments essentiels de l'accessibilité Web]](/fundamentals/components/)
 :   Montre comment l'accessibilité Web dépend de l'association entre les nombreuses composantes du développement Web et de l'interaction utilisateur, et le lien entre les différentes règles de la WAI : les Règles pour l'accessibilité des contenus Web ([WCAG](/standards-guidelines/wcag/), les Règles d'accessibilité pour les outils d'édition ([ATAG](/standards-guidelines/atag/) et les Règles pour l’accessibilité des agents utilisateurs ([UAAG](/standards-guidelines/uaag/).  
