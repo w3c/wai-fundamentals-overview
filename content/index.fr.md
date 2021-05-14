@@ -42,7 +42,7 @@ Les ressources suivantes fournissent des informations pour débuter en accessibi
 :   **Vidéos** démontrant le caractère essentiel de l'accessibilité Web pour les personnes en situation de handicap et son utilité pour tous. Découvrez l'impact de l'accessibilité et les bénéfices pour tous dans diverses situations. Chaque vidéo dure environ 1 minute et la [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) dure 7 min 37 s. Chaque page contient des informations supplémentaires.
 
 [[Comment les personnes en situation de handicap utilisent le Web]](/people-use-web/)
-:   Introduit comment les personnes en situation de handicap utilisent le Web. Décrit les outils et les approches pour lesquelles les personnes qui présentent différents types de handicaps optent pour naviguer sur le Web et les obstacles qu'elles rencontrent lorsque le design n'est pas optimal.
+:   Introduit comment les personnes en situation de handicap utilisent le Web. Décrit les outils et les approches que les personnes ayant différents types de handicaps utilisent pour naviguer sur le Web et les obstacles qu'elles rencontrent en raison d'une mauvaise conception.
 
 [[Utilisateurs plus âgés et accessibilité Web : répondre aux besoins des utilisateurs Web plus âgés]](/older-users/)
 :   Explique que la création de produits plus faciles à utiliser pour les personnes âgées est similaire à la création des produits pour les personnes en situation de handicap. Des conseils sur la façon d'améliorer le fonctionnement de vos sites Web, applications Web et outils Web pour les utilisateurs plus âgés sont couverts dans les standards internationaux existants d’accessibilité du W3C, y compris les Règles pour l'accessibilité du contenu Web (WCAG).
