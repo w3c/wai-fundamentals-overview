@@ -7,7 +7,7 @@ permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
 
 lang: en
-last_updated: 2021-03-26
+last_updated: 2021-06-24
 
 github:
   repository: w3c/wai-fundamentals-overview
@@ -18,7 +18,7 @@ image: /content-images/wai-fundamentals-overview/social-course1.png
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 26 March 2021.</p>
+  <p><strong>Date:</strong> Updated 24 June 2021.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -145,7 +145,7 @@ The course is designed to take about **16-20 hours to complete** for most people
 
 It is **self-paced** so you can complete it in a shorter or longer time frame.
 
-This course will be available on the edX platform through at least the second quarter of 2021. We expect an updated version of this course to be available long term.
+This course will be available on the edX platform through at least the end of 2021. We expect an updated version of this course to be available long term.
 
 ## Cost: Free, optional certificate
 
