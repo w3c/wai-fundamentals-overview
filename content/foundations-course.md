@@ -7,7 +7,7 @@ permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
 
 lang: en
-last_updated: 2021-06-30
+last_updated: 2021-07-30
 
 github:
   repository: w3c/wai-fundamentals-overview
@@ -18,7 +18,7 @@ image: /content-images/wai-fundamentals-overview/social-course1.png
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 30 June 2021.</p>
+  <p><strong>Date:</strong> Updated 30 July 2021.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -175,7 +175,7 @@ From Module 1, on how accessibility impacts the lives of people interacting in t
 
 From Module 4, on designing and developing accessibly, and checking (evaluating or testing) for accessibility:
 * **[Check Headings, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same check headings video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-headings.html#talk))_
-* **[Motion in Content, on YouTube](https://youtu.be/JR5hCvifJVo)**<br>_([same motion video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-motion.html#talk))_
+* **[Motion in Content, on YouTube](https://youtu.be/TN1bj8OQ0mc)**<br>_([same motion video on W3C website](https://www.w3.org/2020/10/TPAC/w3cx-motion.html#talk))_
 
 ## What people are saying about the course and survey results
 
