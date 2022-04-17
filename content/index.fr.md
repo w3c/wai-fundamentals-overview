@@ -1,5 +1,5 @@
 ---
-title: "Principes fondamentaux de l'accessibilité - Vue d'ensemble"
+title: "Principes fondamentaux de l'accessibilité – Vue d’ensemble"
 permalink: /fundamentals/fr
 ref: /fundamentals/
 lang: fr
@@ -50,6 +50,6 @@ Les ressources suivantes fournissent des informations pour débuter en accessibi
     -   [L'Accessibilité Web pour les utilisateurs plus âgés: une revue de la littérature](https://www.w3.org/WAI/older-users/literature/)
 
 [[Accessibilité, utilisabilité, et inclusion]](/fundamentals/accessibility-usability-inclusion/)
-:   Explique les différences et les similitudes entre l'accessibilité, l'utilisabilité, et le design inclusif ; encourage une coordination accrue entre les recherches et la pratique de ces disciplines ; et souligne l'importance de garder les personnes en situation de handicap au coeur du processus d'accessibilité.
+:   Explique les différences et les similitudes entre l'accessibilité, l'utilisabilité, et le design inclusif ; encourage une coordination accrue entre les recherches et la pratique de ces disciplines ; et souligne l'importance de garder les personnes en situation de handicap au cœur du processus d'accessibilité.
 
 Une page connexe introduit les recommandations existantes et les travaux supplémentaires sur l'accessibilité pour les personnes souffrant de troubles cognitifs et d'apprentissage. [Accessibilité cognitive au W3C](https://www.w3.org/WAI/cognitive/).
