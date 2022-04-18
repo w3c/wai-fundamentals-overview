@@ -1,5 +1,5 @@
 ---
-title: "Principes fondamentaux de l'accessibilité – Vue d’ensemble"
+title: "Principes fondamentaux de l’accessibilité – Vue d’ensemble"
 permalink: /fundamentals/fr
 ref: /fundamentals/
 lang: fr
