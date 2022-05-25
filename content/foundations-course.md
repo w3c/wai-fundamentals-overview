@@ -7,7 +7,7 @@ permalink: /fundamentals/foundations-course/
 ref: /fundamentals/foundations-course/
 
 lang: en
-last_updated: 2021-07-30
+last_updated: 2022-05-25
 
 github:
   repository: w3c/wai-fundamentals-overview
@@ -18,7 +18,7 @@ image: /content-images/wai-fundamentals-overview/social-course1.png
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 30 July 2021.</p>
+  <p><strong>Date:</strong> Updated 25 May 2022.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -145,7 +145,7 @@ The course is designed to take about **16-20 hours to complete** for most people
 
 It is **self-paced** so you can complete it in a shorter or longer time frame.
 
-This course will be available on the edX platform through at least the end of 2021. We expect an updated version of this course to be available long term.
+This course will be available on the edX platform through at least the end of 2022. We expect an updated version of this course to be available long term.
 
 ## Cost: Free, optional certificate
 
@@ -187,7 +187,7 @@ Some more things that developers and others are [tweeting about the course](http
 
 {% include_cached blockquote.html content="<p>I highly recommend this course for anybody wanting to learn about digital accessibility. It's got a lot of great info and a relatively small time commitment.</p>" source=" Justin Yarbrough. Blind. Digital #a11y specialist. #AvGeek." href="https://twitter.com/FatElvis04/status/1260961018135494657" %}
 
-Post-course [survey responses](https://www.surveymonkey.com/results/SM-VHHPL83R7/) (as of 29 June 2021) include:
+Post-course [survey responses](https://www.surveymonkey.com/results/SM-VHHPL83R7/) (as of May 2022) include:
 * Have your skills/knowledge increased as a result of the course?<br>96% Yes.
 * Did you learn what you were expecting to learn?<br>90% Satisfied or Very satisfied.
 * How likely is it that you will be able to **apply the skills that you learned in this course in your everyday work?**<br>**96%** Likely or Very likely.
