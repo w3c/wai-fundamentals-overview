@@ -1,5 +1,5 @@
 ---
-title: "Digital Accessibility Courses"
+title: "Digital Accessibility Courses Overview"
 nav_title: "Courses"
 
 permalink: /courses/
@@ -23,6 +23,7 @@ footer: > # Text in footer in HTML
 
 ---
 
+The following information about digital accessibility education, training, and certification is available on the W3C Web Accessibility Initiative (WAI) website.
 
 [[Digital Accessibility Foundations - Free Online Course]](/courses/foundations-course/)
 :   Introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. Designed for **technical and non-technical** learners, including students, instructors, professionals, and people with disabilities. Course is free with optional certificate.
