@@ -28,7 +28,7 @@ footer: > # Text in footer in HTML
 :   Introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. Designed for **technical and non-technical** learners, including students, instructors, professionals, and people with disabilities. Course is free with optional certificate.
 
 [[Course List of Digital Accessibility Education, Training, and Certification]](/courses/list/)
-:   Provides information about courses, training, and certification on digital accessibility from different providers.
+:   Lists courses from different providers. You can filter to find courses matching your specific interests.
 
 Related resources:
-* [[Curricula on Web Accessibility: A Framework to Build Your Own Courses]](https://www.w3.org/WAI/curricula/)
+* [[Curricula on Web Accessibility: A Framework to Build Your Own Courses]](/curricula/)
