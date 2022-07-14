@@ -3,8 +3,8 @@ title: "Digital Accessibility Foundations - Free Online Course"
 title_html: "Digital Accessibility Foundations<br>Free Online Course"
 nav_title: "Foundations Online Course"
 
-permalink: /fundamentals/foundations-course/
-ref: /fundamentals/foundations-course/
+permalink: /courses/foundations-course/
+ref: /courses/foundations-course/
 
 lang: en
 last_updated: 2022-05-25
