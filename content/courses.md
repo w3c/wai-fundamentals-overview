@@ -28,7 +28,7 @@ The following information about digital accessibility education, training, and c
 [[Digital Accessibility Foundations - Free Online Course]](/courses/foundations-course/)
 :   Introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. Designed for **technical and non-technical** learners, including students, instructors, professionals, and people with disabilities. Course is free with optional certificate.
 
-Course List of Digital Accessibility Education, Training, and Certification &mdash; _coming in September 2022_
+[Course List of Digital Accessibility Education, Training, and Certification](/courses/list/)
 :   Lists courses from different providers. You can filter to find courses matching your specific interests.
 
 Related resources:
