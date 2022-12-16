@@ -1,6 +1,7 @@
 ---
-title: "[Draft] Accessibility is About People"
-nav_title: "People"
+doc-note-type: draft
+title: "Accessibility: It's About People"
+nav_title: "Accessibility: It's About People"
 
 permalink: /people/
 ref: /people/
@@ -23,4 +24,27 @@ footer: > # Text in footer in HTML
 
 ---
 
-This will be the landing page for the videos of disabled people using technology...
+{% include image.html src="signing-person.jpg" alt="" class="normal right" %}
+
+Accessibility is about ensuring that digital technology is usable by people with disabilities. Checklists, standards, and laws are important tools to help achieve accessibility — yet sometimes they get the focus instead of the ultimate, fundamental goal of accessibility: meeting the needs of real people in the real world. Accessibility is important aspect of diversity, equity, and inclusion (DEI).
+
+{% include image.html src="signing-person.jpg" alt="" class="normal right" %}
+
+Many WAI resoures cover the organizational, technical, and standards aspects of accessibility. The following WAI resources help you understand the **people** aspects:
+
+{% include image.html src="signing-person.jpg" alt="" class="normal right" %}
+
+[{% include image.html src="video.svg" alt="" style="height:1.3em" %} Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/)
+:   Videos that demonstrate that web accessibility is **_essential for people with disabilities and useful for all_**. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) is 7:37. Pages include supporting information.
+
+[[How People with Disabilities Use the Web]](/people-use-web/)
+:   Introduces how people with disabilities use the web. Describes tools and approaches that people with different kinds of disabilities use to browse the web and the barriers they encounter due to poor design.
+    -   [{% include image.html src="video.svg" alt="" style="height:1.3em" %} Videos of How People with Disabilities Use the Web](/people-use-web/) video series showing stories of disabled people using the web; diverse abilities and barriers; and tools and techniques for using digital technology.
+
+[[Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]](/older-users/)
+:   Explains that designing products that are easier for older people to use is similar to designing for people with disabilities. Guidance on how to make your websites, web applications, and web tools work better for older users is covered in existing international accessibility standards from the W3C, including Web Content Accessibility Guidelines (WCAG).
+    -   [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies](https://www.w3.org/WAI/older-users/developing/)
+    -   [Web Accessibility for Older Users: A Literature Review](https://www.w3.org/WAI/older-users/literature/)
+
+[[Accessibility, Usability, and Inclusion]](/fundamentals/accessibility-usability-inclusion/)
+:   Explains the distinctions and overlaps between accessibility, usability, and inclusive design; encourages increased coordination across research and practice in these disciplines; and points out the importance of maintaining the focus of accessibility on people with disabilities.
