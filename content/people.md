@@ -28,12 +28,12 @@ footer: > # Text in footer in HTML
 
 Many WAI resoures cover the technicial, business, and standards aspects of accessibility. The following WAI resources help you understand the **people** aspects:
 
-[[Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]](/perspective-videos/)
+[[<img src="{{ "/content-images/wai-fundamentals-overview/video.svg" | relative_url }}" alt="" style="height:1.3em"> Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]](/perspective-videos/)
 :   **Videos** that demonstrate that web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) is 7:37. Pages include supporting information.
 
 [[How People with Disabilities Use the Web]](/people-use-web/)
 :   Introduces how people with disabilities use the web. Describes tools and approaches that people with different kinds of disabilities use to browse the web and the barriers they encounter due to poor design.
-    -   <img src="{{ "/content-images/wai-media-guide/video.svg" | relative_url }}" alt="" style="height:1.3em"> [Videos of How People with Disabilities Use the Web](/people-use-web/) **video** series showing stories of disabled people using the web; diverse abilities and barriers; and tools and techniques for using digital technology.
+    -   <img src="{{ "/content-images/wai-fundamentals-overview/video.svg" | relative_url }}" alt="" style="height:1.3em"> [Videos of How People with Disabilities Use the Web](/people-use-web/) **video** series showing stories of disabled people using the web; diverse abilities and barriers; and tools and techniques for using digital technology.
 
 [[Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]](/older-users/)
 :   Explains that designing products that are easier for older people to use is similar to designing for people with disabilities. Guidance on how to make your websites, web applications, and web tools work better for older users is covered in existing international accessibility standards from the W3C, including Web Content Accessibility Guidelines (WCAG).
