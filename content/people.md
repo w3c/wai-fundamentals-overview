@@ -35,9 +35,9 @@ Many WAI resoures cover the organizational, technical, and standards aspects of 
 
 [[How People with Disabilities Use the Web]](/people-use-web/)
 :   Introduces how people with disabilities use the web. Describes tools and approaches that people with different kinds of disabilities use to browse the web and the barriers they encounter due to poor design.
-{% include image.html src="video.svg" alt="" class="tiny left" %}
     -   [{video icon} Videos of How People with Disabilities Use the Web](/people-use-web/) video series showing stories of disabled people using the web; diverse abilities and barriers; and tools and techniques for using digital technology.
 
+<p style="float:right">{@@image of older person}</p>
 [[Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]](/older-users/)
 :   Explains that designing products that are easier for older people to use is similar to designing for people with disabilities. Guidance on how to make your websites, web applications, and web tools work better for older users is covered in existing international accessibility standards from the W3C, including Web Content Accessibility Guidelines (WCAG).
     -   [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies](https://www.w3.org/WAI/older-users/developing/)
@@ -46,4 +46,4 @@ Many WAI resoures cover the organizational, technical, and standards aspects of 
 [[Accessibility, Usability, and Inclusion]](/fundamentals/accessibility-usability-inclusion/)
 :   Explains the distinctions and overlaps between accessibility, usability, and inclusive design; encourages increased coordination across research and practice in these disciplines; and points out the importance of maintaining the focus of accessibility on people with disabilities.
 
-<p style="float:right">{@@images of people}</p>
+<p>{@@images of people}</p>
