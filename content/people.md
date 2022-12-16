@@ -1,7 +1,7 @@
 ---
 doc-note-type: draft
-title: "[Draft] Accessibility: It's About People"
-nav_title: "People"
+title: "Accessibility: It's About People"
+nav_title: "Accessibility: It's About People"
 
 permalink: /people/
 ref: /people/
@@ -24,16 +24,16 @@ footer: > # Text in footer in HTML
 
 ---
 
-... intro blurb it's about people , not a checklist, not a law. standards are an important tool to get there - and the "there" is accessible to real people in the real world... accessibility is important aspect of diversity, euqity, and includion .... 
+... intro blurb - accessibility is about people , not about a checklist or about a law , about people using digital technology. accessibility standards are an important tool to get there - and the "there" is accessible to real people in the real world... accessibility is important aspect of diversity, equity, and inclusion (DEI) .... 
 
 Many WAI resoures cover the technicial, business, and standards aspects of accessibility. The following WAI resources help you understand the **people** aspects:
 
-<img src="{{ "/content-images/wai-fundamentals-overview/video.svg" | relative_url }}" alt="" style="height:1.3em"> [[Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]](/perspective-videos/)
-:   **Videos** that demonstrate that web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) is 7:37. Pages include supporting information.
+[{% include image.html src="video.svg" alt="" style="height:1.3em" %}Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/)
+:   Videos that demonstrate that web accessibility is **_essential for people with disabilities and useful for all_**. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) is 7:37. Pages include supporting information.
 
 [[How People with Disabilities Use the Web]](/people-use-web/)
 :   Introduces how people with disabilities use the web. Describes tools and approaches that people with different kinds of disabilities use to browse the web and the barriers they encounter due to poor design.
-    -   <img src="{{ "/content-images/wai-fundamentals-overview/video.svg" | relative_url }}" alt="" style="height:1.3em"> [Videos of How People with Disabilities Use the Web](/people-use-web/) **video** series showing stories of disabled people using the web; diverse abilities and barriers; and tools and techniques for using digital technology.
+    -   [{% include image.html src="video.svg" alt="" style="height:1.3em" %} Videos of How People with Disabilities Use the Web](/people-use-web/) video series showing stories of disabled people using the web; diverse abilities and barriers; and tools and techniques for using digital technology.
 
 [[Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]](/older-users/)
 :   Explains that designing products that are easier for older people to use is similar to designing for people with disabilities. Guidance on how to make your websites, web applications, and web tools work better for older users is covered in existing international accessibility standards from the W3C, including Web Content Accessibility Guidelines (WCAG).
