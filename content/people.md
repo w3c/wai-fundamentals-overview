@@ -26,7 +26,7 @@ footer: > # Text in footer in HTML
 
 {% include image.html src="signing-person.jpg" alt="" class="normal right" %}
 
-Accessibility is about ensuring that digital technology is usable by people with disabilities. Sometimes the focus on accessibility checklists, standards, or laws distracts from what accessibility is really about: people. Checklists, standards, and laws are important tools to help achieve accessibility &mdash; yet, the ultimate, fundamental goal is accessibility and usability to disabled **people**. Accessibility is important aspect of diversity, equity, and inclusion (DEI).
+Accessibility is about ensuring that digital technology is usable by people with disabilities. Checklists, standards, and laws are important tools to help achieve accessibility — yet sometimes they get the focus instead of the ultimate, fundamental goal of accessibility: meeting the needs of real people in the real world. Accessibility is important aspect of diversity, equity, and inclusion (DEI).
 
 {% include image.html src="signing-person.jpg" alt="" class="normal right" %}
 
