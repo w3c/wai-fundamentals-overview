@@ -46,4 +46,8 @@ Many WAI resoures cover the organizational, technical, and standards aspects of 
 [[Accessibility, Usability, and Inclusion]](/fundamentals/accessibility-usability-inclusion/)
 :   Explains the distinctions and overlaps between accessibility, usability, and inclusive design; encourages increased coordination across research and practice in these disciplines; and points out the importance of maintaining the focus of accessibility on people with disabilities.
 
+Related resource:
+- **[[Involving Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/)** describes how project managers, designers, and developers can better understand accessibility issues and implement more effective accessibility solutions.
+
+
 <p>{@@images of people}</p>
