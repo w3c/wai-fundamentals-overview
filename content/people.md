@@ -24,11 +24,17 @@ footer: > # Text in footer in HTML
 
 ---
 
-... intro blurb - accessibility is about people , not about a checklist or about a law , about people using digital technology. accessibility standards are an important tool to get there - and the "there" is accessible to real people in the real world... accessibility is important aspect of diversity, equity, and inclusion (DEI) .... 
+{% include image.html src="signing-person.jpg" alt="" class="normal right" %}
 
-Many WAI resoures cover the technicial, business, and standards aspects of accessibility. The following WAI resources help you understand the **people** aspects:
+Accessibility is about ensuring that digital technology is usable by people with disabilities. Sometimes the focus on accessibility checklists, standards, or laws distracts from what accessibility is really about: people. Checklists, standards, and laws are important tools to help achieve accessibility &mdash; yet, the ultimate, fundamental goal is accessibility and usability to disabled **people**. Accessibility is important aspect of diversity, equity, and inclusion (DEI).
 
-[{% include image.html src="video.svg" alt="" style="height:1.3em" %}Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/)
+{% include image.html src="signing-person.jpg" alt="" class="normal right" %}
+
+Many WAI resoures cover the organizational, technical, and standards aspects of accessibility. The following WAI resources help you understand the **people** aspects:
+
+{% include image.html src="signing-person.jpg" alt="" class="normal right" %}
+
+[{% include image.html src="video.svg" alt="" style="height:1.3em" %} Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/)
 :   Videos that demonstrate that web accessibility is **_essential for people with disabilities and useful for all_**. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) is 7:37. Pages include supporting information.
 
 [[How People with Disabilities Use the Web]](/people-use-web/)
