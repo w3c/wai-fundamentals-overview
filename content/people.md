@@ -23,11 +23,19 @@ footer: > # Text in footer in HTML
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/groups/wg/eowg">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-guide">WAI-Guide project</a>, co-funded by the European Commission.</p>
   
 inline_css: |
-  img.tiny {--img-width:21px}
+  img.tiny {--img-height:1em}
 
 ---
 
-<p style="float:right">{@@images of people}</p>
+<div style="float:right; margin-left:1em;">
+{% include image.html src="still-dog-outside.png" alt="" class="mini" %}<br><br> 
+{% include image.html src="low-vision.png" alt="" class="mini" %}<br><br> 
+{% include image.html src="older-user-laptop.png" alt="" class="mini" %}<br><br>
+{% include image.html src="older-user-laptop.png" alt="" class="mini" %}<br><br>
+{% include image.html src="sip-puff.png" alt="" class="mini" %}<br><br> 
+{% include image.html src="hearing-aid.png" alt="" class="mini" %}<br><br> 
+{% include image.html src="low-vision-pizza.png" alt="" class="mini" %}
+</div>
 
 Accessibility is about ensuring that digital technology is usable by people with disabilities. Checklists, standards, and laws are important tools to help achieve accessibility — yet sometimes they get the focus instead of the fundamental goal of accessibility: meeting the needs of disabled people in the real world. Accessibility is an important aspect of diversity, equity, and inclusion (DEI).
 
@@ -40,7 +48,6 @@ Many WAI resources cover the organizational, technical, and standards aspects of
 :   Introduces how people with disabilities use the web. Describes tools and approaches that people with different kinds of disabilities use to browse the web and the barriers they encounter due to poor design.
     -   [{% include image.html src="video.svg" alt="video" class="tiny" %} Videos of How People with Disabilities Use the Web](/people-use-web/) video series showing stories of disabled people using the web; diverse abilities and barriers; and tools and techniques for using digital technology.
 
-<p style="float:right">{@@image of older person}</p>
 [[Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]](/older-users/)
 :   Explains that designing products that are easier for older people to use is similar to designing for people with disabilities. Guidance on how to make your websites, web applications, and web tools work better for older users is covered in existing international accessibility standards from the W3C, including Web Content Accessibility Guidelines (WCAG).
     -   [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies](https://www.w3.org/WAI/older-users/developing/)
