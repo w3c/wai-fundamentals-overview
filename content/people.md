@@ -21,6 +21,9 @@ footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated @@ December 2022.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/groups/wg/eowg">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-guide">WAI-Guide project</a>, co-funded by the European Commission.</p>
+  
+inline_css: |
+  img.tiny {--img-width:21px}
 
 ---
 
@@ -30,12 +33,12 @@ Accessibility is about ensuring that digital technology is usable by people with
 
 Many WAI resources cover the organizational, technical, and standards aspects of accessibility. The following WAI resources help you understand the **people** aspects:
 
-[{% include image.html src="video.svg" alt="video" %} {video icon} Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/)
+[{% include image.html src="video.svg" alt="video" class="tiny" %} Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/)
 :   Videos that demonstrate that web accessibility is **_essential for people with disabilities and useful for all_**. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) is 7:37. Pages include supporting information.
 
 [[How People with Disabilities Use the Web]](/people-use-web/)
 :   Introduces how people with disabilities use the web. Describes tools and approaches that people with different kinds of disabilities use to browse the web and the barriers they encounter due to poor design.
-    -   {% include image.html src="video.svg" alt="video" %} [{video icon} Videos of How People with Disabilities Use the Web](/people-use-web/) video series showing stories of disabled people using the web; diverse abilities and barriers; and tools and techniques for using digital technology.
+    -   [{% include image.html src="video.svg" alt="video" class="tiny" %} Videos of How People with Disabilities Use the Web](/people-use-web/) video series showing stories of disabled people using the web; diverse abilities and barriers; and tools and techniques for using digital technology.
 
 <p style="float:right">{@@image of older person}</p>
 [[Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]](/older-users/)
