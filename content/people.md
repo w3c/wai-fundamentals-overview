@@ -27,8 +27,9 @@ inline_css: |
 
 ---
 
+{% include image.html src="still-dog-outside.png" alt="" class="normal right" %}<br><br> 
+
 <div style="float:right; margin-left:1em;">
-{% include image.html src="still-dog-outside.png" alt="" class="small" %}<br><br> 
 {% include image.html src="two-smiling.png" alt="" class="mini" %}<br><br>
 {% include image.html src="low-vision.png" alt="" class="mini" %}<br><br>
 {% include image.html src="older-user-laptop.png" alt="" class="mini" %}<br><br>
@@ -61,4 +62,4 @@ Related resource:
 - **[[Involving Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/)** describes how project managers, designers, and developers can better understand accessibility issues and implement more effective accessibility solutions.
 
 
-{% include image.html src="banner with blur.png" alt="" %}
+{% include image.html src="banner-with-blur.png" alt="" %}
