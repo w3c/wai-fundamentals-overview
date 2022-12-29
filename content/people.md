@@ -33,12 +33,12 @@ Accessibility is about ensuring that digital technology is usable by people with
 Many WAI resources cover the organizational, technical, and standards aspects of accessibility. The following WAI resources help you understand the **people** aspects:
 
 <div style="float:right; margin-left:1em; clear:both;">
-{% include image.html src="two-smiling.png" alt="" class="mini" %}<br>
-{% include image.html src="low-vision.png" alt="" class="mini" %}<br>
-{% include image.html src="older-user-laptop.png" alt="" class="mini" %}<br>
-{% include image.html src="sip-puff.png" alt="" class="mini" %}<br>
-{% include image.html src="hearing-aid.png" alt="" class="mini" %}<br>
-{% include image.html src="low-vision-pizza.png" alt="" class="mini" %}<br>
+{% include image.html src="two-smiling.png" alt="" class="mini" %}
+{% include image.html src="low-vision.png" alt="" class="mini" %}
+{% include image.html src="older-user-laptop.png" alt="" class="mini" %}
+{% include image.html src="sip-puff.png" alt="" class="mini" %}
+{% include image.html src="hearing-aid.png" alt="" class="mini" %}
+{% include image.html src="low-vision-pizza.png" alt="" class="mini" %}
 {% include image.html src="mobile-outside.png" alt="" class="mini" %}
 </div>
 
@@ -60,5 +60,3 @@ Many WAI resources cover the organizational, technical, and standards aspects of
 
 Related resource:
 - **[[Involving Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/)** describes how project managers, designers, and developers can better understand accessibility issues and implement more effective accessibility solutions.
-
-{% include image.html src="banner-with-blur.png" alt="" %}
