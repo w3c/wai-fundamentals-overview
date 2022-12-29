@@ -30,17 +30,17 @@ inline_css: |
 
 Accessibility is about ensuring that digital technology is usable by people with disabilities. Checklists, standards, and laws are important tools to help achieve accessibility — yet sometimes they get the focus instead of the fundamental goal of accessibility: meeting the needs of disabled people in the real world. Accessibility is an important aspect of diversity, equity, and inclusion (DEI).
 
+Many WAI resources cover the organizational, technical, and standards aspects of accessibility. The following WAI resources help you understand the **people** aspects:
+
 <div style="float:right; margin-left:1em;">
 {% include image.html src="two-smiling.png" alt="" class="mini" %}<br><br>
 {% include image.html src="low-vision.png" alt="" class="mini" %}<br><br>
 {% include image.html src="older-user-laptop.png" alt="" class="mini" %}<br><br>
 {% include image.html src="sip-puff.png" alt="" class="mini" %}<br><br> 
 {% include image.html src="hearing-aid.png" alt="" class="mini" %}<br><br> 
-{% include image.html src="low-vision-pizza.png" alt="" class="mini" %}
-{% include image.html src="mobile-outside.png" alt="" class="mini" %}<br><br>
+{% include image.html src="low-vision-pizza.png" alt="" class="mini" %}<br><br>
+{% include image.html src="mobile-outside.png" alt="" class="mini" %}
 </div>
-
-Many WAI resources cover the organizational, technical, and standards aspects of accessibility. The following WAI resources help you understand the **people** aspects:
 
 [{% include image.html src="video.svg" alt="video" class="icon" %} Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/)
 :   Videos that demonstrate that web accessibility is **_essential for people with disabilities and useful for all_**. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) is 7:37. Pages include supporting information.
