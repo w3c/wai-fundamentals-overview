@@ -34,6 +34,9 @@ footer: >
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
+inline_css: |
+  img.icon {--img-width:1em}
+  
 ---
 
 The following resources provide information for getting started with accessibility:
