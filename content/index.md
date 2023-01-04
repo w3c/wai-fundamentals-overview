@@ -61,8 +61,8 @@ The following resources provide information for getting started with accessibili
 
 Digital Accessibility Courses
 :   Links to:
-    -   [[Digital Accessibility Foundations &mdash; Free Online Course]](/fundamentals/foundations-course/) - introduces a self-paced course on web accessibility from W3C WAI for technical and non-technical learners.
-    -   [[Course List of Digital Accessibility Education, Training, and Certification]](/courses/list/) - lists courses from different providers.
+    -   [[Digital Accessibility Foundations &mdash; Free Online Course]](/fundamentals/foundations-course/) - Introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. **Designed for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. Course is free with optional certificate.
+    -   [[Course List of Digital Accessibility Education, Training, and Certification]](/courses/list/) - Lists courses from different providers.
 
 A related page introduces existing guidelines and additional work on accessibility for people with cognitive and learning disabilities: [[Cognitive Accessibility at W3C]](/cognitive/).
 
