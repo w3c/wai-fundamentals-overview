@@ -28,7 +28,7 @@ inline_css: |
 
 {% include image.html src="still-dog-outside.png" alt="" class="normal right" %}
 
-Accessibility is about ensuring that digital technology is usable by people with disabilities. Checklists, standards, and laws are important tools to help achieve accessibility — yet sometimes they get the focus instead of the fundamental goal of accessibility: meeting the needs of disabled people in the real world. Accessibility is an important aspect of diversity, equity, and inclusion (DEI).
+Accessibility is about ensuring that digital technology is usable by people with disabilities. Checklists, standards, and laws are important tools to help achieve accessibility — yet sometimes they get the focus instead of the fundamental goal of accessibility: meeting the needs of disabled people in the real world. Accessibility is an important aspect of diversity, equity, and inclusion.
 
 Many WAI resources cover the organizational, technical, and standards aspects of accessibility. The following WAI resources help you understand the **people** aspects:
 
