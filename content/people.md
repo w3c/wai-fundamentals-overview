@@ -23,6 +23,7 @@ footer: > # Text in footer in HTML
   
 inline_css: |
   img.icon {--img-width:1em}
+  img.icon.onright {margin-left:0.5em}
 
 ---
 
@@ -42,20 +43,24 @@ Many WAI resources cover the organizational, technical, and standards aspects of
 {% include image.html src="mobile-outside.png" alt="" class="mini" %}
 </div>
 
-[{% include image.html src="video.svg" alt="video" class="icon" %} Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/)
+[Web Accessibility Perspectives{% include image.html src="video.svg" alt="video" class="icon onright" %} ](/perspective-videos/)
+
 :   Videos that demonstrate that web accessibility is **_essential for people with disabilities and useful for all_**. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) is 7:37. Pages include supporting information.
 
 [[How People with Disabilities Use the Web]](/people-use-web/)
+
 :   Introduces how people with disabilities use the web. Describes tools and approaches that people with different kinds of disabilities use to browse the web and the barriers they encounter due to poor design.
 <!--    -   [{% include image.html src="video.svg" alt="video" class="icon" %} Videos of How People with Disabilities Use the Web](/people-use-web/) video series showing stories of disabled people using the web; diverse abilities and barriers; and tools and techniques for using digital technology.
 -->
 
-[[Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]](/older-users/)
+[[Older Users and Web Accessibility]](/older-users/)
+
 :   Explains that designing products that are easier for older people to use is similar to designing for people with disabilities. Guidance on how to make your websites, web applications, and web tools work better for older users is covered in existing international accessibility standards from the W3C, including Web Content Accessibility Guidelines (WCAG).
     -   [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies](https://www.w3.org/WAI/older-users/developing/)
     -   [Web Accessibility for Older Users: A Literature Review](https://www.w3.org/WAI/older-users/literature/)
 
 [[Accessibility, Usability, and Inclusion]](/fundamentals/accessibility-usability-inclusion/)
+
 :   Explains the distinctions and overlaps between accessibility, usability, and inclusive design; encourages increased coordination across research and practice in these disciplines; and points out the importance of maintaining the focus of accessibility on people with disabilities.
 
 Related resource:
