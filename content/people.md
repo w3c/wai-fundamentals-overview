@@ -23,7 +23,6 @@ footer: > # Text in footer in HTML
   
 inline_css: |
   img.icon {--img-width:1em}
-  img.icon.onright {margin-left:7px}
 
 ---
 
