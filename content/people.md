@@ -52,8 +52,8 @@ Many WAI resources cover the organizational, technical, and standards aspects of
 
 [[Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]](/older-users/)
 :   Explains that designing products that are easier for older people to use is similar to designing for people with disabilities. Guidance on how to make your websites, web applications, and web tools work better for older users is covered in existing international accessibility standards from the W3C, including Web Content Accessibility Guidelines (WCAG).
-    -   [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies](/older-users/developing/)
-    -   [Web Accessibility for Older Users: A Literature Review](/older-users/literature/)
+    -   [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies](https://www.w3.org/WAI/older-users/developing/)
+    -   [Web Accessibility for Older Users: A Literature Review](https://www.w3.org/WAI/older-users/literature/)
 
 [[Accessibility, Usability, and Inclusion]](/fundamentals/accessibility-usability-inclusion/)
 :   Explains the distinctions and overlaps between accessibility, usability, and inclusive design; encourages increased coordination across research and practice in these disciplines; and points out the importance of maintaining the focus of accessibility on people with disabilities.
