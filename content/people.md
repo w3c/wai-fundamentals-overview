@@ -23,7 +23,6 @@ footer: > # Text in footer in HTML
   
 inline_css: |
   img.icon {--img-width:1em}
-  img.icon.onright {margin-left:7px}
 
 ---
 
@@ -43,12 +42,12 @@ Many WAI resources cover the organizational, technical, and standards aspects of
 {% include image.html src="mobile-outside.png" alt="" class="mini" %}
 </div>
 
-[Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/) ({% include image.html src="video.svg" alt="video" class="icon onright" %} 10 one-minute videos)
+[Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/) ({% include image.html src="video.svg" alt="video" class="icon" %} 10 one-minute videos)
 :   Videos that demonstrate that web accessibility is **_essential for people with disabilities and useful for all_**. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) is 7:37. Pages include supporting information.
 
 [[How People with Disabilities Use the Web]](/people-use-web/)
 :   Introduces how people with disabilities use the web. Describes tools and approaches that people with different kinds of disabilities use to browse the web and the barriers they encounter due to poor design.
-<!--    -   [Videos of How People with Disabilities Use the Web](/people-use-web/) ({% include image.html src="video.svg" class="icon onright" %} 18 short videos) show stories of disabled people using the web; diverse abilities and barriers; and tools and techniques for using digital technology.
+<!--    -   [Videos of How People with Disabilities Use the Web](/people-use-web/) ({% include image.html src="video.svg" class="icon" %} 18 short videos) show stories of disabled people using the web; diverse abilities and barriers; and tools and techniques for using digital technology.
 -->
 
 [[Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]](/older-users/)
