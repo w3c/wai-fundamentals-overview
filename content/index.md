@@ -6,7 +6,7 @@ title: "Accessibility Fundamentals Overview"
 nav_title: "Overview" 
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2021-05-13   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2023-01-23   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -30,39 +30,38 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Date:</strong> Updated 13 May 2021. CHANGELOG.</p>
+  <p><strong>Date:</strong> Updated 3 March 2023. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
+inline_css: |
+  img.icon {--img-width:1em}
+  
 ---
 
-The following resources provide information for getting started with accessibility:
+The following resources provide information for **getting started with accessibility**:
 
 [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/)
-:   Introduces web accessibility and links to additional resources.
-    -   [[Video Introduction to Web Accessibility and W3C Standards]](/videos/standards-and-benefits/) 4-minute video.
-
-[[Digital Accessibility Foundations &mdash; Free Online Course]](/fundamentals/foundations-course/)
-:   Introduces a self-paced course from W3C WAI for technical and non-technical learners.
+:   Introduces web accessibility and links to additional resources. Includes accessibility in context; why accessibility is important for individuals, businesses, society; making digital technology accessible; evaluating accessibility; and basic examples.
+    -   [Video Introduction to Web Accessibility and W3C Standards](/videos/standards-and-benefits/) 4-minutes {% include image.html src="video.svg" alt="" class="icon" %}
+    
+[[Accessibility: It's About People]](/people/)
+:   Explains the people aspect of accessibility and the role of accessibility in diversity, equality, and inclusion (DEI). Links to:
+    -   [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/) - videos that demonstrate that web accessibility is essential for people with disabilities and useful for all. Ten 1-minute videos, and a 7-minute compliation {% include image.html src="video.svg" alt="" class="icon" %}
+    -   [[How People with Disabilities Use the Web]](/people-use-web/)<!-- , [Videos of How People with Disabilities Use the Web](/people-use-web/) Eighteen 2+minute videos, and 3 compliations {% include image.html src="video.svg" alt="" class="icon" %} -->
+    -   [[Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]](/older-users/), [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies](https://www.w3.org/WAI/older-users/developing/), [Web Accessibility for Older Users: A Literature Review](https://www.w3.org/WAI/older-users/literature/)
+    -   [[Accessibility, Usability, and Inclusion]](/fundamentals/accessibility-usability-inclusion/)
 
 [[Essential Components of Web Accessibility]](/fundamentals/components/)
-:   Shows how web accessibility depends on several components of web development and interaction working together and shows the relationship between the WAI guidelines: Web Content Accessibility Guidelines ([WCAG](/standards-guidelines/wcag/)), Authoring Tool Accessibility Guidelines ([ATAG](/standards-guidelines/atag/)), and User Agent Accessibility Guidelines ([UAAG](/standards-guidelines/uaag/)).
+:   Shows how web accessibility depends on several components of web development and interaction working together and shows the relationship between the WAI guidelines and other standards.
 
 [[Accessibility Principles]](/fundamentals/accessibility-principles/)
-:   Helps developers, designers, and others to understand the principles  for creating accessible websites, web applications, browsers, and other web tools. Provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to [stories of web users](/people-use-web/user-stories/).
+:   A concise introduction to accessibility requirements for websites, apps, browsers, and other tools. It is organized similar to the WAI accessibility standards and provides a useful bridge to the standards. Read this page before reading the standards/guidelines.
 
-[[Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]](/perspective-videos/)
-:   **Videos** that demonstrate that web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) is 7:37. Pages include supporting information.
+Digital Accessibility Courses:
+:   -   [[Digital Accessibility Foundations &mdash; Free Online Course]](/fundamentals/foundations-course/) - Introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. **Designed for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. Course is free with optional certificate.
+    -   [[Course List of Digital Accessibility Education, Training, and Certification]](/courses/list/) - Lists courses from different providers.    
 
-[[How People with Disabilities Use the Web]](/people-use-web/)
-:   Introduces how people with disabilities use the web. Describes tools and approaches that people with different kinds of disabilities use to browse the web and the barriers they encounter due to poor design.
+Related page: [Get Resources for ...](https://www.w3.org/WAI/roles/) links to resources for designers, developers, testers, managers, and more.
 
-[[Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]](/older-users/)
-:   Explains that designing products that are easier for older people to use is similar to designing for people with disabilities. Guidance on how to make your websites, web applications, and web tools work better for older users is covered in existing international accessibility standards from the W3C, including Web Content Accessibility Guidelines (WCAG).
-    -   [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies](https://www.w3.org/WAI/older-users/developing/)
-    -   [Web Accessibility for Older Users: A Literature Review](https://www.w3.org/WAI/older-users/literature/)
-
-[[Accessibility, Usability, and Inclusion]](/fundamentals/accessibility-usability-inclusion/)
-:   Explains the distinctions and overlaps between accessibility, usability, and inclusive design; encourages increased coordination across research and practice in these disciplines; and points out the importance of maintaining the focus of accessibility on people with disabilities.
-
-A related page introduces existing guidelines and additional work on accessibility for people with cognitive and learning disabilities: [[Cognitive Accessibility at W3C]](/cognitive/).
+{% include image.html src="banner-with-blur.png" alt="" %}
