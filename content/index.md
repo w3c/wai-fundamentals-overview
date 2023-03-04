@@ -44,13 +44,13 @@ The following resources provide information for **getting started with accessibi
 
 [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/)
 :   Introduces web accessibility and links to additional resources. Includes accessibility in context; why accessibility is important for individuals, businesses, society; making digital technology accessible; evaluating accessibility; and basic examples.
-    -   [Video Introduction to Web Accessibility and W3C Standards](/videos/standards-and-benefits/) 4-minute ({% include image.html src="video.svg" alt="video" class="icon onright" %}
+    -   [Video Introduction to Web Accessibility and W3C Standards](/videos/standards-and-benefits/) 4-minute {% include image.html src="video.svg" alt="video" class="icon" %}
     
 [[Accessibility: It's About People]](/people/)
 :   Explains the people aspect of accessibility and the role of accessibility in diversity, equality, and inclusion (DEI). Links to:
-    -   [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/) - videos that demonstrate that web accessibility is essential for people with disabilities and useful for all. Ten 1-minute videos, or a 7-minute compliation ({% include image.html src="video.svg" alt="video" class="icon onright" %}
+    -   [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/) - videos that demonstrate that web accessibility is essential for people with disabilities and useful for all. Ten 1-minute videos, or a 7-minute compliation {% include image.html src="video.svg" alt="video" class="icon" %}
     -   [[How People with Disabilities Use the Web]](/people-use-web/)
-    -   [Videos of How People with Disabilities Use the Web](/people-use-web/) Eighteen 2+minute videos, or 3 compliation ({% include image.html src="video.svg" alt="video" class="icon onright" %}
+    -   [Videos of How People with Disabilities Use the Web](/people-use-web/) Eighteen 2+minute videos, or 3 compliations {% include image.html src="video.svg" alt="video" class="icon" %}
     -   [[Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]](/older-users/), [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies](https://www.w3.org/WAI/older-users/developing/), [Web Accessibility for Older Users: A Literature Review](https://www.w3.org/WAI/older-users/literature/)
     -   [[Accessibility, Usability, and Inclusion]](/fundamentals/accessibility-usability-inclusion/)
 
