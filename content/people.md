@@ -17,13 +17,13 @@ description: Videos, personas, and user stories of how people with disabilities 
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 6 January 2023.</p>
+  <p><strong>Date:</strong> Updated 3 March 2023.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/groups/wg/eowg">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-guide">WAI-Guide project</a>, co-funded by the European Commission.</p>
   
 inline_css: |
   img.icon {--img-width:1em}
-  img.icon.onright {margin-left:3px}
+  img.icon.onright {margin-left:7px}
 
 ---
 
@@ -43,12 +43,12 @@ Many WAI resources cover the organizational, technical, and standards aspects of
 {% include image.html src="mobile-outside.png" alt="" class="mini" %}
 </div>
 
-[Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/) ({% include image.html src="video.svg" alt="video" class="icon onright" %} 10 short videos)
-:   Videos that demonstrate that web accessibility is **_essential for people with disabilities and useful for all_**. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) is 7:37. Pages include supporting information.
+[Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/) 
+:   Videos that demonstrate that web accessibility is **_essential for people with disabilities and useful for all_**. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Pages include supporting information. Ten 1-minute videos, or a 7-minute [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) (% include image.html src="video.svg" alt="video" class="icon onright" %})
 
 [[How People with Disabilities Use the Web]](/people-use-web/)
 :   Introduces how people with disabilities use the web. Describes tools and approaches that people with different kinds of disabilities use to browse the web and the barriers they encounter due to poor design.
-<!--    -   [Videos of How People with Disabilities Use the Web](/people-use-web/) ({% include image.html src="video.svg" class="icon onright" %} 18 short videos) show stories of disabled people using the web; diverse abilities and barriers; and tools and techniques for using digital technology.
+    -   [Videos of How People with Disabilities Use the Web](/people-use-web/) show stories of disabled people using the web; diverse abilities and barriers; and tools and techniques for using digital technology. Eighteen 2+minute videos, or 3 compliation (% include image.html src="video.svg" alt="video" class="icon onright" %}
 
 [[Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]](/older-users/)
 :   Explains that designing products that are easier for older people to use is similar to designing for people with disabilities. Guidance on how to make your websites, web applications, and web tools work better for older users is covered in existing international accessibility standards from the W3C, including Web Content Accessibility Guidelines (WCAG).
