@@ -43,7 +43,7 @@ Many WAI resources cover the organizational, technical, and standards aspects of
 </div>
 
 [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](/perspective-videos/) 
-:   Videos that demonstrate that web accessibility is **_essential for people with disabilities and useful for all_**. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Pages include supporting information. Ten 1-minute videos, or a 7-minute [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) {% include image.html src="video.svg" alt="" class="icon" %}
+:   Videos that demonstrate that web accessibility is **_essential for people with disabilities and useful for all_**. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Pages include supporting information. Ten 1-minute videos, or a 7-minute compilation {% include image.html src="video.svg" alt="" class="icon" %}
 
 [[How People with Disabilities Use the Web]](/people-use-web/)
 :   Introduces how people with disabilities use the web. Describes tools and approaches that people with different kinds of disabilities use to browse the web and the barriers they encounter due to poor design.
