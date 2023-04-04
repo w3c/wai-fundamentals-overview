@@ -1,6 +1,6 @@
 ---
-title: "Accessibility: It's About People"
-nav_title: "Accessibility: It's About People"
+title: "Accessibility: It’s About People"
+nav_title: "Accessibility: It’s About People"
 
 permalink: /people/
 ref: /people/
