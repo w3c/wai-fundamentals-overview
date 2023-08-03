@@ -27,6 +27,8 @@ WAI continues to research and document user needs in several areas. These docume
 * provide information to developers on how to make their products more accessible
 * inform future standards
 
+W3C Working Group Notes:
+
 **MAUR** [**Media** Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/)
 :   Describes the needs of users with disabilities to be able to consume audio and video media on the web. A [MAUR updated Working Draft](http://w3c.github.io/apa/media-accessibility-reqs/) is in progress. (Learn more from the [MAUR blog post](https://www.w3.org/blog/2015/12/media-accessibility-user-requirements-is-a-w3c-note/).)
 
