@@ -47,7 +47,7 @@ Cross-disability user requirements for specific technologies, tools, situations:
 **CTAUR** [**Collaboration Tools** Accessibility User Requirements](https://www.w3.org/TR/ctaur/) Draft
 :   Describes user needs in tools that support for one or more specific collaborative features. These features include real-time editing of content by multiple authors, the use of comments or annotations, and revision control.
 
-**FAST** [Framework for Accessible Specification of Technologies (FAST)](https://w3c.github.io/apa/fast/)
+**FAST** [Framework for Accessible Specification of Technologies (FAST)](https://w3c.github.io/apa/fast/) Editors' Draft
 :   Advises creators of technical specifications how to ensure their technology meets the needs of users with disabilities. 
 
 Research on the needs of people with specific disabilities:
