@@ -23,7 +23,7 @@ footer: > # Text in footer in HTML
 
 ---
 
-WAI continues to research and document user needs in several areas. These documents:
+WAI continues to explore research and document user needs in several areas. These documents:
 * provide information to developers on how to make their products more accessible
 * inform future standards
 
