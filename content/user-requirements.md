@@ -19,7 +19,7 @@ feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
   <!-- <p><strong>Date:</strong> Updated 8 August 2023.</p> -->
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p>Developed with input from the Research Questions Task Force (<a href="https://www.w3.org/groups/tf/rqtf/">RQTF</a>) of the Accessible Platform Architectures Working Group (<a href="https://www.w3.org/groups/wg/apa/">APA</a>), and the Education and Outreach Working Group (<a href="https://www.w3.org/groups/wg/eowg/">EOWG</a>).</p>
 
 ---
 
