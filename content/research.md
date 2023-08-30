@@ -25,7 +25,7 @@ footer: > # Text in footer in HTML
 
 The following information related to digital accessibility research is available on the W3C Web Accessibility Initiative (WAI) website.
 
-[[Accessibility User Requirements]](/fundamentals/research/user-requirements/)
+[[Accessibility User Requirements]](/research/user-requirements/)
 :   Documentation of research on user needs for:
     -   Virtual or immersive environments (XR)
     -   Real-time communication (RTC)
@@ -34,7 +34,7 @@ The following information related to digital accessibility research is available
     -   Low vision accessibility
     -   Cognitive accessibility
 
-[[Artificial Intelligence (AI) and Accessibility Research Symposium January 2023]](/fundamentals/research/ai2023/)
+[[Artificial Intelligence (AI) and Accessibility Research Symposium January 2023]](/research/ai2023/)
 :   Summaries, transcripts, and video of the international symposium exploring the positive and negatives impact of artificial intelligence (AI) in digital accessibility.
 
 W3C WAI may provide additional research information in the future, for example, suggestions for accessibility research activities.
