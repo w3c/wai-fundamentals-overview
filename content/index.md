@@ -6,7 +6,7 @@ title: "Accessibility Fundamentals Overview"
 nav_title: "Overview" 
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2023-01-23   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2023-08-08   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -30,7 +30,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Date:</strong> Updated 3 March 2023. CHANGELOG.</p>
+  <p><strong>Date:</strong> Updated 8 August 2023. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -57,6 +57,10 @@ The following resources provide information for **getting started with accessibi
 
 [[Accessibility Principles]](/fundamentals/accessibility-principles/)
 :   A concise introduction to accessibility requirements for websites, apps, browsers, and other tools. It is organized similar to the WAI accessibility standards and provides a useful bridge to the standards. Read this page before reading the standards/guidelines.
+
+Research:
+:   -   [[Accessibility User Requirements]](/research/user-requirements/) - Documentation of research on user needs in virtual or immersive environments (XR), real-time communication (RTC), natural language interfaces, multimedia, low vision, cognitive accessibility, and more.
+    -   [[Artificial Intelligence (AI) and Accessibility Research Symposium January 2023]](/research/ai2023/) - Summaries, transcripts, and video of the international symposium exploring the positive and negatives impact of artificial intelligence (AI) in digital accessibility.
 
 Digital Accessibility Courses:
 :   -   [[Digital Accessibility Foundations &mdash; Free Online Course]](/fundamentals/foundations-course/) - Introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. **Designed for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. Course is free with optional certificate.
