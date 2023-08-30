@@ -34,7 +34,7 @@ The following information related to digital accessibility research is available
     -   Low vision accessibility
     -   Cognitive accessibility
 
-[[Artificial Intelligence (AI) and Accessibility Research Symposium January 2023]](/research/ai2023/)
+[[Artificial Intelligence (AI) and Accessibility Research Symposium 2023]](/research/ai2023/)
 :   Summaries, transcripts, and videos of the international symposium exploring the positive and negative impacts of artificial intelligence (AI) in digital accessibility.
 
 W3C WAI may provide additional research information in the future, for example, suggestions for accessibility research activities.
