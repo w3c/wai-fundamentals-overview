@@ -16,7 +16,7 @@ github:
 changelog: /fundamentals/changelog/
 feedbackmail: wai@w3.org
 # In the footer below, do not translate or change CHANGELOG
-footer: > # Text in footer in HTML
+footer: >
   <p><strong>Date :</strong> Mise à jour : 13 mai 2021. CHANGELOG.</p>
   <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Développé par le Groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
