@@ -195,9 +195,9 @@ Post-course [survey responses](https://www.surveymonkey.com/results/SM-VHHPL83R7
 ## Provided by
 <p style="float: right; font-size: 0.8125rem; padding:0; margin:0;">Shadi (W3C) and Natalia (UNESCO) introduce the course:</p><div style="clear: both;"></div>
 <div class="video-card">
-  {% include video-player.html
+  {% include video-player-data.html
+      video-id="foundations-course-teaser"
       yt-id="HEvDJrwq5LY"
-      captions="/content-images/wai-fundamentals-overview/foundations-course-teaser-cc.vtt|en|default"
   %}
   <p><em>(<a href="#alternatives">alternatives for video are below</a>)</em></p>
 </div>
