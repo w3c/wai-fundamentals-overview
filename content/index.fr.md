@@ -1,55 +1,72 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
+
 title: "Principes fondamentaux de l’accessibilité – Vue d’ensemble"
-permalink: /fundamentals/fr
-ref: /fundamentals/
+nav_title: "Vue d'ensemble"
 lang: fr
-last_updated: 2021-05-14
+last_updated: 2023-11-28
+
 translators:
-- name : "Sofia Ahmed"
-- name : "Victoria Menezes Miller"
+    - name : "Rémi Bétin"
+    - name : "Sofia Ahmed"
+    - name : "Victoria Menezes Miller"
 contributors:
-- name : "Rémi Bétin"
-- name : "Sandra Velarde Gonzalez (ETNIC)"
+    - name : "Sandra Velarde Gonzalez (ETNIC)"
+
 github:
-  repository: w3c/wai-fundamentals-overview
-  path: content/index.fr.md
-changelog: /fundamentals/changelog/
+    repository: w3c/wai-fundamentals-overview
+    path: content/index.fr.md
+
+permalink: /fundamentals/fr
+ref: /fundamentals/ # Do not change this
+
+changelog: /fundamentals/changelog/ # Do not change this
 feedbackmail: wai@w3.org
-# In the footer below, do not translate or change CHANGELOG
-footer: > # Text in footer in HTML
-  <p><strong>Date :</strong> Mise à jour : 13 mai 2021. CHANGELOG.</p>
+
+# In the footer below:
+# Do not change the dates
+# Do not translate CHANGELOG
+# Translate the other words, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+footer: >
+  <p><strong>Date :</strong> Mise à jour : 8 août 2023. CHANGELOG.</p>
   <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Développé par le Groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
+inline_css: |
+    img.icon {--img-width:1em}
+
 ---
 
-Les ressources suivantes fournissent des informations pour débuter en accessibilité :
+Les ressources suivantes fournissent des informations pour **débuter en accessibilité** :
 
-[[Introduction à l'accessibilité Web]](/fundamentals/accessibility-intro/)
-:   Introduit à l'accessibilité Web et renvoie à des ressources supplémentaires.
-    -   [[Vidéo : introduction à l'accessibilité Web et aux standards du W3C (4 minutes)]](/videos/standards-and-benefits/).
+[[Introduction à l'accessibilité du Web]](/fundamentals/accessibility-intro/)
+:   Présente l'accessibilité du Web et renvoie à des ressources supplémentaires. Informe notamment sur l'accessibilité dans son contexte ; pourquoi l'accessibilité est importante pour les particuliers, les entreprises et la société ; rendre les technologies numériques accessibles ; évaluer l'accessibilité ; et inclut des exemples élémentaires.
+    - [Vidéo : Introduction à l'accessibilité du Web et aux standards du W3C](/videos/standards-and-benefits/) 4 minutes {% include image.html src="video.svg" alt="" class="icon" %}.
 
-[[Fondations de l'accessibilité numérique – Cours en ligne gratuit]](/fundamentals/foundations-course/)
-:   Présente un cours W3C WAI à son propre rythme pour les apprenants techniques et non techniques.
 
-[[Éléments essentiels de l'accessibilité Web]](/fundamentals/components/)
-:   Montre comment l'accessibilité Web dépend de l'association entre les nombreuses composantes du développement Web et de l'interaction utilisateur, et le lien entre les différentes règles de la WAI : les Règles pour l'accessibilité des contenus Web ([WCAG](/standards-guidelines/wcag/), les Règles d'accessibilité pour les outils d'édition ([ATAG](/standards-guidelines/atag/) et les Règles pour l’accessibilité des agents utilisateurs ([UAAG](/standards-guidelines/uaag/).  
+[[L'accessibilité, ça concerne des personnes réelles]](/people/)
+:   Explique l'aspect humain de l'accessibilité et le rôle de l'accessibilité dans la diversité, l'équité et l'inclusion (DEI). Renvoie aux ressources suivantes :
+-   [L'accessibilité Web illustrée : explorez ses effets et ses bénéfices pour tous](/perspective-videos/) &ndash; vidéos qui montrent que l'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Dix vidéos d'1 minute, et une compilation de 7 minutes. {% include image.html src="video.svg" alt="" class="icon" %}
+-   [[Comment les personnes handicapées utilisent le Web]](/people-use-web/)<!-- , [Videos of How People with Disabilities Use the Web](/people-use-web/) Eighteen 2+minute videos, and 3 compliations {% include image.html src="video.svg" alt="" class="icon" %} -->
+-   [Les personnes âgées et l'accessibilité du Web](/older-users/)
+-   [[Accessibilité, utilisabilité et inclusion]](/fundamentals/accessibility-usability-inclusion/)
+
+[[Composantes essentielles de l'accessibilité du Web]](/fundamentals/components/)
+:   Montre comment l'accessibilité du Web dépend de l'association entre de nombreuses composantes du développement Web et de l'interaction utilisateur, et présente le lien entre les règles de WAI et d'autres standards.
 
 [[Principes d'accessibilité]](/fundamentals/accessibility-principles/)
-:   Aide les développeurs, les designers, et tout autre intervenant à comprendre les principes pour créer des sites et des applications Web, des navigateurs, et d'autres outils accessibles. Fournit des liens vers les standards internationaux de l'Initiative pour l'accessibilité du Web (WAI) du W3C et vers une page dédiée aux [témoignages d'utilisateurs du Web](/people-use-web/user-stories/).
+:   Une courte introduction aux exigences d'accessibilité pour les sites Web, les applications, les navigateurs et d'autres outils. Elle est organisée de manière similaire aux standards d'accessibilité de WAI et constitue une transition utile vers les standards. Lisez cette page avant de lire les standards/règles.
 
-[[L'accessibilité Web illustrée : explorer l'impact et les bénéfices pour tous]](/perspective-videos/)
-:   **Vidéos** démontrant le caractère essentiel de l'accessibilité Web pour les personnes en situation de handicap et son utilité pour tous. Découvrez l'impact de l'accessibilité et les bénéfices pour tous dans diverses situations. Chaque vidéo dure environ 1 minute et la [compilation](https://www.youtube.com/watch?v=3f31oufqFSM) dure 7 min 37 s. Chaque page contient des informations supplémentaires.
+Recherche :
+:   -   [[Exigences des utilisateurs pour l'accessibilité]](/research/user-requirements/) - Documentation de la recherche sur les besoins des utilisateurs dans des environnements virtuels ou immersifs (<abbr lang="en" title="eXtended Reality">XR</abbr>), la communication en temps réel (<abbr lang="en" title="Real-time communication">RTC</abbr>), les interfaces en langage naturel, le multimédia, la basse vision, l'accessibilité cognitive, et plus encore.
+-   [[Symposium de recherche 2023 sur l'intelligence artificielle (IA) et l'accessibilité]](/research/ai2023/) - Synthèses, transcriptions et vidéos du symposium international explorant les impacts positifs et négatifs de l'intelligence artificielle (IA) dans l'accessibilité numérique.
 
-[[Comment les personnes en situation de handicap utilisent le Web]](/people-use-web/)
-:   Introduit comment les personnes en situation de handicap utilisent le Web. Décrit les outils et les approches que les personnes ayant différents types de handicaps utilisent pour naviguer sur le Web et les obstacles qu'elles rencontrent en raison d'une mauvaise conception.
+Cours sur l'accessibilité numérique :
+:   -   [[Fondations de l'accessibilité numérique – Cours en ligne gratuit]](/fundamentals/foundations-course/) - Présente un cours créé par W3C WAI pour les développeurs, les designers, les UX, les rédacteurs, les responsables et les promoteurs, qui peut être suivi à son propre rythme. **Conçu pour des apprenants techniques et non-techniques**, notamment les étudiants, les instructeurs, les professionnels et les personnes en situation de handicap. Le cours est gratuit, avec une option payante pour obtenir un certificat.
+-   [[Liste de cours d'éducation, de formation et de certification sur l'accessibilité numérique]](/courses/list/) - Liste des courses de différents fournisseurs.
 
-[[Utilisateurs plus âgés et accessibilité Web : répondre aux besoins des utilisateurs Web plus âgés]](/older-users/)
-:   Explique que la création de produits plus faciles à utiliser pour les personnes âgées est similaire à la création des produits pour les personnes en situation de handicap. Des conseils sur la façon d'améliorer le fonctionnement de vos sites Web, applications Web et outils Web pour les utilisateurs plus âgés sont couverts dans les standards internationaux existants d’accessibilité du W3C, y compris les Règles pour l'accessibilité du contenu Web (WCAG).
-    -   [Développer des sites Web pour les personnes âgées : comment les Règles pour l'accessibilité des contenus Web (WCAG) 2.0 s'appliquent](https://www.w3.org/WAI/older-users/developing/)
-    -   [L'Accessibilité Web pour les utilisateurs plus âgés: une revue de la littérature](https://www.w3.org/WAI/older-users/literature/)
+La page associée [[Obtenir des ressources pour…]](/roles/) renvoie à des ressources pour les designers, les développeurs, les testeurs, les responsables, et plus encore.
 
-[[Accessibilité, utilisabilité, et inclusion]](/fundamentals/accessibility-usability-inclusion/)
-:   Explique les différences et les similitudes entre l'accessibilité, l'utilisabilité, et le design inclusif ; encourage une coordination accrue entre les recherches et la pratique de ces disciplines ; et souligne l'importance de garder les personnes en situation de handicap au cœur du processus d'accessibilité.
-
-Une page connexe introduit les recommandations existantes et les travaux supplémentaires sur l'accessibilité pour les personnes souffrant de troubles cognitifs et d'apprentissage. [Accessibilité cognitive au W3C](https://www.w3.org/WAI/cognitive/).
+{% include image.html src="banner-with-blur.png" alt="" %}
