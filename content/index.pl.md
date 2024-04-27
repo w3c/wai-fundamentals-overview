@@ -49,7 +49,7 @@ Poniższe materiały zawierają informacje ułatwiające **rozpoczęcie pracy z 
     -   [[Dostępność, użyteczność i integracja]](/fundamentals/accessibility-usability-inclusion/)
 
 [Podstawowe komponenty dostępności internetowej](/fundamentals/components/)
-:   Przedstawia, w jaki sposób dostępność internetowa zależy kilku współpracujących ze sobą komponentów tworzenia treści i interakcji oraz pokazuje związek między wytycznymi WAI a innymi standardami.
+:   Przedstawia zależność dostępności internetowej od kilku współpracujących ze sobą komponentów tworzenia treści i interakcji oraz pokazuje związek między wytycznymi WAI a innymi standardami.
 
 [[Zasady dostępności]](/fundamentals/accessibility-principles/)
 :   Zwięzłe wprowadzenie do wymagań dostępności dla stron internetowych, aplikacji, przeglądarek i innych narzędzi. Ma podobną strukturę do standardów dostępności WAI i stanowi użyteczne do nich wprowadzenie. Przeczytaj tę stronę przed zapoznaniem się ze standardami/wytycznymi.
