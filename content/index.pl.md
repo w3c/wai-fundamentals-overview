@@ -44,7 +44,7 @@ Poniższe materiały zawierają informacje ułatwiające **rozpoczęcie pracy z 
 [[Dostępność: Chodzi o ludzi]](/people/)
 :   Przedstawia ludzki wymiar dostępności i rolę dostępności w różnorodności, równości i włączeniu. Łącza do:
     -   [Perspektywy dostępności internetowej: Poznaj wpływ i korzyści dla wszystkich](/perspective-videos/) - filmy pokazujące, że dostępność internetowa jest niezbędna dla osób z niepełnosprawnościami i użyteczna dla wszystkich. Dziesięć 1-minutowych filmów i 7-minutowa kompilacja {% include image.html src="video.svg" alt="" class="icon" %}
-    -   [[Jak osoby z niepełnosprawnością korzystają z Internetu]](/people-use-web/)<!-- , [Filmy pokazujące, jak osoby z niepełnosprawnością korzystają z Internetu](/people-use-web/) Osiemnaście ponad 2-minutowych filmów i 3 kompilacje {% include image.html src="video.svg" alt="" class="icon" %} -->
+   -   [[Jak osoby z niepełnosprawnością korzystają z Internetu]](/people-use-web/)<!-- , [Filmy demonstrujące korzystanie z Internetu przez osoby niepoełnosprawne](/people-use-web/) Osiemnaście ponad dwuminutowych filmów i 3 kompilacje {% include image.html src="video.svg" alt="" class="icon" %} -->
     -   [Starsi użytkownicy i dostępność Internetu](/older-users/) 
     -   [[Dostępność, użyteczność i integracja]](/fundamentals/accessibility-usability-inclusion/)
 
