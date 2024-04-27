@@ -52,7 +52,7 @@ Poniższe materiały zawierają informacje ułatwiające **rozpoczęcie pracy z 
 :   Przedstawia, w jaki sposób dostępność internetowa zależy kilku współpracujących ze sobą komponentów tworzenia treści i interakcji oraz pokazuje związek między wytycznymi WAI a innymi standardami.
 
 [[Zasady dostępności]](/fundamentals/accessibility-principles/)
-:   Zwięzłe wprowadzenie do wymagań dostępności dla stron internetowych, aplikacji, przeglądarek i innych narzędzi. Jest zorganizowana podobnie, jak standardów dostępności WAI, i stanowi użyteczny pomost do standardów. Przeczytaj tę stronę przed zapoznaniem się ze standardami/wytycznymi.
+:   Zwięzłe wprowadzenie do wymagań dostępności dla stron internetowych, aplikacji, przeglądarek i innych narzędzi. Ma podobną strukturę do standardów dostępności WAI i stanowi użyteczne do nich wprowadzenie. Przeczytaj tę stronę przed zapoznaniem się ze standardami/wytycznymi.
 
 Badania:
 :   -   [[Cyfrowa dostępność dla użytkowników]](/research/user-requirements/) - Dokumentacja badań nad potrzebami użytkowników dotyczących środowisk wirtualnych lub immersyjnych (XR), komunikacji w czasie rzeczywistym (RTC), interakcji w języku naturalnym, multimediów, użytkowników: o słabym wzroku, dostępności poznawczej i innych.
