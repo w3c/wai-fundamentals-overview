@@ -38,7 +38,7 @@ inline_css: |
 Poniższe materiały zawierają informacje ułatwiające **rozpoczęcie pracy z dostępnością**:
 
 [[Wprowadzenie do dostępności internetowej]](/fundamentals/accessibility-intro/)
-:   Przedstawia dostępność internetową i łącza do dodatkowych materiałów. Obejmuje dostępność w kontekście; dlaczego dostępność jest ważna dla osób indywidualnych, firm i społeczeństwa; udostępnianie technologii cyfrowej; ocenę dostępności; i  proste przykłady.
+:   Przedstawia dostępność internetową oraz łącza do dodatkowych materiałów. Obejmuje dostępność w kontekście jej znaczenia dla zwykłych ludzi, firm i społeczeństwa; dostępu do technologii cyfrowej, oceny dostępności oraz proste przykłady.
     -   [Film Wprowadzenie do dostępności internetowej i standardów W3C](/videos/standards-and-benefits/) 4 minuty {% include image.html src="video.svg" alt="" class="icon" %}
 
 [[Dostępność: Chodzi o ludzi]](/people/)
