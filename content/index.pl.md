@@ -55,7 +55,7 @@ Poniższe materiały zawierają informacje ułatwiające **rozpoczęcie pracy z 
 :   Zwięzłe wprowadzenie do wymagań dostępności dla stron internetowych, aplikacji, przeglądarek i innych narzędzi. Jest zorganizowana podobnie, jak standardów dostępności WAI, i stanowi użyteczny pomost do standardów. Przeczytaj tę stronę przed zapoznaniem się ze standardami/wytycznymi.
 
 Badania:
-:   -   [[Wymagania użytkowników dotyczące dostępności]](/research/user-requirements/) - Dokumentacja badań nad potrzebami użytkowników w środowiskach wirtualnych lub immersyjnych (XR), komunikacji w czasie rzeczywistym (RTC), interfejsach języka naturalnego, multimediach, słabym wzroku, dostępności poznawczej i innych.
+:   -   [[Cyfrowa dostępność dla użytkowników]](/research/user-requirements/) - Dokumentacja badań nad potrzebami użytkowników dotyczących środowisk wirtualnych lub immersyjnych (XR), komunikacji w czasie rzeczywistym (RTC), interakcji w języku naturalnym, multimediów, użytkowników: o słabym wzroku, dostępności poznawczej i innych.
     -   [[Sympozjum dotyczące badań nad sztuczną inteligencją (AI) i dostępnością 2023]](/research/ai2023/) - Streszczenia, transkrypcje i filmy z międzynarodowego sympozjum poświęconego pozytywnym i negatywnym skutkom sztucznej inteligencji (AI) na dostępność cyfrową.
 
 Kursy dostępności cyfrowej:
