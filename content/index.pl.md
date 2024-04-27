@@ -56,7 +56,7 @@ Poniższe materiały zawierają informacje ułatwiające **rozpoczęcie pracy z 
 
 Badania:
 :   -   [[Cyfrowa dostępność dla użytkowników]](/research/user-requirements/) - Dokumentacja badań nad potrzebami użytkowników dotyczących środowisk wirtualnych lub immersyjnych (XR), komunikacji w czasie rzeczywistym (RTC), interakcji w języku naturalnym, multimediów, użytkowników: o słabym wzroku, dostępności poznawczej i innych.
-    -   [[Sympozjum dotyczące badań nad sztuczną inteligencją (AI) i dostępnością 2023]](/research/ai2023/) - Streszczenia, transkrypcje i filmy z międzynarodowego sympozjum poświęconego pozytywnym i negatywnym skutkom sztucznej inteligencji (AI) na dostępność cyfrową.
+    -   [[Sympozjum dotyczące badań nad dostępnością i sztuczną inteligencją (AI)  2023]](/research/ai2023/) - Streszczenia, transkrypcje i filmy z międzynarodowego sympozjum poświęconego pozytywnym i negatywnym skutkom sztucznej inteligencji (AI) na dostępność cyfrową.
 
 Kursy dostępności cyfrowej:
 :   -   [[Podstawy dostępności cyfrowej &mdash;  bezpłatny kurs internetowy]](/fundamentals/foundations-course/) - Przedstawia kurs opracowany przez W3C WAI dla programistów, projektantów, UX, autorów, menedżerów, rzeczników, do zrealizowania we własnym tempie. **Zaprojektowany dla osób z umysłem technicznym i nietechnicznym**, w tym studentów, instruktorów, specjalistów i osób z niepełnosprawnością. Kurs jest bezpłatny z opcjonalnym certyfikatem.
