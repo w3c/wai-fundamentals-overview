@@ -59,7 +59,7 @@ Badania:
     -   [[Sympozjum dotyczące badań nad sztuczną inteligencją (AI) i dostępnością 2023]](/research/ai2023/) - Streszczenia, transkrypcje i filmy z międzynarodowego sympozjum poświęconego pozytywnym i negatywnym skutkom sztucznej inteligencji (AI) na dostępność cyfrową.
 
 Kursy dostępności cyfrowej:
-:   -   [[Podstawy dostępności cyfrowej &mdash;  bezpłatny kurs internetowy]](/fundamentals/foundations-course/) - Przedstawia kurs we własnym tempie opracowany przez W3C WAI dla programistów, projektantów, UX, autorów, menedżerów, rzeczników. **Zaprojektowany dla osób z wykształceniem technicznym i nietechnicznym**, w tym studentów, instruktorów, specjalistów i osób z niepełnosprawnością. Kurs jest bezpłatny z opcjonalnym certyfikatem.
+:   -   [[Podstawy dostępności cyfrowej &mdash;  bezpłatny kurs internetowy]](/fundamentals/foundations-course/) - Przedstawia kurs opracowany przez W3C WAI dla programistów, projektantów, UX, autorów, menedżerów, rzeczników, do zrealizowania we własnym tempie. **Zaprojektowany dla osób z umysłem technicznym i nietechnicznym**, w tym studentów, instruktorów, specjalistów i osób z niepełnosprawnością. Kurs jest bezpłatny z opcjonalnym certyfikatem.
     -   [[Lista kursów z zakresu edukacji, szkoleń i certyfikacji w zakresie dostępności cyfrowej]](/courses/list/) - zawiera listę kursów od różnych dostawców.    
 
 Powiązana strona: [Uzyskaj materiały dla…](https://www.w3.org/WAI/roles/) łącza do materiałów dla projektantów, programistów, testerów, menedżerów i nie tylko.
