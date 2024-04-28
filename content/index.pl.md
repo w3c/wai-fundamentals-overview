@@ -41,7 +41,7 @@ Poniższe materiały zawierają informacje ułatwiające **rozpoczęcie pracy z 
 :   Przedstawia dostępność internetową oraz łącza do dodatkowych materiałów. Obejmuje dostępność w kontekście jej znaczenia dla zwykłych ludzi, firm i społeczeństwa; dostępu do technologii cyfrowej, oceny dostępności oraz proste przykłady.
     -   [Film Wprowadzenie do dostępności internetowej i standardów W3C](/videos/standards-and-benefits/) 4 minuty {% include image.html src="video.svg" alt="" class="icon" %}
 
-[[Dostępność: Chodzi o ludzi]](/people/)
+[[Dostępność jest dla ludzi]](/people/)
 :   Przedstawia ludzki wymiar dostępności i rolę dostępności w różnorodności, równości i włączeniu. Łącza do:
     -   [Walory dostępności internetowej: Poznaj wpływ i korzyści dla wszystkich](/perspective-videos/) - filmy pokazujące niezbędność dostępności internetowej dla osób z niepełnosprawnościami oraz jej użyteczność dla wszystkich. Dziesięć jednominutowych filmów i siedmiominutowa kompilacja {% include image.html src="video.svg" alt="" class="icon" %}
    -   [[Jak osoby z niepełnosprawnością korzystają z Internetu]](/people-use-web/)<!-- , [Filmy demonstrujące korzystanie z Internetu przez osoby niepoełnosprawne](/people-use-web/) Osiemnaście ponad dwuminutowych filmów i 3 kompilacje {% include image.html src="video.svg" alt="" class="icon" %} -->
