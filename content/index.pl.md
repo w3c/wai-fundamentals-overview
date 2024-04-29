@@ -6,10 +6,12 @@ title: "Omówienie podstaw dostępności"
 nav_title: "Omówienie" 
 
 lang: pl   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2024-04-05   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-04-27   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 translators:
  - name: "Stefan Wajda" 
+ contributors:
+    - name : "Michał Sobkowiak"
 
 github:
   repository: w3c/wai-fundamentals-overview
