@@ -10,7 +10,7 @@ last_updated: 2024-04-27   # Put the date of this translation YYYY-MM-DD (with m
 
 translators:
  - name: "Stefan Wajda" 
- contributors:
+contributors:
     - name : "Michał Sobkowiak"
 
 github:
